@@ -89,7 +89,7 @@ flowchart TD
 | Cu termometrul | Cu Labdisc |
 |---|---|
 | 3 valori citite pe termometru | o curbă în timp real |
-| elevul citește și notează | elevul are timp să gândească asupra datelor |
+| elevul citește valorile una câte una | elevul are timp să gândească asupra datelor |
 
 > [!question] Întrebarea formatorului
 > „Senzorul nu face experimentul în locul elevului. Îi dă timp să gândească asupra datelor.”

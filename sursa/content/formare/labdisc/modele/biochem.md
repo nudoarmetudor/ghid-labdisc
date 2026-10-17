@@ -73,3 +73,35 @@ Susține studiul conceptelor-cheie precum:
 ---
 
 *Text preluat din ghidul de utilizare a dispozitivului Labdisc Globisens și a aplicației GlobiLab, de Victoria Calistru, CNIDE „Clasa Viitorului”. Fotografiile aparatului, capturile de ecran din GlobiLab și schemele preluate din alte manuale aparțin titularilor lor și nu intră sub licența ghidului.*
+
+## Verificați-vă (adăugat de autorii ghidului)
+
+*Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe textul și tabelele de mai sus.*
+
+Senzorii de chimie și biologie ai modelului BioChem, pe cartonașe.
+
+```cartonase
+Conductivitate :: Măsoară conductivitatea soluțiilor (0 – 20 mS), cu electrodul de conductivitate.
+Turbiditate :: Măsoară cât de tulbure e apa (0 – 1000 NTU), cu setul de cuve.
+Colorimetru :: Măsoară transmitanța luminii în roșu, verde și albastru, cu setul de cuve.
+Oxigen dizolvat :: Măsoară oxigenul dizolvat în apă (0 – 14 mg/l), cu electrodul de oxigen dizolvat.
+Termocuplu :: Măsoară temperaturi între -200 °C și 1200 °C, cu sonda termocuplu vârf K.
+Ritm cardiac :: Măsoară pulsul (0 – 200 bpm), cu clema pentru ureche.
+```
+
+```quiz
+? Vreți să măsurați temperatura unei flăcări. Ce senzor folosiți?
++ Termocuplul | Merge până la 1200 °C.
+- Sonda de temperatură externă | Domeniul ei se oprește la 125 °C.
+- Temperatura ambientală | Măsoară aerul din jur, între -10 °C și 50 °C.
+
+? Ce accesoriu vă trebuie pentru turbiditatea apei?
++ Setul de cuve | Proba de apă se pune în cuvă; același set servește și colorimetrului.
+- Electrodul de pH | Electrodul de pH măsoară aciditatea, nu turbiditatea.
+- Tubul de plastic | Tubul servește senzorului de presiune a aerului.
+
+? Câte valori poate păstra BioChem în memorie, după descriere?
++ Până la 1.000.000 de probe | Descrierea modelului dă această capacitate, alături de o autonomie de până la 150 de ore.
+- Până la 127 de probe | 127 este numărul maxim de experimente din bara de stare GlobiLab, nu de probe.
+- Până la 12 probe | 12 biți este rezoluția măsurătorilor, nu capacitatea memoriei.
+```

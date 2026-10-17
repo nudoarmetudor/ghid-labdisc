@@ -210,3 +210,49 @@ Aceasta se efectuează dupa conectarea dispozitivului prin Bluetooth sau cablu U
 ---
 
 *Text preluat din ghidul de utilizare a dispozitivului Labdisc Globisens și a aplicației GlobiLab, de Victoria Calistru, CNIDE „Clasa Viitorului”. Fotografiile aparatului, capturile de ecran din GlobiLab și schemele preluate din alte manuale aparțin titularilor lor și nu intră sub licența ghidului.*
+
+## Verificați-vă (adăugat de autorii ghidului)
+
+*Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe textul de mai sus.*
+
+Porturile și intrările discului, pe cartonașe.
+
+```cartonase
+Port USB :: Legătura directă cu calculatorul, pentru transferul datelor și comunicarea cu GlobiLab.
+Port pentru încărcare :: Situat lateral; devine accesibil prin rotirea inelului. Aici se conectează adaptorul de 6 V.
+Intrarea pentru sonda de temperatură :: Pentru sonda de temperatură externă.
+Intrarea pentru pH și oxigen dizolvat :: Pentru electrozii de pH și de oxigen dizolvat.
+Intrarea universală :: Pentru senzori analogici compatibili.
+```
+
+Pașii configurării unei înregistrări, după secțiunea 1.6.2. Puneți-i în ordine.
+
+```ordine
+titlu: Ordonați pașii configurării pentru o înregistrare
+Selectați senzorii care vor fi utilizați
+Stabiliți rata de eșantionare, după cât de repede se schimbă fenomenul
+Definiți numărul de eșantioane, care dă durata înregistrării
+Confirmați setările ca să porniți colectarea datelor
+```
+
+```quiz
+? Câte taste are Labdisc și cum se împart?
++ 10: 7 de selecție a senzorilor și 3 de control | Așa sunt descrise în secțiunea 1.2.1.
+- 7, toate pentru senzori | Cele 7 sunt doar tastele de selecție a senzorilor; mai sunt 3 de control.
+- 3, toate de control | Tastele de control sunt 3, dar există și 7 taste pentru senzori.
+
+? Bluetooth-ul nu e activat pe disc. Ce se întâmplă?
++ Discul nu poate comunica cu aplicația, de exemplu cu GlobiLab | Ghidul o spune explicit în secțiunea 1.6.1. Soluția: activați Bluetooth-ul din configurare sau folosiți cablul USB.
+- Discul măsoară, dar nu afișează valorile pe ecran | Ecranul discului funcționează și fără Bluetooth.
+- Discul nu pornește | Bluetooth-ul ține de comunicare, nu de pornire.
+
+? Ce senzor are fiecare dintre cele patru modele, după tabelul 1.1?
++ Temperatura ambientală | Este bifată la GenSci, Enviro, Physio și BioChem.
+- Accelerometrul | În tabel e bifat doar la Physio.
+- Radiația UV | În tabel e bifată doar la Enviro.
+
+? Faceți o lecție de laborator, cu transfer sigur al datelor. Ce conexiune recomandă ghidul?
++ USB | E descrisă ca stabilă și rapidă, recomandată pentru sesiuni de laborator controlate.
+- Bluetooth | E recomandată pentru teren și experimente mobile.
+- Niciuna, datele se citesc doar de pe ecran | Pe ecran vedeți valoarea curentă; graficul și analiza cer transferul în aplicație.
+```

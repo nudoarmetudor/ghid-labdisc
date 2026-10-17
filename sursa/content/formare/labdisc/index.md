@@ -29,3 +29,29 @@ Dispozitivele Globisens pot fi integrate eficient în cadrul lecțiilor, activit
 ---
 
 *Text preluat din ghidul de utilizare a dispozitivului Labdisc Globisens și a aplicației GlobiLab, de Victoria Calistru, CNIDE „Clasa Viitorului”. Fotografiile aparatului, capturile de ecran din GlobiLab și schemele preluate din alte manuale aparțin titularilor lor și nu intră sub licența ghidului.*
+
+## Verificați-vă (adăugat de autorii ghidului)
+
+*Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe textul de mai sus.*
+
+Întoarceți cartonașele: spuneți-vă întâi explicația, apoi verificați.
+
+```cartonase
+Data logger :: Aparat care colectează și înregistrează date experimentale cu senzori. Globisens și Labdisc sunt de acest tip.
+Învățarea bazată pe investigație :: Elevii construiesc cunoștințe prin explorare directă, ipoteze, măsurători și interpretarea rezultatelor.
+STEAM :: Știință, Tehnologie, Inginerie, Arte și Matematică, lucrate împreună în activități interdisciplinare.
+PBL :: Învățare bazată pe probleme și proiecte: datele experimentale intră în investigații, proiecte și situații reale.
+Mobilitate :: Designul portabil permite măsurători în laborator și în activități de teren.
+```
+
+```quiz
+? După text, ce fac elevii cu datele colectate cu Labdisc, dincolo de observarea fenomenului?
++ Le analizează critic și le folosesc pentru explicații științifice sau soluții practice | Textul spune că elevii nu se limitează la observare.
+- Le păstrează pentru evaluare, fără să le interpreteze | Textul pune accent pe analiză și explicație, nu doar pe colectare.
+- Le trimit profesorului, care le interpretează | Interpretarea o fac elevii; asta dezvoltă gândirea științifică.
+
+? La ce discipline se pot face experimente cu Labdisc, după lista de avantaje?
++ Fizică, chimie, biologie și științe ale mediului | Avantajul „Învățare activă și interdisciplinară” le numește pe toate patru.
+- Doar fizică | Lista numește patru domenii, iar modelele Labdisc acoperă fiecare dintre ele.
+- Doar în laborator, la orice disciplină | Textul spune explicit că designul portabil permite și activități de teren.
+```

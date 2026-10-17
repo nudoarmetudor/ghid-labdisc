@@ -46,7 +46,7 @@ Exemplul care trece prin toți pașii vine din [[la-clasa/anexe/banca-de-intreba
 - **Labdisc** se configurează: senzorii, rata de eșantionare, numărul de măsurători.
 
 > [!example] În exemplu
-> Două pahare cu aceeași cantitate de apă, turnată din același ceainic, câte o sondă de temperatură externă în fiecare. O valoare pe secundă, 10 minute. Calculatorul de durată e în [[la-clasa/implementare/organizarea-lectiei|Organizarea lecției]].
+> Două pahare cu aceeași cantitate de apă, turnată din același ceainic, și câte un Labdisc cu sonda de temperatură externă pentru fiecare pahar. O valoare pe secundă, 10 minute. Calculatorul de durată e în [[la-clasa/implementare/organizarea-lectiei|Organizarea lecției]].
 
 ### 4. Datele
 

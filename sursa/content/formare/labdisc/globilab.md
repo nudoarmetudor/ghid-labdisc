@@ -200,3 +200,59 @@ Această funcție permite explicarea fenomenelor direct pe grafic.
 ---
 
 *Text preluat din ghidul de utilizare a dispozitivului Labdisc Globisens și a aplicației GlobiLab, de Victoria Calistru, CNIDE „Clasa Viitorului”. Fotografiile aparatului, capturile de ecran din GlobiLab și schemele preluate din alte manuale aparțin titularilor lor și nu intră sub licența ghidului.*
+
+## Verificați-vă (adăugat de autorii ghidului)
+
+*Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe textul de mai sus.*
+
+Pașii instalării, din secțiunea 2.1. Puneți-i în ordine.
+
+```ordine
+titlu: Ordonați pașii instalării GlobiLab
+Alegeți versiunea potrivită sistemului de operare
+Descărcați fișierul de instalare
+Deschideți fișierul descărcat și rulați Setup
+Apăsați Next și urmați instrucțiunile de pe ecran
+Apăsați Finish
+Creați pictograma pe Desktop
+```
+
+Pictogramele din bara de instrumente, pe cartonașe. Spuneți ce face fiecare, apoi întoarceți.
+
+```cartonase
+Run (Pornire) :: Începe o nouă sesiune de colectare a datelor.
+Oprire :: Încheie sesiunea curentă de colectare a datelor.
+Configurare :: Alegeți senzorii, frecvența de măsurare și numărul de măsurători pentru următoarea colectare.
+Marker :: Un clic pe grafic plasează un marker, care arată valoarea și timpul în acel punct.
+Adnotare :: Un clic pe grafic deschide o fereastră în care scrieți text sau adăugați imagini.
+Descărcare selectivă :: Deschide tabelul cu înregistrările salvate în disc; alegeți una și apăsați Download.
+EXCEL :: Salvează datele în format .CSV și le deschide în foaia de calcul.
+Caiet de lucru :: Deschide folderul cu activități în format PDF.
+```
+
+Exemplul din secțiunea 2.4 setează 10 eșantioane pe secundă și 1000 de măsurători. Verificați în calculator cât durează, apoi încercați alte valori.
+
+```durata
+```
+
+```quiz
+? Câte experimente pot fi păstrate în memoria Labdisc, după bara de stare?
++ Cel mult 127 | Bara de stare arată, de exemplu, 7 experimente stocate din 127 posibile.
+- Cel mult 7 | 7 e doar exemplul din figură: 7 experimente salvate din 127.
+- Oricâte, fără limită | Bara de stare indică un maxim de 127.
+
+? Ce înseamnă culoarea albastră a indicatorului USB din bara de stare?
++ Există o conexiune USB între calculator și Labdisc | Așa e descris primul indicator al barei de stare.
+- Bateria se încarcă prin USB | Indicatorul arată conexiunea, nu încărcarea.
+- Datele s-au exportat în .CSV | Exportul se face cu pictograma EXCEL, nu se vede în bara de stare.
+
+? Ce face funcția „Smooth”?
++ Netezește datele: fiecare punct devine media cu două valori anterioare și două ulterioare | Utilă când graficul are multe mici oscilații.
+- Calculează aria de sub grafic | Asta face funcția „Integrală”.
+- Arată componentele pe frecvențe | Asta face FFT.
+
+? Vreți să știți cât de repede crește temperatura în fiecare moment. Ce funcție aplicați?
++ Derivată | Generează graficul derivatei, adică ritmul de schimbare.
+- Regresie cuadratică | Potrivește o parabolă datelor dintre doi markeri; nu dă ritmul de schimbare în fiecare punct.
+- Integrală | Calculează aria de sub grafic (valoare × timp).
+```

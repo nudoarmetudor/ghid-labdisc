@@ -71,3 +71,29 @@ tags: [labdisc]
 ---
 
 *Text preluat din ghidul de utilizare a dispozitivului Labdisc Globisens și a aplicației GlobiLab, de Victoria Calistru, CNIDE „Clasa Viitorului”. Fotografiile aparatului, capturile de ecran din GlobiLab și schemele preluate din alte manuale aparțin titularilor lor și nu intră sub licența ghidului.*
+
+## Verificați-vă (adăugat de autorii ghidului)
+
+*Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe tabelul de mai sus.*
+
+```quiz
+? Vreți să măsurați temperatura unui acoperiș încins de soare, fără să-l atingeți. Ce senzor folosiți?
++ Temperatura în infraroșu | Măsoară fără contact, între -70 °C și 380 °C.
+- Sonda de temperatură externă | Trebuie să atingă suprafața; nu măsoară de la distanță.
+- Temperatura ambientală | Măsoară aerul din jurul discului.
+
+? Ce senzor al modelului Enviro măsoară radiația solară ultravioletă?
++ Radiație ultravioletă (UV) | Domeniul lui este de 0 – 400 W/m².
+- Colorimetrul | Colorimetrul măsoară transmitanța luminii prin probe, în cuve.
+- Turbiditatea | Turbiditatea măsoară cât de tulbure e apa.
+
+? Pentru pH-ul unui râu, ce accesoriu vă trebuie?
++ Electrodul de pH | Se conectează la intrarea pentru pH și oxigen dizolvat.
+- Setul de cuve | Setul de cuve servește turbidității și colorimetrului.
+- Niciunul | pH-ul cere electrodul de pH.
+
+? Care senzor al lui Enviro vă ajută să notați unde ați făcut măsurarea pe teren?
++ GPS-ul | Măsoară longitudinea, latitudinea, direcția, viteza, data și ora.
+- Presiunea barometrică | Variază cu altitudinea și vremea, dar nu dă poziția.
+- Umiditatea relativă | Nu are legătură cu poziția.
+```
