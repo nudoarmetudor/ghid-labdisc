@@ -23,7 +23,17 @@ Mărcile și logourile Labdisc, Globisens, GlobiLab și Clasa Viitorului, fotogr
 
 ## Cum citați
 
-> Autorul materialului, „Titlul”, în Tudor Lapp și Victoria Calistru, *Integrarea Labdisc în activități practice de cercetare la științe. Ghid deschis pentru profesori*, CNIDE „Clasa Viitorului”, 2026, CC BY-SA 4.0, https://nudoarmetudor.github.io/ghid-labdisc/
+Ghidul are două feluri de autori. Ghidul ca întreg îl semnează Tudor Lapp și Victoria Calistru. Fiecare lecție o semnează profesorul care a scris-o. Citați după ce ați folosit.
+
+**Ați folosit tot ghidul sau o pagină scrisă de autorii ghidului:**
+
+> Lapp, T., și Calistru, V. (2026). *Integrarea Labdisc în activități practice de cercetare la științe. Ghid deschis pentru profesori*. Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. CC BY-SA 4.0. https://nudoarmetudor.github.io/ghid-labdisc/
+
+**Ați folosit o lecție.** Numele profesorului vine primul, apoi titlul lecției, apoi ghidul în care apare. De exemplu, pentru lecția Angelei Covali despre legea lui Ohm:
+
+> Covali, A. (2026). Legea lui Ohm pentru o porțiune de circuit. În T. Lapp și V. Calistru, *Integrarea Labdisc în activități practice de cercetare la științe. Ghid deschis pentru profesori*. Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. CC BY-SA 4.0. https://nudoarmetudor.github.io/ghid-labdisc/la-clasa/proiecte/fizica/legea-lui-ohm
+
+Dacă adaptați materialul, scrieți și ce ați schimbat, iar varianta voastră o publicați sub aceeași licență, CC BY-SA 4.0.
 
 ## Codul site-ului
 

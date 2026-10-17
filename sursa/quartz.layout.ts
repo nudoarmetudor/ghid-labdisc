@@ -20,7 +20,7 @@ const sortare = (a: any, b: any) => {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.Contributii()],
+  afterBody: [Component.Contributii(), Component.Interactiv()],
   footer: Component.Subsol(),
 }
 

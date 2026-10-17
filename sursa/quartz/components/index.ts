@@ -57,4 +57,5 @@ import Subsol from "./ghid/Subsol"
 import Acasa from "./ghid/Acasa"
 import Fisa from "./ghid/Fisa"
 import Contributii from "./ghid/Contributii"
-export { Brand, Subsol, Acasa, Fisa, Contributii }
+import Interactiv from "./ghid/Interactiv"
+export { Brand, Subsol, Acasa, Fisa, Contributii, Interactiv }

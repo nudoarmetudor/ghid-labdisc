@@ -43,6 +43,26 @@ tags: [fizica, clasa-vii, prenume-nume]
 Pentru un autor nou, adăugați și `sursa/content/autori/<prenume-nume>.md`.
 O pagină cu `draft: true` nu apare pe site.
 
+## Piese interactive
+
+Un bloc de cod cu unul dintre numele de mai jos devine o piesă interactivă pe pagină
+(`sursa/quartz/plugins/transformers/interactiv.ts` îl recunoaște,
+`sursa/quartz/components/scripts/interactiv.inline.ts` îl desenează). Ce bifează sau
+desenează cititorul rămâne doar în browserul lui.
+
+| Bloc | Ce face | Format |
+|---|---|---|
+| `quiz` | Întrebări cu răspuns imediat și explicație | `? întrebare`, apoi `+ corect \| de ce`, `- greșit \| de ce`; o linie goală între întrebări |
+| `cartonase` | Cartonașe care se întorc: termen și explicație | `Termen :: explicație`, câte unul pe linie |
+| `ordine` | Ordonare cu săgeți, apoi verificare | `titlu: ...` opțional, apoi pașii în ordinea corectă (se amestecă singuri) |
+| `grafic` | Grafic cu cursor; cu `prezicere: da`, cititorul își desenează întâi curba | `titlu:`, `x:`, `y:`, `prezicere: da`, `nota:`, apoi `date:` și linii `x, y` |
+| `durata` | Calculator: rată de eșantionare × număr de eșantioane = durată | bloc gol |
+| `simulare` | Simulare încorporată, se încarcă la clic | `url:`, `titlu:`, `sursa:` |
+| `lori` | Fișă de evaluare LORI, note 1-5, cu media | `Dimensiune :: descriere`, câte una pe linie |
+
+Datele unui `grafic` care nu vin dintr-o măsurare reală se marchează în `nota:` ca
+ilustrative. Simulările PhET în română: `https://phet.colorado.edu/sims/html/<sim>/latest/<sim>_ro.html`.
+
 ## Cum se publică
 
 La fiecare modificare pe `main`, `.github/workflows/publica.yml` construiește site-ul și îl
