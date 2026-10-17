@@ -4,13 +4,13 @@ description: Ce învățați la curs, pas cu pas, cu explicații, tutoriale, dem
 ordine: 1
 ---
 
-Partea aceasta urmează cursul „Integrarea Labdisc în activități practice de cercetare la științe” (8 ore academice, Centrul „Clasa Viitorului”). Fiecare sesiune are aceeași ordine: ce veți putea face la final, explicația, demonstrația, exercițiul, apoi autoevaluarea și reflecția.
+Partea aceasta urmează cursul „Integrarea Labdisc în activități practice de cercetare la științe” (8 ore academice de lucru direct, Centrul „Clasa Viitorului”), gândit pentru profesorii de fizică de gimnaziu și liceu. Abordarea se poate transfera la chimie, biologie, geografie și științe. Fiecare sesiune are aceeași ordine: ce veți putea face la final, explicația, demonstrația, exercițiul, apoi autoevaluarea și reflecția.
 
 ## Sesiunile cursului
 
 1. [[formare/1-de-la-demonstratie-la-masurare|De la demonstrație la măsurare]]
-2. [[formare/2-experimente-in-statii|Experimente pe curriculum, în stații]]
-3. [[formare/3-investigatia-deschisa|Investigația deschisă]]
+2. [[formare/2-experimente-in-statii|Experimente din curriculum, pe stații]]
+3. [[formare/3-investigatia-deschisa|Investigația: de la întrebare la concluzie]]
 4. [[formare/4-lectia-mea-cu-labdisc|Lecția mea cu Labdisc]]
 
 ## Tutoriale

@@ -5,8 +5,11 @@ ordine: 7
 tags: [formare]
 ---
 
-> [!info] În lucru
-> Întrebările se aliniază cu reflecția din designul instrucțional al cursului.
+## La finalul cursului
+
+- Un lucru pe care îl aplic la clasă.
+- Un obstacol care rămâne.
+- Ce obstacol de dimineață s-a micșorat azi? (la începutul cursului, fiecare a spus ce lucrare de laborator nu reușește să facă la clasă și de ce)
 
 ## După curs
 
@@ -23,3 +26,5 @@ tags: [formare]
 | Senzorii de care am nevoie | |
 | Când o fac | |
 | Cum știu că a mers | |
+
+După lecție: o reflecție scrisă scurtă, iar fișa și un grafic al elevilor merg în portofoliu, fără nume și fără fotografii cu fețe.
