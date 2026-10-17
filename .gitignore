@@ -1,0 +1,6 @@
+node_modules/
+_site/
+sursa/.quartz-cache/
+sursa/public/
+.DS_Store
+.quartz-cache/
