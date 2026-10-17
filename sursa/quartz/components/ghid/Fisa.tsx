@@ -11,6 +11,7 @@ const Fisa: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   if (esteLectie(slug)) {
     const d = DISCIPLINE[disciplinaDin(slug)]
     const culoare = d?.culoare ?? DIRECTII["la-clasa"].culoare
+    const text = d?.text ?? DIRECTII["la-clasa"].text
     const echip = Array.isArray(fm.echipament) ? fm.echipament.join(", ") : fm.echipament
     const rand = (k: string, v: unknown) =>
       v ? (
@@ -20,7 +21,7 @@ const Fisa: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         </div>
       ) : null
     return (
-      <aside class="fisa" style={`--zona:${culoare}`}>
+      <aside class="fisa" style={`--zona:${culoare};--zona-text:${text}`}>
         {d && <span class="fisa-zona">{d.nume}</span>}
         <dl>
           <div class="fisa-rand">
@@ -63,7 +64,7 @@ Fisa.css = `
 .fisa { margin: 1rem 0 1.5rem; padding: .9rem 1.1rem; border-radius: 12px; border: 1px solid var(--lightgray);
   border-left: 5px solid var(--zona); background: var(--highlight); }
 .fisa-zona { display: inline-block; font-size: .75rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
-  color: var(--zona); margin-bottom: .4rem; }
+  color: var(--zona-text, var(--zona)); margin-bottom: .4rem; }
 .fisa dl { margin: 0; display: grid; gap: .3rem; }
 .fisa-rand { display: grid; grid-template-columns: 8rem 1fr; gap: .6rem; }
 .fisa dt { font-weight: 600; color: var(--dark); }

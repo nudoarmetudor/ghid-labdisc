@@ -17,4 +17,4 @@ Viitorului, fotografiile de produs și capturile de ecran din programul producă
 imaginile preluate din alte surse, care au sursa scrisă lângă ele.
 
 Codul site-ului (tot ce nu e în `sursa/content/`) e sub licența MIT, în `LICENSE`.
-Quartz: MIT, `sursa/LICENSE.txt`. Fonturile: SIL Open Font License.
+Quartz: MIT, `sursa/LICENSE.txt`. Fontul Open Sans: SIL Open Font License.

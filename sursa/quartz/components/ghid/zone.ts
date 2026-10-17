@@ -1,15 +1,17 @@
-// Cele două direcții ale ghidului și disciplinele proiectelor, cu culorile lor.
-export const DIRECTII: Record<string, { nume: string; culoare: string }> = {
-  formare: { nume: "Formare", culoare: "#0b7285" },
-  "la-clasa": { nume: "La clasă", culoare: "#d9480f" },
+// Cele două direcții ale ghidului și disciplinele proiectelor, în culorile semnului Future
+// Classroom Lab (BRAND-FCL.md). `culoare` e pentru benzi și chenare; `text` e varianta care
+// trece de contrastul AA pe alb, pentru etichete scrise.
+export const DIRECTII: Record<string, { nume: string; culoare: string; text: string }> = {
+  formare: { nume: "Formare", culoare: "#00bce4", text: "#0878be" },
+  "la-clasa": { nume: "La clasă", culoare: "#f15c22", text: "#c2410c" },
 }
 
-export const DISCIPLINE: Record<string, { nume: string; culoare: string }> = {
-  fizica: { nume: "Fizică", culoare: "#1c7ed6" },
-  chimie: { nume: "Chimie", culoare: "#ae3ec9" },
-  biologie: { nume: "Biologie", culoare: "#2f9e44" },
-  geografie: { nume: "Geografie", culoare: "#e8590c" },
-  "clase-primare": { nume: "Științe, clase primare", culoare: "#f08c00" },
+export const DISCIPLINE: Record<string, { nume: string; culoare: string; text: string }> = {
+  fizica: { nume: "Fizică", culoare: "#00bce4", text: "#0878be" },
+  chimie: { nume: "Chimie", culoare: "#e60e64", text: "#b0094f" },
+  biologie: { nume: "Biologie", culoare: "#c1d72e", text: "#5f6b0f" },
+  geografie: { nume: "Geografie", culoare: "#f15c22", text: "#c2410c" },
+  "clase-primare": { nume: "Științe, clase primare", culoare: "#514e86", text: "#514e86" },
 }
 
 export const directiaDin = (slug: string) => DIRECTII[slug.split("/")[0]]

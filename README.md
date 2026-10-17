@@ -6,6 +6,11 @@ secvențele de lecție, profesorii care le-au scris, fiecare pe pagina lui.
 
 **Site-ul:** https://nudoarmetudor.github.io/ghid-labdisc/
 
+## Identitatea vizuală
+
+Stilul Future Classroom Lab (Clasa Viitorului): culori, logo, tipografie și reguli de scris în
+`BRAND-FCL.md`. Același fișier e șablonul pentru alte materiale făcute la fel.
+
 ## Cele două părți
 
 | Unde | Ce este |

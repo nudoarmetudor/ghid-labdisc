@@ -27,7 +27,7 @@ Mărcile și logourile Labdisc, Globisens, GlobiLab și Clasa Viitorului, fotogr
 
 ## Codul site-ului
 
-Site-ul e construit cu [Quartz](https://quartz.jzhao.xyz/). Codul lui e sub licența MIT, iar sursa e pe [GitHub](https://github.com/nudoarmetudor/ghid-labdisc). Fonturile Urbanist și Onest sunt sub licența SIL Open Font License.
+Site-ul e construit cu [Quartz](https://quartz.jzhao.xyz/). Codul lui e sub licența MIT, iar sursa e pe [GitHub](https://github.com/nudoarmetudor/ghid-labdisc). Fontul Open Sans e sub licența SIL Open Font License.
 
 ## O greșeală?
 

@@ -5,7 +5,7 @@ const Subsol: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProp
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <footer class={`ghid-subsol ${displayClass ?? ""}`}>
-      <div class="ghid-banda" aria-hidden="true"><span /><span /></div>
+      <div class="ghid-banda" aria-hidden="true" />
       <p>
         © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. Autori:{" "}
         <strong>Tudor Lapp</strong> și <strong>Victoria Calistru</strong>. Secvențele de lecție
@@ -33,10 +33,7 @@ const Subsol: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProp
 
 Subsol.css = `
 .ghid-subsol { margin: 3rem 0 4rem; font-size: .92rem; color: var(--darkgray); }
-.ghid-subsol .ghid-banda { display: flex; gap: 4px; margin-bottom: 1.2rem; }
-.ghid-subsol .ghid-banda span { height: 4px; flex: 1; border-radius: 2px; }
-.ghid-subsol .ghid-banda span:nth-child(1) { background: #0b7285; }
-.ghid-subsol .ghid-banda span:nth-child(2) { background: #d9480f; }
+.ghid-subsol .ghid-banda { height: 4px; border-radius: 2px; background: var(--fcl-banda); margin-bottom: 1.2rem; }
 .ghid-subsol-mic { opacity: .78; font-size: .82rem; margin-top: .8rem; }
 `
 

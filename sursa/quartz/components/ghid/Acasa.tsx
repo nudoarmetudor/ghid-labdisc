@@ -25,7 +25,7 @@ const Acasa: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) =>
         {Object.entries(DIRECTII).map(([k, d]) => {
           const p = pagina(`${k}/index`)
           return (
-            <a class="acasa-card internal" href={resolveRelative(aici, `${k}/index` as FullSlug)} style={`--zona:${d.culoare}`}>
+            <a class="acasa-card internal" href={resolveRelative(aici, `${k}/index` as FullSlug)} style={`--zona:${d.culoare};--zona-text:${d.text}`}>
               <span class="acasa-card-eticheta">{k === "formare" ? "Pentru dumneavoastră" : "Pentru elevi"}</span>
               <span class="acasa-card-titlu">{p?.frontmatter?.title ?? d.nume}</span>
               <span class="acasa-card-desc">{p?.frontmatter?.description}</span>
@@ -44,14 +44,14 @@ const Acasa: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) =>
             {ordine
               .filter((d) => lectii.some((l) => l.d === d))
               .map((d) => (
-                <button type="button" class="acasa-filtru" data-zona={d} style={`--zona:${DISCIPLINE[d].culoare}`}>
+                <button type="button" class="acasa-filtru" data-zona={d} style={`--zona:${DISCIPLINE[d].culoare};--zona-text:${DISCIPLINE[d].text}`}>
                   {DISCIPLINE[d].nume}
                 </button>
               ))}
           </div>
           <ul class="acasa-lista">
             {lectii.map(({ f, d }) => (
-              <li data-zona={d} style={`--zona:${DISCIPLINE[d]?.culoare ?? "#d9480f"}`}>
+              <li data-zona={d} style={`--zona:${DISCIPLINE[d]?.culoare ?? "#f15c22"}`}>
                 <a class="internal" href={resolveRelative(aici, f.slug!)}>
                   <span class="acasa-lista-titlu">{f.frontmatter?.title}</span>
                   <span class="acasa-lista-meta">
@@ -103,16 +103,16 @@ Acasa.css = `
 .acasa a.acasa-card { line-height: 1.4; display: flex; flex-direction: column; gap: .45rem; padding: 1.1rem 1.2rem; border-radius: 14px;
   border: 1px solid var(--lightgray); border-top: 6px solid var(--zona); background: var(--light);
   color: var(--darkgray) !important; font-weight: 400 !important; text-decoration: none; transition: transform .15s, box-shadow .15s; }
-.acasa a.acasa-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(21,34,39,.10); }
-.acasa-card-eticheta { font-size: .74rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--zona); }
+.acasa a.acasa-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(58,58,60,.10); }
+.acasa-card-eticheta { font-size: .74rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--zona-text); }
 .acasa-card-titlu { font-family: var(--headerFont); font-weight: 800; font-size: 1.35rem; color: var(--dark); line-height: 1.2; }
 .acasa-card-desc { font-size: .95rem; line-height: 1.45; flex: 1; }
-.acasa-card-meta { font-size: .8rem; font-weight: 600; color: var(--zona); }
+.acasa-card-meta { font-size: .8rem; font-weight: 600; color: var(--zona-text); }
 .acasa-sub { margin-top: -.4rem; }
 .acasa-filtre { display: flex; flex-wrap: wrap; gap: .45rem; margin: .8rem 0 1rem; }
 .acasa-filtru { font-family: var(--bodyFont); font-size: .88rem; padding: .45rem .85rem; border-radius: 999px; cursor: pointer;
   border: 1.5px solid var(--zona, var(--darkgray)); background: transparent; color: var(--dark); min-height: 40px; }
-.acasa-filtru.activ { background: var(--zona, var(--dark)); color: #fff; }
+.acasa-filtru.activ { background: var(--zona-text, var(--dark)); border-color: var(--zona-text, var(--dark)); color: #fff; }
 .acasa-filtru[data-zona="toate"].activ { background: var(--dark); color: var(--light); }
 .acasa-lista { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: .5rem; }
 .acasa-lista li { margin: 0; }
@@ -124,7 +124,7 @@ Acasa.css = `
 .acasa-lista-meta { font-size: .8rem; color: var(--gray); white-space: nowrap; }
 .acasa-rapid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: .8rem; margin-top: 2.2rem; }
 .acasa .acasa-rapid a { line-height: 1.4; display: flex; flex-direction: column; gap: .25rem; padding: .9rem 1rem; border-radius: 12px; text-decoration: none;
-  background: linear-gradient(135deg, rgba(11,114,133,.10), rgba(217,72,15,.08)); color: var(--darkgray) !important; font-weight: 400 !important; }
+  background: linear-gradient(135deg, rgba(0,188,228,.10), rgba(241,92,34,.08)); color: var(--darkgray) !important; font-weight: 400 !important; }
 .acasa-rapid strong { color: var(--dark); font-family: var(--headerFont); font-size: 1.05rem; }
 .acasa-rapid span { font-size: .88rem; }
 @media all and (max-width: 800px) {
