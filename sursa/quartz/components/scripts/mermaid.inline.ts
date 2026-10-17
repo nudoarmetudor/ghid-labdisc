@@ -140,6 +140,7 @@ const cssVars = [
   "--dark",
   "--darkgray",
   "--codeFont",
+  "--bodyFont",
 ] as const
 
 let mermaidImport = undefined
@@ -183,7 +184,7 @@ document.addEventListener("nav", async () => {
       securityLevel: "loose",
       theme: darkMode ? "dark" : "base",
       themeVariables: {
-        fontFamily: computedStyleMap["--codeFont"],
+        fontFamily: computedStyleMap["--bodyFont"],
         primaryColor: computedStyleMap["--light"],
         primaryTextColor: computedStyleMap["--darkgray"],
         primaryBorderColor: computedStyleMap["--tertiary"],
@@ -191,7 +192,7 @@ document.addEventListener("nav", async () => {
         secondaryColor: computedStyleMap["--secondary"],
         tertiaryColor: computedStyleMap["--tertiary"],
         clusterBkg: computedStyleMap["--light"],
-        edgeLabelBackground: computedStyleMap["--highlight"],
+        edgeLabelBackground: computedStyleMap["--light"],
       },
     })
 

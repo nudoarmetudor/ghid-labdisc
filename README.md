@@ -61,7 +61,8 @@ desenează cititorul rămâne doar în browserul lui.
 | `lori` | Fișă de evaluare LORI, note 1-5, cu media | `Dimensiune :: descriere`, câte una pe linie |
 
 Datele unui `grafic` care nu vin dintr-o măsurare reală se marchează în `nota:` ca
-ilustrative. Simulările PhET în română: `https://phet.colorado.edu/sims/html/<sim>/latest/<sim>_ro.html`.
+ilustrative. Diagramele se scriu în ```mermaid; o etichetă nu începe cu „1. ” (Mermaid o citește ca listă), scrieți „1 · ” sau „Unitatea 1: ”.
+Un tabel primește singur butonul „Copiază tabelul”. Simulările PhET în română: `https://phet.colorado.edu/sims/html/<sim>/latest/<sim>_ro.html`.
 
 ## Cum se publică
 

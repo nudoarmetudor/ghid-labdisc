@@ -13,10 +13,10 @@ Pașii de mai jos urmează modelul învățării prin investigație descris de P
 
 ```mermaid
 flowchart TD
-  Q["1. Întrebarea"] --> H["2. Ipoteza<br/>și graficul desenat"]
-  H --> P["3. Planul<br/>senzor, rată, durată"]
-  P --> D["4. Datele<br/>măsurarea"]
-  D --> C["5. Concluzia<br/>grafic real vs. desenat"]
+  Q["1 · Întrebarea"] --> H["2 · Ipoteza<br/>și graficul desenat"]
+  H --> P["3 · Planul<br/>senzor, rată, durată"]
+  P --> D["4 · Datele<br/>măsurarea"]
+  D --> C["5 · Concluzia<br/>grafic real vs. desenat"]
   C -.->|"întrebare nouă"| Q
 ```
 

@@ -14,9 +14,9 @@ Patru unități, fiecare cu un produs care intră în portofoliu.
 
 ```mermaid
 flowchart TD
-  S1["1. Labdisc și GlobiLab"] -->|"grafic adnotat"| S2["2. Experimente pe discipline"]
-  S2 -->|"date, grafic, întrebări"| S3["3. Investigația"]
-  S3 -->|"raport de investigație"| S4["4. Lecția mea cu Labdisc"]
+  S1["Unitatea 1: Labdisc și GlobiLab"] -->|"grafic adnotat"| S2["Unitatea 2: Experimente pe discipline"]
+  S2 -->|"date, grafic, întrebări"| S3["Unitatea 3: Investigația"]
+  S3 -->|"raport de investigație"| S4["Unitatea 4: Lecția mea cu Labdisc"]
   S4 -->|"fișa de investigație"| P["Portofoliul"]
 ```
 
