@@ -7,18 +7,18 @@ const Subsol: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProp
     <footer class={`ghid-subsol ${displayClass ?? ""}`}>
       <div class="ghid-banda" aria-hidden="true"><span /><span /></div>
       <p>
-        Ghid realizat pe baza cursului „Integrarea Labdisc în activități practice de cercetare la
-        științe”, Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. Autor și
-        formator: <strong>Tudor Lapp</strong>. Secvențele de lecție sunt semnate de autorii lor, pe
-        fiecare pagină și în <a href={joinSegments(baseDir, "autori")}>lista autorilor</a>.
+        © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. Autori:{" "}
+        <strong>Tudor Lapp</strong> și <strong>Victoria Calistru</strong>. Secvențele de lecție
+        sunt semnate de profesorii care le-au scris, pe fiecare pagină și pe{" "}
+        <a href={joinSegments(baseDir, "autori")}>pagina autorilor</a>.
       </p>
       <p class="ghid-subsol-mic">
         Conținut sub licența{" "}
         <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ro" target="_blank" rel="noopener">
           CC BY-SA 4.0
         </a>
-        , fiecare material cu titularul lui; mărcile Labdisc, Globisens, GlobiLab și Clasa
-        Viitorului aparțin titularilor și nu intră sub licență.{" "}
+        . Mărcile Labdisc, Globisens, GlobiLab și Clasa Viitorului aparțin titularilor și nu
+        intră sub licență.{" "}
         <a href={joinSegments(baseDir, "despre")}>Despre ghid și licență</a>.
       </p>
       <p class="ghid-subsol-mic">

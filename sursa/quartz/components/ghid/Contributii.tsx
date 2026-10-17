@@ -2,22 +2,26 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { resolveRelative, FullSlug } from "../../util/path"
 import { DISCIPLINE, esteLectie, disciplinaDin } from "./zone"
 
-// Pe pagina unui autor (autori/<slug>): secvențele de lecție semnate de el, din câmpul
-// `autor_slug` al fiecărei lecții. Pe autori/index: toți autorii, fiecare cu lecțiile lui.
-// Așa creditarea pe componentă se ține singură: o lecție nouă apare la autorul ei.
+// Pe pagina unui autor (autori/<slug>): paginile semnate de el, din câmpul `autor_slug`
+// (secvențe de lecție și alte materiale). Pe autori/index: toți profesorii care au scris
+// secvențe de lecție, fiecare cu lecțiile lui. Așa creditarea pe componentă se ține singură:
+// o pagină nouă apare la autorul ei.
 const Contributii: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   const aici = fileData.slug! as FullSlug
   if (!aici.startsWith("autori/")) return null
-  const lectii = allFiles
-    .filter((f) => esteLectie(f.slug ?? "") && f.frontmatter?.autor_slug)
+  const semnate = allFiles
+    .filter((f) => f.frontmatter?.autor_slug)
     .sort((a, b) => String(a.frontmatter?.title).localeCompare(String(b.frontmatter?.title), "ro"))
-  const lista = (ls: typeof lectii) => (
+  const lectii = semnate.filter((f) => esteLectie(f.slug!))
+  const lista = (ls: typeof semnate) => (
     <ul class="contributii">
       {ls.map((f) => (
         <li>
           <a class="internal" href={resolveRelative(aici, f.slug!)}>{f.frontmatter?.title}</a>
           <span class="contributii-meta">
-            {[DISCIPLINE[disciplinaDin(f.slug!)]?.nume, f.frontmatter?.clasa && `clasa a ${f.frontmatter.clasa}-a`]
+            {(esteLectie(f.slug!)
+              ? [DISCIPLINE[disciplinaDin(f.slug!)]?.nume, f.frontmatter?.clasa && `clasa a ${f.frontmatter.clasa}-a`]
+              : [f.frontmatter?.description])
               .filter(Boolean)
               .join(" · ")}
           </span>
@@ -35,17 +39,18 @@ const Contributii: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPro
     const pagini = new Map(allFiles.filter((f) => f.slug?.startsWith("autori/")).map((f) => [f.slug, f]))
     return (
       <div class="autori">
+        <h2>Secvențele de lecție, pe autori</h2>
         {[...autori.entries()]
           .sort((a, b) => String(a[1][0].frontmatter?.autor).localeCompare(String(b[1][0].frontmatter?.autor), "ro"))
           .map(([k, ls]) => (
             <section>
-              <h2>
+              <h3>
                 {pagini.has(`autori/${k}` as FullSlug) ? (
                   <a class="internal" href={resolveRelative(aici, `autori/${k}` as FullSlug)}>{ls[0].frontmatter?.autor}</a>
                 ) : (
                   ls[0].frontmatter?.autor
                 )}
-              </h2>
+              </h3>
               {lista(ls)}
             </section>
           ))}
@@ -53,13 +58,25 @@ const Contributii: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPro
     )
   }
 
-  const ale = lectii.filter((f) => `autori/${f.frontmatter?.autor_slug}` === aici)
+  const ale = semnate.filter((f) => `autori/${f.frontmatter?.autor_slug}` === aici)
+  const l = ale.filter((f) => esteLectie(f.slug!))
+  const alte = ale.filter((f) => !esteLectie(f.slug!))
   if (ale.length === 0) return null
   return (
-    <section>
-      <h2>Secvențe de lecție</h2>
-      {lista(ale)}
-    </section>
+    <div>
+      {l.length > 0 && (
+        <section>
+          <h2>Secvențe de lecție</h2>
+          {lista(l)}
+        </section>
+      )}
+      {alte.length > 0 && (
+        <section>
+          <h2>Materiale în ghid</h2>
+          {lista(alte)}
+        </section>
+      )}
+    </div>
   )
 }
 

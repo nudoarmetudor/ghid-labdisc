@@ -45,6 +45,14 @@ const Fisa: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   }
 
   const dir = directiaDin(slug)
+  if (fm.autor && fm.autor_slug) {
+    return (
+      <p class="fisa-autor" style={`--zona:${dir?.culoare ?? "var(--secondary)"}`}>
+        {fm.autor_rol ?? "Autor"}:{" "}
+        <a class="internal" href={resolveRelative(slug, `autori/${fm.autor_slug}` as FullSlug)}>{fm.autor}</a>
+      </p>
+    )
+  }
   if (dir && slug !== "index") {
     return <div class="fisa-banda" style={`--zona:${dir.culoare}`} aria-hidden="true" />
   }
@@ -60,6 +68,7 @@ Fisa.css = `
 .fisa-rand { display: grid; grid-template-columns: 8rem 1fr; gap: .6rem; }
 .fisa dt { font-weight: 600; color: var(--dark); }
 .fisa dd { margin: 0; }
+.fisa-autor { margin: .2rem 0 1.2rem; padding-left: .7rem; border-left: 4px solid var(--zona); font-size: .92rem; color: var(--darkgray); }
 .fisa-banda { height: 6px; border-radius: 3px; background: var(--zona); margin: .4rem 0 1.2rem; max-width: 120px; }
 @media all and (max-width: 800px) { .fisa-rand { grid-template-columns: 1fr; gap: 0; } .fisa-rand + .fisa-rand { margin-top: .35rem; } }
 `

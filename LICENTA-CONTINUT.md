@@ -1,15 +1,16 @@
 # Licența conținutului
 
+© 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.
+Autori: Tudor Lapp și Victoria Calistru.
+
 Textele, imaginile proprii și fișele din `sursa/content/` sunt sub licența
 **Creative Commons Atribuire-Partajare în condiții identice 4.0 Internațional (CC BY-SA 4.0)**:
 https://creativecommons.org/licenses/by-sa/4.0/legalcode.ro
 
-Titularii:
-
-- secvențele de lecție din `sursa/content/la-clasa/proiecte/`: profesorii care le-au scris,
-  numiți în câmpul `autor` al fiecărei pagini și pe pagina „Autori” a site-ului;
-- restul ghidului: © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”,
-  autor Tudor Lapp.
+Secvențele de lecție din `sursa/content/la-clasa/proiecte/` sunt scrise de profesori
+contractați de Centru și sunt sub aceeași licență și același titular. Autorul fiecăreia e
+numit în câmpul `autor` al paginii, pe pagină și pe pagina „Autori” a site-ului; atribuirea
+cerută de licență include numele lui.
 
 Nu intră sub această licență: mărcile și logourile Labdisc, Globisens, GlobiLab și Clasa
 Viitorului, fotografiile de produs și capturile de ecran din programul producătorului, precum și

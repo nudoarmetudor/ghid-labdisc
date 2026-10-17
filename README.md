@@ -1,7 +1,8 @@
 # Integrarea Labdisc în activități practice de cercetare la științe
 
 Ghid deschis pentru profesorii de științe, pe baza cursului cu același nume ținut la Centrul
-Național de Inovații Digitale în Educație „Clasa Viitorului”. Autor și formator: Tudor Lapp.
+Național de Inovații Digitale în Educație „Clasa Viitorului”. Autori: Tudor Lapp și Victoria Calistru;
+secvențele de lecție, profesorii care le-au scris, fiecare pe pagina lui.
 
 **Site-ul:** https://nudoarmetudor.github.io/ghid-labdisc/
 
@@ -35,7 +36,7 @@ tags: [fizica, clasa-vii, prenume-nume]
 ```
 
 Pentru un autor nou, adăugați și `sursa/content/autori/<prenume-nume>.md`.
-O pagină cu `draft: true` nu apare pe site; așa stau lecțiile până când autorul își dă acordul.
+O pagină cu `draft: true` nu apare pe site.
 
 ## Cum se publică
 
@@ -53,5 +54,6 @@ CIORNE=1 npx quartz build --serve  # arată și paginile draft
 
 ## Licență
 
-Conținutul: CC BY-SA 4.0, fiecare material cu titularul lui; detalii în `LICENTA-CONTINUT.md`.
+Conținutul: © 2026 CNIDE „Clasa Viitorului”, CC BY-SA 4.0, fiecare material cu numele autorului lui;
+detalii în `LICENTA-CONTINUT.md`.
 Codul: MIT (`LICENSE`).
