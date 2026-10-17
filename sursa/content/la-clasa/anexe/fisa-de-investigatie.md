@@ -86,4 +86,7 @@ Pe exemplul de mai sus. Merge și cu elevii, înainte să-și completeze singuri
 - Variabila dependentă | Temperatura se măsoară în continuare corect. Problema e la ce n-a fost păstrat la fel.
 ```
 
+> [!tip] Portofoliul
+> Fiecare profesor face o copie a șablonului în Google Docs. După ce aplicați fișa la clasă, încărcați-o pe Padletul grupului împreună cu un grafic al elevilor, fără nume și fără fotografii cu fețe.
+
 Variantă scurtă pentru elevi: [[la-clasa/anexe/raport-de-investigatie|raportul scurt de investigație]].

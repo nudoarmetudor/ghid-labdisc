@@ -11,9 +11,9 @@ Criteriile după care verificați o fișă de investigație (a voastră sau a un
 
 La curs, profesorii își schimbă fișele și le verifică după patru criterii, apoi dau feedback prin „două stele și o dorință”: două lucruri reușite și unul de îmbunătățit.
 
-Schimbul se face digital: fiecare dă colegului acces de comentare la Google Docul fișei, iar feedbackul se scrie în comentarii, lângă rubrica la care se referă.
+Schimbul se face digital: fiecare dă colegului acces de comentare la Google Docul fișei, de preferință unui coleg de altă disciplină. Criteriile se bifează într-un formular Google, iar „două stele și o dorință” se scriu ca comentarii direct în fișă, lângă rubrica la care se referă.
 
-Bifați criteriile îndeplinite. Bifele rămân în browserul vostru.
+Pentru o verificare rapidă, bifați criteriile aici. Bifele rămân doar în browserul vostru.
 
 - [ ] Întrebarea se poate testa cu Labdisc.
 - [ ] Variabilele sunt clare: ce schimbăm, ce măsurăm, ce păstrăm la fel.
@@ -22,7 +22,7 @@ Bifați criteriile îndeplinite. Bifele rămân în browserul vostru.
 
 Întrebare în plus: ce face un elev care termină primul?
 
-> [!note]- Criteriile și „două stele și o dorință”, de copiat într-un comentariu
+> [!note]- Criteriile și „două stele și o dorință”, de copiat într-un formular Google sau într-un comentariu
 > ```text
 > Întrebarea se poate testa cu Labdisc: da / încă nu
 > Variabilele sunt clare (ce schimbăm, ce măsurăm, ce păstrăm la fel): da / încă nu
@@ -41,8 +41,8 @@ Pașii feedbackului între colegi. Puneți-i în ordine.
 titlu: Ordonați pașii feedbackului între colegi
 Dați colegului acces de comentare la fișa voastră
 Citiți fișa colegului de la cap la coadă
-Verificați cele patru criterii
-Scrieți două lucruri reușite
+Completați formularul cu cele patru criterii
+Scrieți în comentarii două lucruri reușite
 Scrieți un lucru de îmbunătățit
 Discutați comentariile cu colegul
 Revizuiți-vă fișa după feedback

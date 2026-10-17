@@ -8,7 +8,7 @@ tags: [anexe]
 Raportul pe care grupul îl completează în documentul lui, în timpul și după măsurare. Mai jos găsiți textul gata de copiat și un exercițiu cu elevii despre concluzii și erori.
 
 > [!info] Pentru profesor: cum îl dați elevilor
-> Copiați raportul (blocul „Textul raportului, de copiat”, mai jos) într-un Google Doc și faceți câte o copie pentru fiecare grup, în folderul clasei. Puteți face și un Google Form cu o întrebare pentru fiecare secțiune. Comentați direct în document, pe secțiuni.
+> Copiați raportul (blocul „Textul raportului, de copiat”, mai jos) într-un Google Doc și faceți câte o copie pentru fiecare grup, în folderul clasei. Datele exportate din GlobiLab în format .CSV stau în Google Sheets, în același folder, iar graficele adnotate se pun și pe Padletul clasei, ca galerie pentru discuția finală. Comentați direct în document, pe secțiuni.
 
 ---
 

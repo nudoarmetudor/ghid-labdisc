@@ -13,7 +13,7 @@ flowchart LR
 
 ## Pentru elevi
 
-- [[la-clasa/anexe/fise-de-statie|Fișele celor trei stații]]: mișcare, fenomene termice, electricitate.
+- [[la-clasa/anexe/fise-de-statie|Fișele de stație]]: câte trei experimente pentru fiecare disciplină, de la fizică la clasele primare.
 - [[la-clasa/anexe/fisa-de-investigatie|Fișa de investigație]]: șablonul de completat pentru orice temă, de profesor pentru clasa lui și de elevi la lecție.
 - [[la-clasa/anexe/raport-de-investigatie|Raportul scurt de investigație]]: întrebare, ipoteză, date, grafic, concluzie, erori.
 - [[la-clasa/anexe/banca-de-intrebari|Banca de întrebări]]: întrebări de cercetare după senzori și întrebări de verificare pe teme, la care elevii răspund pe telefon.

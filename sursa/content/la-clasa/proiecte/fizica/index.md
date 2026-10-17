@@ -18,7 +18,7 @@ Cinci lecții de fizică, clasele VII-XI, toate scrise de Angela Covali: presiun
 > [!warning] Senzorul de forță
 > Senzorul de forță Dymo nu e în tabelele modelelor. Întrebați dacă școala sau centrul îl are. Detalii în [[la-clasa/implementare/ce-labdisc-aveti|Ce Labdisc aveți?]].
 
-Stațiile de fizică pentru lucrul pe grupe (mișcare, fenomene termice, electricitate) sunt în [[la-clasa/anexe/fise-de-statie|fișele celor trei stații]].
+Stațiile de fizică pentru lucrul pe grupe (mișcare, fenomene termice, electricitate) sunt în [[la-clasa/anexe/fise-de-statie|fișele de stație]], alături de stațiile celorlalte discipline.
 
 ## Când nu ajung aparatele
 

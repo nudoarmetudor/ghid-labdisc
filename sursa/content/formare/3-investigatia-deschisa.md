@@ -5,33 +5,24 @@ ordine: 3
 tags: [formare, sesiune]
 ---
 
-Sesiunea 3 din 4, 90 de minute, unitatea 3 a cursului: *Investigația: de la întrebare la concluzie*. Forma de lucru: laborator / seminar.
+Unitatea 3 din 4 a cursului.
 
 > [!abstract] Ce veți putea face
-> Rezultatele sesiunii, din curriculumul cursului:
->
 > - Să recunoască etapele unei investigații științifice.
 > - Să identifice sursele de erori de măsurare.
 > - Să formuleze concluzii argumentate pe baza graficelor.
 >
 > Pe scurt: conducerea unei investigații experimentale de la întrebarea de cercetare la concluzia argumentată pe baza datelor.
 
-## Ce conține
-
-- Etapele investigației: întrebarea de cercetare, ipoteza, variabilele (independentă, dependentă, controlate), planul experimentului.
-- Investigație în echipe, cu Labdisc, pe o întrebare aleasă de echipă.
-- Erori de măsurare și limitele senzorilor; repetarea măsurărilor.
-- Comunicarea rezultatelor: graficul adnotat și concluzia argumentată.
-
-> [!tip] De citit înainte sau după
+> [!tip] De citit pe parcurs
 > - [[la-clasa/metodologie/ciclul-investigatiei|Ciclul investigației]]
 > - [[la-clasa/metodologie/niveluri-de-investigatie|Patru niveluri de investigație]]
 > - [[la-clasa/anexe/banca-de-intrebari|Banca de întrebări de cercetare]]
 > - [[la-clasa/anexe/raport-de-investigatie|Raportul scurt de investigație]]
 
-## Anatomia unei investigații
+## Etapele investigației
 
-Investigația merge de la o întrebare la un răspuns sprijinit pe date. Când datele nu confirmă ipoteza, cercul se reia cu o întrebare mai bună; asta nu e un eșec, e felul în care lucrează știința. Pașii urmează modelul lui Pedaste și al colegilor (2015), descris în [[la-clasa/metodologie/ciclul-investigatiei|Ciclul investigației]].
+În unitatea 2, întrebarea era dată de fișa stației. Acum o alegeți voi. Investigația merge de la o întrebare la un răspuns sprijinit pe date; când datele nu confirmă ipoteza, cercul se reia cu o întrebare mai bună. Pașii urmează modelul lui Pedaste și al colegilor (2015), descris în [[la-clasa/metodologie/ciclul-investigatiei|Ciclul investigației]].
 
 ```mermaid
 flowchart TD
@@ -42,6 +33,45 @@ flowchart TD
   A --> C["Concluzia"]
   C -. "ipoteza nu se confirmă" .-> Q
 ```
+
+Puneți etapele în ordine, apoi comparați cu schema.
+
+```ordine
+titlu: Ordonați etapele unei investigații științifice
+Întrebarea de cercetare
+Ipoteza
+Planul experimentului, cu variabilele
+Colectarea datelor, cu cel puțin două repetări
+Analiza datelor și a erorilor
+Concluzia argumentată pe baza graficului
+```
+
+### Întrebarea de cercetare și ipoteza testabilă
+
+O întrebare de cercetare bună se poate rezolva prin măsurare, cu ce aveți pe masă, într-o lecție. Dacă nu se poate, simplificați-o. O ipoteză testabilă spune ce credeți că se va întâmpla și de ce.
+
+> [!quote] O ipoteză bună spune ce se schimbă, ce măsurăm și ce păstrăm la fel.
+
+Alegeți o întrebare din banca disciplinei voastre sau propuneți una. Scrieți întrebarea și ipoteza în fișa de investigație, un document comun al echipei în Google Docs.
+
+> [!example]- Banca de întrebări: fizică
+> Răcirea cu și fără capac; iluminarea și distanța de la sursă; presiunea aerului în seringă și volumul; nivelul sonor și distanța; perioada unui resort și masa.
+
+> [!example]- Banca de întrebări: chimie
+> Viteza de dizolvare și temperatura apei; pH-ul unor produse din bucătărie; conductivitatea și concentrația.
+
+> [!example]- Banca de întrebări: biologie
+> Pulsul la efort și vârsta sau antrenamentul; transpirația la lumină și la întuneric; umiditatea în jurul plantelor de interior.
+
+> [!example]- Banca de întrebări: geografie
+> Temperatura și umiditatea pe parcursul zilei; turbiditatea apei după agitare; încălzirea suprafețelor de culori diferite.
+
+> [!example]- Banca de întrebări: clasele primare
+> Unde se topește gheața mai repede; cât de cald e la soare și la umbră; cât de zgomotos e în clasă și pe coridor.
+
+Mai multe întrebări, cu senzorii potriviți, sunt în [[la-clasa/anexe/banca-de-intrebari|Banca de întrebări de cercetare]].
+
+### Variabilele: independentă, dependentă, controlate
 
 Cuvintele investigației, pe cartonașe. Spuneți-vă explicația, apoi întoarceți.
 
@@ -56,105 +86,52 @@ Eroare întâmplătoare :: Abatere care se schimbă de la o măsurare la alta, d
 Limitele senzorului :: Domeniul de măsurare și rata maximă de eșantionare. Le găsiți în tabelul fiecărui model.
 ```
 
-Puneți etapele în ordine. Apoi comparați cu schema de mai sus.
+Câte o întrebare din bancă, desfăcută în variabile. Deschideți exemplul disciplinei voastre, apoi încercați singuri pe altă întrebare din bancă.
 
-```ordine
-titlu: Ordonați etapele unei investigații științifice
-Întrebarea de cercetare
-Ipoteza
-Planul experimentului, cu variabilele
-Colectarea datelor, cu cel puțin două repetări
-Analiza datelor și a erorilor
-Concluzia argumentată pe baza graficului
-```
+> [!example]- Fizică: răcirea cu și fără capac
+> **Întrebarea:** se răcește mai repede apa dintr-un pahar acoperit sau din unul descoperit? **Ipoteza:** apa din paharul descoperit se răcește mai repede, pentru că pierde căldură și prin evaporare. **Independentă:** paharul acoperit sau descoperit. **Dependentă:** temperatura apei, cu sonda externă. **Controlate:** volumul de apă, temperatura de pornire, paharul, locul.
 
-## Desfășurarea, pas cu pas
+> [!example]- Chimie: viteza de dizolvare și temperatura apei
+> **Întrebarea:** se dizolvă sarea mai repede în apă caldă decât în apă rece? **Independentă:** temperatura apei. **Dependentă:** timpul până când conductivitatea nu mai crește (BioChem). **Controlate:** cantitatea de sare și de apă, amestecarea.
 
-Minutele sunt de la începutul sesiunii. Întrebarea din chenarul „Întrebarea formatorului” e cea pe care formatorul o pune grupului; o puteți folosi la fel cu elevii.
+> [!example]- Biologie: transpirația la lumină și la întuneric
+> **Întrebarea:** transpiră o plantă mai mult la lumină decât la întuneric? **Independentă:** lumina. **Dependentă:** umiditatea relativă în punga din jurul ramurii. **Controlate:** aceeași plantă sau plante la fel, aceeași durată, aceeași temperatură.
 
-### Mini-input: anatomia unei investigații (min 0-15)
+> [!example]- Geografie: încălzirea suprafețelor de culori diferite
+> **Întrebarea:** se încălzește mai tare o suprafață închisă la culoare decât una deschisă? **Independentă:** culoarea suprafeței. **Dependentă:** temperatura suprafeței, cu senzorul IR (Enviro). **Controlate:** aceeași lumină, aceeași durată, același material.
 
-**Scop:** Etapele investigației și tipurile de variabile clarificate.
+> [!example]- Clasele primare: unde se topește gheața mai repede
+> **Întrebarea:** se topește un cub de gheață mai repede la soare sau la umbră? **Independentă:** locul. **Dependentă:** timpul până când sonda arată că apa trece de 0 °C. **Controlate:** cuburi la fel de mari, pahare la fel.
 
-1. Întrebare, ipoteză, variabile, plan, date, concluzie
-2. Exemplul stației „Fenomene termice” reluat ca investigație
-3. Ce face o ipoteză testabilă
+### Planul experimentului și repetarea măsurărilor
 
-> [!question] Întrebarea formatorului
-> „O ipoteză bună spune ce se schimbă, ce măsurăm și ce păstrăm la fel.”
+1. Scrieți planul în fișa echipei: ce măsurați, cu ce senzor, cu ce rată și cât timp, ce păstrați la fel.
+2. Configurați înregistrarea.
+3. Faceți cel puțin două repetări.
+4. Notați condițiile fiecărei repetări în documentul echipei.
 
-> [!example] Stația „Fenomene termice”, reluată ca investigație
-> - **Întrebarea:** se răcește mai repede apa dintr-un pahar acoperit sau din unul descoperit?
-> - **Ipoteza:** apa din paharul descoperit se răcește mai repede, pentru că pierde căldură și prin evaporare.
-> - **Variabila independentă:** paharul acoperit sau descoperit.
-> - **Variabila dependentă:** temperatura apei, măsurată cu sonda externă.
-> - **Variabilele controlate:** volumul de apă, temperatura de pornire, paharul, locul de pe masă.
-
-Aceeași anatomie, la alte discipline. Deschideți exemplul disciplinei voastre.
-
-> [!example]- La chimie
-> **Întrebarea:** cum depinde scăderea temperaturii de cantitatea de bicarbonat de sodiu peste care turnați oțetul? **Independentă:** cantitatea de bicarbonat. **Dependentă:** temperatura amestecului. **Controlate:** volumul și temperatura oțetului, paharul.
-
-> [!example]- La biologie
-> **Întrebarea:** cât durează până revine pulsul la valoarea de repaus după 10, 20 și 30 de genuflexiuni? **Independentă:** numărul de genuflexiuni. **Dependentă:** timpul de revenire a pulsului. **Controlate:** același elev, același ritm al genuflexiunilor, aceeași poziție la măsurare.
-
-> [!example]- La geografie
-> **Întrebarea:** la ora prânzului, e mai cald deasupra asfaltului sau deasupra ierbii? **Independentă:** suprafața. **Dependentă:** temperatura aerului la aceeași înălțime. **Controlate:** ora, înălțimea senzorului, umbra.
-
-> [!example]- La clasele primare
-> **Întrebarea:** unde se încălzește mai repede un pahar cu apă rece: la soare sau la umbră? **Independentă:** locul. **Dependentă:** temperatura apei. **Controlate:** aceeași cantitate de apă, pahare la fel, aceeași durată.
-
-**Aveți nevoie de:** Schema investigației (diapozitiv).
-
-### Alegerea întrebării (min 15-25)
-
-**Scop:** Fiecare echipă are o întrebare de cercetare și o ipoteză.
-
-1. Echipa alege din banca de întrebări sau propune una
-2. Scrie ipoteza și variabilele în fișa de investigație, un document comun al echipei (de exemplu Google Docs)
-
-> [!question] Întrebarea formatorului
-> „Puteți răspunde la întrebare cu ce aveți pe masă în 30 de minute? Dacă nu, o simplificăm.”
-
-**Produs:** Întrebarea și ipoteza scrise.
-
-**Aveți nevoie de:** [[la-clasa/anexe/banca-de-intrebari|banca de întrebări]], după modelul de Labdisc.
+> [!question] Gândiți-vă
+> Ce ar putea strica măsurarea? Notați acum, cât vă amintiți.
 
 > [!warning]- Dacă nu merge
-> Întrebare prea largă: formatorul ajută la restrângere.
+> Echipa e blocată: alegeți o variantă mai simplă a aceleiași întrebări, de exemplu o singură comparație în loc de trei.
 
-### Investigația în echipe (min 25-60)
+## Investigația în echipe
 
-**Scop:** Date colectate și repetate.
+### Erori de măsurare și limitele senzorilor
 
-1. Planul experimentului
-2. Configurarea înregistrării
-3. Cel puțin două repetări
-4. Notarea condițiilor în documentul echipei
+1. Comparați repetările: cât diferă?
+2. Numiți două surse de eroare și cum le-ați reduce.
+3. Verificați limitele senzorului: domeniul de măsurare și rata maximă, din tabelul modelului.
 
-> [!question] Întrebarea formatorului
-> „Ce ar putea strica măsurarea? Notați acum, cât vă amintiți.”
+> [!example] Unde caută erorile o echipă
+> O sondă mișcată între repetări, o probă mai caldă la pornire, un senzor lăsat în soare direct, un electrod nespălat între probe. Fiecare se vede pe grafic, ca o diferență între repetări sau ca un salt.
 
-**Produs:** Date brute salvate.
+### Comunicarea rezultatelor: graficul adnotat și concluzia argumentată
 
-**Aveți nevoie de:** Accesoriile cerute de echipe, seringi, lanterne, resorturi, mase marcate.
+> [!quote] Concluzia trebuie să poată fi citită direct de pe grafic.
 
-> [!warning]- Dacă nu merge
-> Echipa blocată peste 10 min: formatorul propune o variantă mai simplă a aceleiași întrebări.
-
-### Analiză și erori (min 60-75)
-
-**Scop:** Datele interpretate, erorile estimate.
-
-1. Grafic adnotat
-2. Comparația repetărilor
-3. Două surse de eroare și cum le-am reduce
-4. Concluzia: ipoteza se confirmă sau nu, cu argumente din date
-
-> [!question] Întrebarea formatorului
-> „Concluzia voastră trebuie să poată fi citită direct de pe grafic.”
-
-Exersați pe un grafic de geografie. Întrebarea: cum se schimbă temperatura aerului în curtea școlii de dimineața până seara? Desenați curba așteptată, apoi comparați.
+Exersați pe o întrebare din banca de geografie: cum se schimbă temperatura aerului pe parcursul zilei? Desenați curba așteptată, apoi comparați.
 
 ```grafic
 titlu: Temperatura aerului în curtea școlii, într-o zi senină
@@ -185,24 +162,9 @@ date:
 >
 > **Două surse de eroare, cu remediu:** discul lăsat în soare direct arată mai mult decât temperatura aerului, deci îl țineți la umbră; o singură zi poate fi neobișnuită, deci repetați măsurarea în altă zi senină.
 
-**Produs:** Grafic adnotat și concluzie (al treilea artefact).
+Prezentați rezultatul ca într-o galerie: puneți în Padletul grupului întrebarea, graficul adnotat și concluzia. Colegii vă lasă câte un comentariu despre erori.
 
-**Aveți nevoie de:** GlobiLab, foaia de calcul.
-
-### Galeria graficelor (min 75-90)
-
-**Scop:** Rezultatele comunicate și discutate.
-
-1. Fiecare echipă, 2 minute: întrebare, grafic, concluzie
-2. Colegii pun o întrebare despre erori
-
-> [!question] Întrebarea formatorului
-> „O singură întrebare de la colegi: cât de siguri sunteți și de ce?”
-
-**Aveți nevoie de:** Proiector sau laptopurile pe mese.
-
-> [!warning]- Dacă nu merge
-> Timp depășit: prezentare de 1 minut.
+> [!quote] O singură întrebare de la colegi: cât de siguri sunteți și de ce?
 
 ## Verificați-vă
 
@@ -215,11 +177,11 @@ Cinci întrebări despre variabile, ipoteze, erori și concluzii.
 - Volumul de ceai | Îl păstrați la fel în toate cănile: e o variabilă controlată.
 
 ? Care dintre ipotezele de mai jos se poate testa cu Labdisc?
-+ Dacă paharul e acoperit, apa pierde mai puține grade în 10 minute decât într-un pahar descoperit | Spune ce se schimbă, ce se măsoară și în cât timp.
-- Răcirea apei depinde de mulți factori | E adevărat, dar nu spune ce se schimbă și ce se măsoară, deci nu poate fi infirmată.
-- Apa caldă se răcește | Se știe dinainte și nu compară nimic.
++ O plantă transpiră mai mult la lumină: în aceeași oră, umiditatea din pungă crește mai mult la lumină decât la întuneric | Spune ce se schimbă, ce se măsoară și în cât timp.
+- Transpirația plantelor depinde de mulți factori | E adevărat, dar nu spune ce se schimbă și ce se măsoară, deci nu poate fi infirmată.
+- Plantele transpiră | Se știe dinainte și nu compară nimic.
 
-? De ce cere sesiunea cel puțin două repetări?
+? De ce cere investigația cel puțin două repetări?
 + Ca să vedeți cât diferă rezultatele și dacă concluzia rezistă | Diferența dintre repetări arată erorile întâmplătoare și cât de siguri puteți fi.
 - Ca să corectați erorile senzorului | Repetarea nu elimină o eroare sistematică: un senzor necalibrat greșește la fel de fiecare dată.
 - Ca să aveți mai multe date de exportat | Mai multe date nu ajută dacă nu le comparați.
@@ -235,9 +197,9 @@ Cinci întrebări despre variabile, ipoteze, erori și concluzii.
 - Experimentul a eșuat și trebuie ignorat | Un rezultat care infirmă ipoteza e tot un rezultat. O predicție greșită e la fel de utilă ca una corectă.
 ```
 
-## După sesiune: lucrul individual
+## Aplicați
 
-- Realizarea unei investigații proprii pe o temă din curriculumul la fizică (sau al disciplinei pe care o predați).
+- Realizarea unei investigații proprii pe o temă din curriculumul disciplinei.
 
 **Produsul:** Raport scurt de investigație: întrebare, ipoteză, date, grafic, concluzie, erori. **Evaluarea:** evaluare reciprocă.
 
@@ -251,9 +213,11 @@ Bifați ce puteți face fără ajutor. Bifele rămân doar în browserul dumneav
 
 ## Reflecție
 
-> [!quote] „O singură întrebare de la colegi: cât de siguri sunteți și de ce?”
+> [!quote] Cât de siguri sunteți de concluzia voastră și de ce?
 
-Scrieți, în Padlet-ul cursului sau în documentul comun al grupului (de exemplu un Google Doc), un lucru pe care îl duceți la clasă din sesiunea aceasta și un lucru care încă nu e clar.
+Scrieți răspunsul în documentul vostru de curs, alături de un lucru pe care îl duceți la clasă și unul care încă nu e clar.
+
+**Mai departe:** ați trecut prin investigație ca elevii. În [[formare/4-lectia-mea-cu-labdisc|unitatea 4]] o proiectați pentru clasa voastră.
 
 ## Surse
 

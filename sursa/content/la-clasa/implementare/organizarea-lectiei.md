@@ -22,7 +22,7 @@ flowchart TD
   D --> F
 ```
 
-Dacă aveți un singur Labdisc, folosiți [[la-clasa/metodologie/prezice-observa-explica|prezice, observă, explică]] cu toată clasa, sau lucrați pe stații: o echipă măsoară, celelalte pregătesc ipoteza sau analizează datele echipei de dinainte. Modelul de stații e în [[la-clasa/anexe/fise-de-statie|fișele celor trei stații]].
+Dacă aveți un singur Labdisc, folosiți [[la-clasa/metodologie/prezice-observa-explica|prezice, observă, explică]] cu toată clasa, sau lucrați pe stații: o echipă măsoară, celelalte pregătesc ipoteza sau analizează datele echipei de dinainte. Stații gata făcute, câte trei pe disciplină, sunt în [[la-clasa/anexe/fise-de-statie|fișele de stație]].
 
 > [!tip] Stația fără aparat
 > Când aparatele nu ajung, o stație poate lucra cu o simulare pe calculator sau pe telefon. Elevii fac acolo predicția și o verifică în simulare, apoi trec la stația cu Labdisc și compară simularea cu măsurarea reală.

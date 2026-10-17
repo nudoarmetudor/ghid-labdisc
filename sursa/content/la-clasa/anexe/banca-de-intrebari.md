@@ -183,7 +183,7 @@ sursa: PhET Interactive Simulations, University of Colorado Boulder, CC BY 4.0.
 
 ? Când e de obicei cel mai cald aerul într-o zi senină?
 - Dimineața, la răsăritul soarelui | Dimineața aerul e de obicei cel mai rece.
-+ După-amiaza | Corect: solul se încălzește toată dimineața și încălzește aerul, de aceea maximul vine după amiază.
++ După-amiaza | Corect: solul se încălzește toată dimineața și încălzește aerul, de aceea maximul vine după-amiaza.
 - La miezul nopții | Noaptea solul se răcește și aerul la fel.
 
 ? Ce înseamnă un oxigen dizolvat scăzut într-un lac?
