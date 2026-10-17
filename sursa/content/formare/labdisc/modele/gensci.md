@@ -72,3 +72,29 @@ Labdisc Gensci poate fi utilizat pentru:
 ---
 
 *Text preluat din ghidul de utilizare a dispozitivului Labdisc Globisens și a aplicației GlobiLab, de Victoria Calistru, CNIDE „Clasa Viitorului”. Fotografiile aparatului, capturile de ecran din GlobiLab și schemele preluate din alte manuale aparțin titularilor lor și nu intră sub licența ghidului.*
+
+## Verificați-vă (adăugat de autorii ghidului)
+
+*Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe tabelul de mai sus.*
+
+```quiz
+? Ce senzor folosiți la GenSci pentru zgomotul din clasă, în decibeli?
++ Nivel sonor (56 – 95 dB) | Dă direct nivelul sunetului în decibeli.
+- Microfon | Microfonul arată forma undei sonore (0 – 5 V), nu nivelul în decibeli.
+- Intrare universală | Servește senzorilor analogici externi compatibili.
+
+? Ce accesoriu cere măsurarea pH-ului cu GenSci?
++ Senzorul de pH | Coloana „Accesorii externe” îl cere.
+- Nu este necesar | Senzorii integrați, ca umiditatea, nu cer accesorii; pH-ul, da.
+- Cablu banana | Cablurile banana servesc tensiunii și curentului.
+
+? Cu ce rată maximă măsoară GenSci temperatura ambientală?
++ 1 pe secundă | Așa scrie în tabel; pentru schimbări mai rapide folosiți sonda externă (până la 100/s).
+- 100 pe secundă | Aceasta e rata maximă a sondei de temperatură externă.
+- 100.000 pe secundă | Aceasta e rata maximă a curentului, tensiunii și microfonului.
+
+? Ce domeniu de distanță măsoară GenSci?
++ 0,4 – 10 m | Sub 0,4 m, valorile nu sunt corecte.
+- 0 – 10 m | Senzorul nu măsoară sub 0,4 m.
+- 0,4 – 100 m | Domeniul se oprește la 10 m.
+```

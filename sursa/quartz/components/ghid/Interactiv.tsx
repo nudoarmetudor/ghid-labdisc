@@ -13,6 +13,8 @@ Interactiv.css = `
 .interactiv-sursa { white-space: pre-wrap; font-size: .85rem; }
 .interactiv-eticheta { margin: .2rem 0 .8rem; font-size: .78rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--secondary); }
 .interactiv-nota { font-size: .85rem; color: var(--gray); margin: .6rem 0 0; }
+.copiaza-tabel { display: block; margin: 1rem 0 -.6rem auto; font: 600 .85rem var(--bodyFont); min-height: 36px; padding: .3rem .8rem; border-radius: 8px; border: 1px solid var(--secondary); background: var(--light); color: var(--secondary); cursor: pointer; }
+.copiaza-tabel:hover { background: var(--secondary); color: var(--light); }
 .interactiv-buton { font: 600 .92rem var(--bodyFont); min-height: 42px; padding: .5rem 1rem; margin: .6rem .5rem 0 0; border-radius: 10px; cursor: pointer;
   border: 1.5px solid var(--secondary); background: var(--secondary); color: #fff; }
 .interactiv-buton.secundar { background: transparent; color: var(--secondary); }

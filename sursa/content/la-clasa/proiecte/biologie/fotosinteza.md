@@ -2,7 +2,7 @@
 title: "Realizarea experimentelor pentru evidențierea fotosintezei la plante"
 autor: "Irina Chiprisean"
 autor_slug: "irina-chiprisean"
-realizat: "Chiprisean Irina – profesoară de biologie grad didactic doi"
+realizat: "Chiprisean Irina – profesoară de biologie, grad didactic doi"
 disciplina: "Biologie"
 clasa: "IX"
 modul: "PLANTE"
@@ -12,7 +12,7 @@ licenta: "CC BY-SA 4.0"
 tags: [biologie, clasa-ix, irina-chiprisean]
 ---
 
-*Secvență de lecție realizată de Chiprisean Irina – profesoară de biologie grad didactic doi. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
+*Secvență de lecție realizată de Chiprisean Irina – profesoară de biologie, grad didactic doi. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 **Tipul lecției:** Lucrare de laborator
 
@@ -53,7 +53,7 @@ CS2. Investigarea lumii vii cu ajutorul metodelor și al mijloacelor specifice p
 
 Fotosinteza este procesul prin care plantele verzi sintetizează substanțe organice (glucoză) din substanțe anorganice (CO₂ și H₂O) în prezența luminii, eliberând oxigen.
 
-**Ecuația chimică:** 6CO₂ + 6H₂O +Energie solară → C₆H₁₂O₆+ 6O₂
+**Ecuația chimică:** 6CO₂ + 6H₂O + Energie solară → C₆H₁₂O₆ + 6O₂
 
 Procesul se desfășoară în două etape interdependente:
 
@@ -72,7 +72,7 @@ Eficiența acestui proces depinde de o serie de variabile pe care le putem manip
 
 Spre deosebire de metodele clasice (cum ar fi numărarea bulelor de gaz la plantele acvatice sau observarea indirectă prin schimbarea culorii frunzelor de mușcată la fierbere și colorarea cu soluție de lugol), tehnologia **Globisens** oferă o abordare cantitativă și obiectivă. Cu **senzorul de luxmetru** putem măsura intensitatea luminii care generează un **grafic în timp real**. Panta acestui grafic (înclinația liniei) reprezintă vizual **rata sau viteza procesului**.
 
-**Materiale necesare:** planșa ,,Fotosinteza”, consolă Globisens, **senzor de intensitatea luminii (luxmetru)**, plantă acvatică (*Elodea canadensis* - Ciuma apelor), eprubetă, pâlnie de sticlă și un vas cu apă (sau un pahar înalt), sursă de lumină reglabilă (lampă) și o riglă, apă îmbogățită cu o ciupitură de bicarbonat de sodiu (sursă de CO₂).
+**Materiale necesare:** planșa „Fotosinteza”, consolă Globisens, **senzor de intensitate a luminii (luxmetru)**, plantă acvatică (*Elodea canadensis* - Ciuma apelor), eprubetă, pâlnie de sticlă și un vas cu apă (sau un pahar înalt), sursă de lumină reglabilă (lampă) și o riglă, apă îmbogățită cu o ciupitură de bicarbonat de sodiu (sursă de CO₂).
 
 ## Etapele lucrării
 

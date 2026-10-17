@@ -1,5 +1,5 @@
 ---
-title: "Lucrare practică: „Determinarea experimentală a pulsului și a presiunei arteriale în stare de repaus și după un efort fizic”"
+title: "Lucrare practică: „Determinarea experimentală a pulsului și a presiunii arteriale în stare de repaus și după un efort fizic”"
 autor: "Ion Chiprisean"
 autor_slug: "ion-chiprisean"
 realizat: "Chiprisean Ion – profesor de biologie, grad didactic superior"
@@ -67,9 +67,9 @@ O5 – să argumenteze importanța monitorizării periodice a acestor parametri 
 
 **Activitatea practică dirijată:**
 
--   **Etapa de repaus:** un elev stă relaxat, se conectează senzorul Labdisc (GlobiLab) la deget și înregistrează pulsul timp de 1 minut, vizualizând linia dreaptă/stabilă de pe graphic, concomitent, se măsoară tensiunea arterială cu tensiometrul. Datele se trec în fișa de laborator.
+-   **Etapa de repaus:** un elev stă relaxat, se conectează senzorul Labdisc (GlobiLab) la deget și înregistrează pulsul timp de 1 minut, vizualizând linia dreaptă/stabilă de pe grafic, concomitent, se măsoară tensiunea arterială cu tensiometrul. Datele se trec în fișa de laborator.
 -   **Etapa de efort:** Înregistrarea este pusă pe pauză. Elevul supus măsurărilor execută 30 de genuflexiuni în ritm constant (aprox. 45-60 secunde).
--   **Etapa de monitorizare post-efort:** Imediat ce elevul s-a așezat după efortul fizic, se reia înregistrarea pulsului pe Labdisc și se măsoară rapid tensiunea arterială. Elevii urmăresc schimbările pe ecranele lor graficul pulsului, Înregistrarea continuă 3-5 minute, până când valoarea se apropie de cea inițială de repaus.
+-   **Etapa de monitorizare post-efort:** Imediat ce elevul s-a așezat după efortul fizic, se reia înregistrarea pulsului pe Labdisc și se măsoară rapid tensiunea arterială. Elevii urmăresc schimbările pe ecranele lor graficul pulsului. Înregistrarea continuă 3-5 minute, până când valoarea se apropie de cea inițială de repaus.
 
 **Tehnologia Realizării:** Lucru în grup; Labdisc Biochem (cu senzor de ritm cardiac), dispozitive (tablete/laptopuri), software GlobiLab. Tensiometre, Algoritmul lucrării.
 
@@ -125,7 +125,7 @@ Elevii pot salva graficul din GlobiLab în format imagine și îl pot încărca 
 
 *Priviți graficul generat pe tabletă/calculator în faza de recuperare (post-efort) și răspundeți la următoarele cerințe:*
 
-a) **Valoarea de vârf :** Care a fost cea mai mare valoare a pulsului atinsă pe grafic imediat după terminarea efortului?
+a) **Valoarea de vârf:** Care a fost cea mai mare valoare a pulsului atinsă pe grafic imediat după terminarea efortului?
 
 R: \_\_\_\_\_\_\_\_\_\_
 

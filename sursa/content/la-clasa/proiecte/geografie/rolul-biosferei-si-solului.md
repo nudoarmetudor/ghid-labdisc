@@ -28,7 +28,7 @@ La finele activității didactice elevii vor fi capabili:
 
 **O1** Să identifice etapele investigării microclimatului localității pe baza materialului video.
 
-**O2** Să determine valorile temperaturii și umidității aerului în diverse zone a localității, utilizând dispozitivul Labdisc și aplicația GlobiLab.
+**O2** Să determine valorile temperaturii și umidității aerului în diverse zone ale localității, utilizând dispozitivul Labdisc și aplicația GlobiLab.
 
 **O3** Să explice rolul vegetației în diferențele valorilor temperaturii și umidității aerului, în baza rezultatelor experimentului.
 
@@ -58,7 +58,7 @@ Pentru a verifica aceste aspecte, elevii vor desfășura o investigație în ved
 
 **Sarcină de lucru:**
 
-● Vizionați materialul video în scopul utilizării **dispozitivului Labdisc** : [https://www.youtube.com/watch?v=UmI3UuyAvkg](https://www.youtube.com/watch?v=UmI3UuyAvkg)
+● Vizionați materialul video în scopul utilizării **dispozitivului Labdisc**: [https://www.youtube.com/watch?v=UmI3UuyAvkg](https://www.youtube.com/watch?v=UmI3UuyAvkg)
 
 ●Identificați etapele investigării experimentale pentru determinarea temperaturii și umidității aerului:
 
@@ -88,7 +88,7 @@ Pentru a verifica aceste aspecte, elevii vor desfășura o investigație în ved
 
 **Tehnologia realizării:** Studiul de caz; Problematizarea; Analiza materialului video; Activitate frontală, individuală; Dispozitivul Labdisc; Fișă de lucru, Google Maps, aplicația GlobiLab.
 
-### Extindere (5min, 12min, 8 min)
+### Extindere (5 min, 12 min, 8 min)
 
 **Investigația experimentală pe itinerar**
 

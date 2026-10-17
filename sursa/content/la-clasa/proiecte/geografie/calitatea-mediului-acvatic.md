@@ -28,7 +28,7 @@ La finalul lecției, elevii vor fi capabili:
 
 O1 Să determine parametrii fizico-chimici ai apei utilizând senzorii dispozitivului Labdisc (pH, temperatură, conductivitate, oxigen dizolvat).
 
-O2 Să analizeze comparativ rezultatele obținute pentru probele de apă prelevate din diferite surse ale mediului acvatic local .
+O2 Să analizeze comparativ rezultatele obținute pentru probele de apă prelevate din diferite surse ale mediului acvatic local.
 
 O3 Să interpreteze rezultatele experimentale prin corelarea valorilor determinate cu nivelul de calitate al apei.
 
@@ -42,25 +42,25 @@ O4 Să propună soluții de protecție și valorificare durabilă a resurselor d
 
 ***● Resurse didactice:***
 
-I.Codreanu, S. Roșcovan, Geografie. Manual pentru clasa a XII-a, Editura Bons Offices, Chișinău, 2024; dispozitivul Labdisc (Globisens) cu senzori pentru pH, conductivitate, oxigen dizolvat, site-ul oficial Globisens ([https://globisens.net](https://globisens.net)); aplicația GlobiLab; probe de apă prelevate din mediul local; tabele de interpretare a calității apei; calculator/laptop, conexiune la internet; fișe de lucru.
+I. Codreanu, S. Roșcovan, Geografie. Manual pentru clasa a XII-a, Editura Bons Offices, Chișinău, 2024; dispozitivul Labdisc (Globisens) cu senzori pentru pH, conductivitate, oxigen dizolvat, site-ul oficial Globisens ([https://globisens.net](https://globisens.net)); aplicația GlobiLab; probe de apă prelevate din mediul local; tabele de interpretare a calității apei; calculator/laptop, conexiune la internet; fișe de lucru.
 
-***● Evaluarea:*** conversația de verificare, analiza comparativă a parametrilor apei, interpretarea rezultatelor experimentale completarea tabelului de analiză, formularea unor măsuri de protecție a resurselor de apă
+***● Evaluarea:*** conversația de verificare, analiza comparativă a parametrilor apei, interpretarea rezultatelor experimentale, completarea tabelului de analiză, formularea unor măsuri de protecție a resurselor de apă
 
 ## Desfășurarea lecției
 
-### Realizarea sensului (5 min, 10min, 7min, 7min, 6min, 3min)
+### Realizarea sensului (5 min, 10 min, 7 min, 7 min, 6 min, 3 min)
 
 Profesorul prezintă elevilor imagini care ilustrează diferite activități umane din apropierea apelor și explică faptul că aceste activități pot influența calitatea mediului acvatic.
 
-*-Analizați imaginile prezentate și identificați activitățile umane cu tipul de poluare a apei corespunzător fiecărei imagini (poluare agricolă, menajeră, industială, radioactivă).*
+*- Analizați imaginile prezentate și identificați activitățile umane cu tipul de poluare a apei corespunzător fiecărei imagini (poluare agricolă, menajeră, industrială, radioactivă).*
 
 ![Imagine ilustrativă: poluare radioactivă, centrală cu turnuri de răcire și deversare în râu](la-clasa/proiecte/geografie/imagini/calitatea-mediului-acvatic-1.jpg)![Imagini ilustrative: poluare menajeră (deșeuri pe malul râului), industrială (deversări din conducte) și agricolă (stropirea culturilor de lângă canal)](la-clasa/proiecte/geografie/imagini/calitatea-mediului-acvatic-2.jpg)
 
 *- Explicați ce consecințe pot avea aceste tipuri de poluare asupra mediului geografic.*
 
-*-Cum influențează activitățile umane calitatea apei?*
+*- Cum influențează activitățile umane calitatea apei?*
 
-*-Cum putem verifica dacă apa este într-adevăr afectată de aceste tipuri de poluare?*
+*- Cum putem verifica dacă apa este într-adevăr afectată de aceste tipuri de poluare?*
 
 Pentru a evidenția acest aspect, este necesară investigarea calității apei prin determinarea unor indicatori fizico-chimici specifici. În acest scop, au fost selectate trei tipuri de surse de apă din mediul acvatic local: apă din râu, apă din lac și apă freatică. Compararea parametrilor fizico-chimici ai acestor probe permite evidențierea influenței factorilor naturali și antropici asupra stării ecosistemelor acvatice.
 
@@ -76,13 +76,13 @@ Fiecare grupă primește o sarcină experimentală.
 
 Determinați pH-ul apei din cele trei probe (lac, râu, apă freatică) utilizând senzorul de pH al dispozitivului Labdisc. Introduceți sonda succesiv în fiecare vas cu apă, urmăriți valorile afișate în aplicația GlobiLab și notați rezultatele în tabelul de lucru. Comparați valorile obținute și precizați dacă apa este neutră, ușor acidă sau ușor alcalină. Formulați o concluzie privind influența pH-ului asupra ecosistemelor acvatice.
 
-**●Sarcina de lucru– grupa 2** (oxigenul dizolvat)
+**●Sarcina de lucru – grupa 2** (oxigenul dizolvat)
 
 Determinați concentrația oxigenului dizolvat în probele de apă din lac, râu și apă freatică utilizând senzorul corespunzător. Introduceți sonda în fiecare probă și urmăriți valorile afișate în aplicația GlobiLab. Înregistrați rezultatele în tabel și comparați valorile obținute. Analizați în ce măsură aceste valori influențează gradul de oxigenare al apei și, implicit, supraviețuirea organismelor acvatice.
 
 ![Imagine ilustrativă: măsurarea oxigenului dizolvat în probele de apă cu Labdisc](la-clasa/proiecte/geografie/imagini/calitatea-mediului-acvatic-4.jpg)
 
-**Sarcina de lucru– grupa 3 (conductivitatea apei)**
+**Sarcina de lucru – grupa 3 (conductivitatea apei)**
 
 ● Determinați conductivitatea electrică a apei din cele trei probe (râu, lac și apă freatică) utilizând senzorul dispozitivului Labdisc. Introduceți sonda senzorului succesiv în fiecare probă de apă, observați valorile afișate în aplicația GlobiLab și înregistrați rezultatele în tabelul de analiză. ●Comparați valorile obținute și analizați diferențele dintre acestea.
 
@@ -100,7 +100,7 @@ Determinați concentrația oxigenului dizolvat în probele de apă din lac, râu
 
 ●Explicați posibilele cauze ale acestor diferențe, ținând cont de **factorii naturali** (tipul rocilor, circulația apei, aerarea) și de **factorii antropici** (activități agricole, menajere sau industriale) Anexa 1
 
-**Tehnologia realizării:** Activitate frontală; Problematizare; Experimentul; Lucru pe grupe; Senzori; Fișe de investigație; probe de apă; Experiment, Activitate pe grupe. Senzor oxigen dizolvat, senzor ph și pentru conductivitate, aplicația GlobiLab, probe de apă, Tabel de analiză și interpretarea datelor. Tabelul centralizator; Conversație de evaluare; Activitate frontală
+**Tehnologia realizării:** Activitate frontală; Problematizare; Experimentul; Lucru pe grupe; Senzori; Fișe de investigație; probe de apă; Experiment, Activitate pe grupe. Senzor oxigen dizolvat, senzor pH și pentru conductivitate, aplicația GlobiLab, probe de apă, Tabel de analiză și interpretarea datelor. Tabelul centralizator; Conversație de evaluare; Activitate frontală
 
 ## Anexa 1 Tabel orientativ pentru interpretarea rezultatelor experimentale
 

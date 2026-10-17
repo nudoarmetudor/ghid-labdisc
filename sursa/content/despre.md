@@ -7,6 +7,19 @@ description: Cine a făcut ghidul, ce puteți face cu materialele și cum le cit
 
 Ghidul însoțește cursul „Integrarea Labdisc în activități practice de cercetare la științe”, ținut la Centrul Național de Inovații Digitale în Educație „Clasa Viitorului” (UPSC, blocul 1, etajul 3). Ghidul e al Centrului „Clasa Viitorului”. Autori: Tudor Lapp, autorul și formatorul cursului, și Victoria Calistru, autoarea ghidului de utilizare Labdisc, pe care se sprijină tutorialele. Secvențele de lecție sunt scrise de profesori contractați de Centru, fiecare semnată de autorul ei. Ele nu fac parte din orele cursului: sunt resurse deschise, oferite profesorilor după curs.
 
+## Cum e construit ghidul
+
+Ghidul e o resursă de lucru, nu un text de citit de la cap la coadă. L-am construit după criteriile LORI (Learning Object Review Instrument), aceleași pe care le găsiți în [[la-clasa/anexe/evaluare-lori|fișa de evaluare LORI]], ca să-l puteți judeca și voi:
+
+- **Alinierea la obiective:** fiecare pagină din Formare începe cu ce veți putea face după ea, iar ordinea paginilor din meniu e drumul prin curs.
+- **Feedback:** exercițiile răspund imediat și explică fiecare variantă, nu doar „corect” sau „greșit”.
+- **Motivația:** în graficele de predicție vă desenați întâi curba, apoi o comparați cu datele.
+- **Designul prezentării:** pași scurți, diagrame, explicații care se deschid la nevoie.
+- **Ușurința utilizării și accesibilitatea:** totul se citește pe telefon, tabelele se copiază cu un buton direct în Google Docs sau Sheets, imaginile au o explicație scrisă.
+- **Reutilizabilitatea:** fișele și anexele sunt modele pe care le copiați în documentele clasei; fiecare lecție spune ce Labdisc îi trebuie.
+
+Tot ce se scrie, se desenează sau se schițează se face în format digital: Google Docs, Sheets, Forms, Padlet sau table digitale. Ce bifați sau desenați pe paginile ghidului rămâne doar în browserul vostru.
+
 ## Ce puteți face cu materialele
 
 Conținutul ghidului e sub licența [Creative Commons Atribuire-Partajare în condiții identice 4.0 Internațional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ro). Pe scurt:

@@ -64,7 +64,7 @@ Matei începe să râdă: *„Aerul este format din gaze, cum ar fi oxigenul și
 
 Profesorul provoacă elevii să analizeze situația răspunzând la următoarele întrebări:
 
--   Cine are dreptate Matei sau Ana? De ce?
+-   Cine are dreptate, Matei sau Ana? De ce?
 -   De unde provine apa care a format picăturile pe fereastră, având în vedere că la începutul orei geamurile erau uscate?
 -   Dacă Ana are dreptate și apa se află în aerul din clasă, sub ce formă (starea de agregare) se găsește ea în mod normal, de nu o putem vedea cu ochiul liber?
 
@@ -80,7 +80,7 @@ Profesorul propune elevilor investigarea științifică a fenomenului descris ma
 
 1.  **Măsurarea umidității aerului atmosferic din sala de clasă**
 
--   Porniți Labdisc-ul. Pentru aceasta folosiți tastele de navigare (săgețile) pentru a ajunge la meniul **"Sensor Setup"** și conectați-l la aplicația GlobiLab prin Bluetooth sau USB cablu.
+-   Porniți Labdisc-ul. Pentru aceasta folosiți tastele de navigare (săgețile) pentru a ajunge la meniul **„Sensor Setup”** și conectați-l la aplicația GlobiLab prin Bluetooth sau cablu USB.
 -   **Setarea parametrilor experimentului**:
 
 În aplicația GlobiLab, accesează meniul de configurare (pictograma în formă de roată dințată) și setează următoarele:
@@ -89,7 +89,7 @@ Profesorul propune elevilor investigarea științifică a fenomenului descris ma
 2.  Setează la **1/sec** (o citire pe secundă). Este ideal pentru a surprinde schimbările rapide provocate de respirație.
 3.  Setează la **1000** sau alege modul continuu, oferind suficient timp pentru toate cele 3 etape.
 
--   Apăsați butonul portocaliu ("Select/Run") pentru a începe înregistrarea datelor.
+-   Apăsați butonul portocaliu („Select/Run”) pentru a începe înregistrarea datelor.
 -   Așezați Labdisc-ul pe masă și porniți înregistrarea. Lăsați-l să măsoare aerul din clasă timp de 1-2 minute pentru a obține o linie de bază constantă pe grafic.
 
 2.  **Măsurarea umidității aerului expirat de către elev**

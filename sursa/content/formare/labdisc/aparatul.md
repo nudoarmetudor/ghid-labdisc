@@ -15,15 +15,15 @@ Labdisc este un dispozitiv portabil de tip **data logger**, conceput pentru cole
 
 Prin intermediul acestor senzori, Labdisc permite realizarea de măsurători în timp real, facilitând observarea directă a fenomenelor și analiza relațiilor dintre variabile. Datele colectate pot fi vizualizate pe ecranul dispozitivului sau pot fi transferate către un computer, tabletă sau telefon mobil pentru analiza detaliată prin intermediul software-ului dedicat.
 
-În context educațional, Labdisc sprijină activitățile de învățare bazate pe experiment și investigație, oferind elevilor posibilități de colectare și interpretare date reale, de a formula ipoteze și de a verifica modele teoretice.
+În context educațional, Labdisc sprijină activitățile de învățare bazate pe experiment și investigație, oferind elevilor posibilități de colectare și interpretare a datelor reale, de a formula ipoteze și de a verifica modele teoretice.
 
 Dispozitivul Labdisc are un design compact și ergonomic, fiind conceput pentru utilizarea în laborator, în sala de clasă sau în activități experimentale desfășurate în mediul exterior.
 
 Structura generală a dispozitivului include următoarele componente principale:
 
 - **carcasa și designul structural**, care asigură protecția componentelor interne și facilitează manipularea dispozitivului în timpul activităților experimentale;
-- **senzori**, care permit măsurarea simultană a diferitelor parametri experimentali;
-- **interfața de control**, prin intermediul căreia utilizatorului poate selecta senzorii, poate configura parametrii de măsurare și poate vizualiza valorile înregistrate.
+- **senzori**, care permit măsurarea simultană a diferiților parametri experimentali;
+- **interfața de control**, prin intermediul căreia utilizatorul poate selecta senzorii, poate configura parametrii de măsurare și poate vizualiza valorile înregistrate.
 
 Integrarea mai multor senzori într-un singur dispozitiv reduce complexitatea echipamentelor experimentale și permite realizarea rapidă a măsurătorilor în diferite contexte educaționale.
 
@@ -162,13 +162,13 @@ Se recomandă:
 
 - selectarea limbii de lucru înainte de utilizarea dispozitivului;
 - activarea conexiunii Bluetooth atunci când dispozitivul este utilizat împreună cu un calculator sau tabletă;
-- selectarea unităților de măsură disponibilă (de exemplu, pentru temperatură: °C sau °F), în funcție de cerințele experimentului;
+- selectarea unităților de măsură disponibile (de exemplu, pentru temperatură: °C sau °F), în funcție de cerințele experimentului.
 
 Pentru aceasta:
 
 - derulați opțiunile disponibile folosind tastele dispozitivului;
 - selectați opțiunea dorită;
-- confirmați alegerea realizată
+- confirmați alegerea realizată.
 
 > **Dacă funcția Bluetooth nu este activată, dispozitivul nu va putea comunica cu aplicația utilizată pentru colectarea datelor (de exemplu, GlobiLab).**
 
@@ -180,7 +180,7 @@ Pentru aceasta:
 
 Pentru realizarea unei sesiuni de măsurare, este necesară configurarea parametrilor de măsurare a datelor, în funcție de tipul experimentului și de senzorii utilizați.
 
-Pașii de configurare sunt prezentate în schema de mai jos.
+Pașii de configurare sunt prezentați în schema de mai jos.
 
 În cadrul acestui proces:
 
@@ -189,7 +189,7 @@ Pașii de configurare sunt prezentate în schema de mai jos.
 - se definește numărul de eșantioane, care determină durata totală a înregistrării;
 - se confirmă setările pentru inițierea procesului de colectare a datelor.
 
-Configurarea corectă a acestor parametri asigurări acuratețea și relevanța datelor colectate.
+Configurarea corectă a acestor parametri asigură acuratețea și relevanța datelor colectate.
 
 ![Schema meniului SETUP: selectarea senzorilor, a ratei de eșantionare și a numărului de eșantioane](formare/labdisc/imagini/11-schema-configurare-inregistrare.png)
 
@@ -201,7 +201,7 @@ Configurarea dispozitivului Labdisc poate fi realizată fie direct de pe dispozi
 
 **Configurarea poate fi realizată și prin aplicația software Globisens Labdisc, instalată în prealabil pe dispozitiv.**
 
-Aceasta se efectuează dupa conectarea dispozitivului prin Bluetooth sau cablu USB si permite:
+Aceasta se efectuează după conectarea dispozitivului prin Bluetooth sau cablu USB și permite:
 
 - configurarea detaliată a experimentului;
 - vizualizarea datelor în timp real;
@@ -210,3 +210,49 @@ Aceasta se efectuează dupa conectarea dispozitivului prin Bluetooth sau cablu U
 ---
 
 *Text preluat din ghidul de utilizare a dispozitivului Labdisc Globisens și a aplicației GlobiLab, de Victoria Calistru, CNIDE „Clasa Viitorului”. Fotografiile aparatului, capturile de ecran din GlobiLab și schemele preluate din alte manuale aparțin titularilor lor și nu intră sub licența ghidului.*
+
+## Verificați-vă (adăugat de autorii ghidului)
+
+*Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe textul de mai sus.*
+
+Porturile și intrările discului, pe cartonașe.
+
+```cartonase
+Port USB :: Legătura directă cu calculatorul, pentru transferul datelor și comunicarea cu GlobiLab.
+Port pentru încărcare :: Situat lateral; devine accesibil prin rotirea inelului. Aici se conectează adaptorul de 6 V.
+Intrarea pentru sonda de temperatură :: Pentru sonda de temperatură externă.
+Intrarea pentru pH și oxigen dizolvat :: Pentru electrozii de pH și de oxigen dizolvat.
+Intrarea universală :: Pentru senzori analogici compatibili.
+```
+
+Pașii configurării unei înregistrări, după secțiunea 1.6.2. Puneți-i în ordine.
+
+```ordine
+titlu: Ordonați pașii configurării pentru o înregistrare
+Selectați senzorii care vor fi utilizați
+Stabiliți rata de eșantionare, după cât de repede se schimbă fenomenul
+Definiți numărul de eșantioane, care dă durata înregistrării
+Confirmați setările ca să porniți colectarea datelor
+```
+
+```quiz
+? Câte taste are Labdisc și cum se împart?
++ 10: 7 de selecție a senzorilor și 3 de control | Așa sunt descrise în secțiunea 1.2.1.
+- 7, toate pentru senzori | Cele 7 sunt doar tastele de selecție a senzorilor; mai sunt 3 de control.
+- 3, toate de control | Tastele de control sunt 3, dar există și 7 taste pentru senzori.
+
+? Bluetooth-ul nu e activat pe disc. Ce se întâmplă?
++ Discul nu poate comunica cu aplicația, de exemplu cu GlobiLab | Ghidul o spune explicit în secțiunea 1.6.1. Soluția: activați Bluetooth-ul din configurare sau folosiți cablul USB.
+- Discul măsoară, dar nu afișează valorile pe ecran | Ecranul discului funcționează și fără Bluetooth.
+- Discul nu pornește | Bluetooth-ul ține de comunicare, nu de pornire.
+
+? Ce senzor are fiecare dintre cele patru modele, după tabelul 1.1?
++ Temperatura ambientală | Este bifată la GenSci, Enviro, Physio și BioChem.
+- Accelerometrul | În tabel e bifat doar la Physio.
+- Radiația UV | În tabel e bifată doar la Enviro.
+
+? Faceți o lecție de laborator, cu transfer sigur al datelor. Ce conexiune recomandă ghidul?
++ USB | E descrisă ca stabilă și rapidă, recomandată pentru sesiuni de laborator controlate.
+- Bluetooth | E recomandată pentru teren și experimente mobile.
+- Niciuna, datele se citesc doar de pe ecran | Pe ecran vedeți valoarea curentă; graficul și analiza cer transferul în aplicație.
+```

@@ -16,7 +16,7 @@ tags: [fizica, clasa-xi, angela-covali]
 
 ## Unități de competență
 
-5.1 Aplicarea relațiilor dintre energie, putere și randament în situații practice.
+5.1. Aplicarea relațiilor dintre energie, putere și randament în situații practice.
 
 5.4. Înregistrarea în tabel a valorilor mărimilor fizice măsurate, cu calcularea erorii absolute și a erorii relative.
 
@@ -26,25 +26,25 @@ tags: [fizica, clasa-xi, angela-covali]
 
 **Elevii vor fi capabili:**
 
-**O₁** –Să aplice relațiile fizice corespunzătoare pentru determinarea energiei electrice consumate și a energiei termice utile, utilizând datele experimentale obținute cu ajutorul dispozitivului Labdisc.
+**O₁** – Să aplice relațiile fizice corespunzătoare pentru determinarea energiei electrice consumate și a energiei termice utile, utilizând datele experimentale obținute cu ajutorul dispozitivului Labdisc.
 
-**O₂** –Să determine randamentul încălzitorului electric, prin raportarea energiei utile la energia electrică totală consumată și exprimarea rezultatului în procente, cu respectarea rigurozității calculelor.
+**O₂** – Să determine randamentul încălzitorului electric, prin raportarea energiei utile la energia electrică totală consumată și exprimarea rezultatului în procente, cu respectarea rigurozității calculelor.
 
-**O₃** –Să interpreteze rezultatele experimentale, prin compararea valorilor obținute și argumentarea diferențelor constatate față de randamentul teoretic.
+**O₃** – Să interpreteze rezultatele experimentale, prin compararea valorilor obținute și argumentarea diferențelor constatate față de randamentul teoretic.
 
 **O₄** – Să formuleze concluzii științifice argumentate, identificând cauzele pierderilor energetice și apreciind precizia măsurătorilor efectuate.
 
 ## Tehnologii didactice
 
--   **platforme digitale:** Labdisc Globisens Physics, senzori de temperatură, tensiune și curent; aplicația GlobiLab;.
+-   **platforme digitale:** Labdisc Globisens Physics, senzori de temperatură, tensiune și curent; aplicația GlobiLab.
 -   **metode didactice:** explicația, demonstrația, experimentul, observația dirijată, analiza datelor experimentale, problematizarea;
 -   **forma de organizare:** frontală, în grup (2–3 elevi), individual (pentru prelucrarea datelor).
 
 ## Resurse
 
 1.  Fizică, manual pentru clasa a XI-a, ediția 2020.
-2.  Labdisc Globisens Physics; senzori de temperatură, tensiune și curent; încălzitor electric; vas cu apă; balanță electronică; cronometru..
-3.  Calculator / tabletă cu aplicația GobiLab.
+2.  Labdisc Globisens Physics; senzori de temperatură, tensiune și curent; încălzitor electric; vas cu apă; balanță electronică; cronometru.
+3.  Calculator / tabletă cu aplicația GlobiLab.
 
 ## Desfășurarea lecției
 
@@ -66,7 +66,7 @@ Formulați concluzii.
 
 **Scopul lucrării:** determinarea experimentală a randamentului unui încălzitor electric prin măsurarea energiei electrice consumate și a energiei termice cedate apei, utilizând senzori digitali Labdisc.
 
-**Aparate și materiale:** Labdisc Physics – Globisens, senzor de tensiune, senzor de current, senzor de temperatură, sursă de current 6V, calorimetru electric, cântar electronic.
+**Aparate și materiale:** Labdisc Physics – Globisens, senzor de tensiune, senzor de curent, senzor de temperatură, sursă de curent 6V, calorimetru electric, cântar electronic.
 
 **Note teoretice**:
 
@@ -74,7 +74,7 @@ Formulați concluzii.
 
 Energia electrică furnizată de sursă este egală cu lucrul curentului electric: L = W = U • I • t
 
-Căldura primită de apă se calculează cu relația: Q = c • m • ΔT unde *c<sub>apă</sub>=4200J/kg∙K* Randamentul exprimă raportul dintre energia utilă obținută și energia totală consumată: η = Q/W • 100%
+Căldura primită de apă se calculează cu relația: Q = c • m • ΔT unde *c<sub>apă</sub>=4200J/kg∙K*. Randamentul exprimă raportul dintre energia utilă obținută și energia totală consumată: η = Q/W • 100%
 
 Conform principiului conservării energiei: W = Q<sub>util</sub> + Q<sub>pierderi</sub>
 
@@ -87,14 +87,14 @@ Conform principiului conservării energiei: W = Q<sub>util</sub> + Q<sub>pierder
 5.  Amestecați ușor apa pentru uniformizarea temperaturii.
 6.  Așteptați stabilizarea indicației și notați temperatura inițială: *T₁*
 7.  Montați circuitul electric conectând senzorul de curent în serie cu încălzitorul electric și senzorul de tensiune în paralel pe bornele încălzitorului.
-8.  Conectați dispozitivul Labdisc la calculator/tabletă. Deschideți aplicația GlobiLab, Selectați senzorii: tensiune, curent și temperatură setați înregistrarea simultană a datelor.
+8.  Conectați dispozitivul Labdisc la calculator/tabletă. Deschideți aplicația GlobiLab. Selectați senzorii: tensiune, curent și temperatură; setați înregistrarea simultană a datelor.
 9.  Porniți înregistrarea în aplicație.
 10. Conectați încălzitorul la sursa de alimentare.
 11. Notați timpul de funcționare (de exemplu 5 min).
 12. Observați evoluția temperaturii pe graficul afișat în timp real.
 13. După expirarea timpului stabilit, opriți încălzitorul.
 14. Lăsați 10–15 secunde pentru stabilizarea temperaturii și notați temperatura finală: *T₂*
-15. Utilizeazând funcția „Statistics → Mean” din GlobiLab, determinați din aplicație valorile medii ale tensiunii și intensității.
+15. Utilizând funcția „Statistics → Mean” din GlobiLab, determinați din aplicație valorile medii ale tensiunii și intensității.
 16. Repetă pașii 2-15 modificând masa apei.
 17. Completați tabelul de mai jos.
 

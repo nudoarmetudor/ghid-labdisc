@@ -17,7 +17,7 @@ Utilizarea Labdisc Physio în lecțiile de fizică permite:
 - analiza variațiilor de temperatură în experimente de termodinamică;
 - măsurarea presiunii atmosferice și studierea variației;
 - investigarea intensității luminii și a fenomenelor optice de bază;
-- colectarea și reprezentarea grafică a datelor în timp real.
+- colectarea și reprezentarea grafică a datelor în timp real;
 - facilitează învățarea prin experiment direct și măsurători reale;
 - permite elevilor să observe relații între mărimi fizice (ex. timp–viteză, temperatură–energie);
 - susține dezvoltarea competențelor de:
@@ -36,7 +36,7 @@ Utilizarea Labdisc Physio în lecțiile de fizică permite:
 4. Afișaj grafic 128 x 64 pixeli
 5. Taste de selectare senzor
 6. Senzor de mișcare
-7. Inserție șurub MS
+7. Inserție șurub M5
 8. Picior din plastic
 9. Inel rotativ
 10. Port USB
@@ -54,7 +54,7 @@ Utilizarea Labdisc Physio în lecțiile de fizică permite:
 
 *Tabelul 3.2. Senzori și caracteristici – Labdisc Physio*
 
-| Senzor | Domeniu de măsurare | Rata maximă de eșalonare | Accesorii externe |
+| Senzor | Domeniu de măsurare | Rata maximă de eșantionare | Accesorii externe |
 | --- | --- | --- | --- |
 | **Accelerometru**<br>Măsoară accelerația | -8 g până la +8 g | 100/s | Nu este necesar |
 | **Presiunea aerului**<br>Măsurarea presiunii aerului | 10 kPa – 300 kPa | 10/s | Tub din plastic |
@@ -76,3 +76,29 @@ Utilizarea Labdisc Physio în lecțiile de fizică permite:
 ---
 
 *Text preluat din ghidul de utilizare a dispozitivului Labdisc Globisens și a aplicației GlobiLab, de Victoria Calistru, CNIDE „Clasa Viitorului”. Fotografiile aparatului, capturile de ecran din GlobiLab și schemele preluate din alte manuale aparțin titularilor lor și nu intră sub licența ghidului.*
+
+## Verificați-vă (adăugat de autorii ghidului)
+
+*Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe tabelul de mai sus.*
+
+```quiz
+? Un elev stă la 20 cm de senzorul de distanță, iar valorile sar. De ce?
++ E sub domeniul senzorului, care începe la 0,4 m | Elevul trebuie să se îndepărteze la cel puțin 0,4 m.
+- Rata de 25/s e prea mare | Rata nu face valorile să sară; distanța prea mică, da.
+- Senzorul de distanță trebuie conectat cu cablu banana | Măsurarea distanței nu cere accesorii externe.
+
+? Măsurați tensiunea unei baterii de 4,5 V. Ce senzor alegeți?
++ Tensiune (-30 până la +30 V) | 4,5 V intră în domeniul lui.
+- Tensiune joasă (-500 până la +500 mV) | Domeniul se oprește la 0,5 V; bateria îl depășește.
+- Microfon | Microfonul măsoară undele sonore.
+
+? Circuitul vostru poate avea un curent de 2 A. Ce faceți?
++ Măriți rezistența ca să nu depășiți 1 A | Senzorul de curent măsoară între -1 și +1 A.
+- Măsurați direct, senzorul suportă | Domeniul senzorului este de -1 până la +1 A.
+- Folosiți senzorul de tensiune joasă | Acela măsoară tensiune, nu curent.
+
+? Ce accesoriu cere senzorul de curent electric?
++ Cablu banana | Așa scrie în coloana „Accesorii externe”.
+- Nu este necesar | Accelerometrul, de exemplu, nu cere accesorii; senzorul de curent, da.
+- Tub din plastic | Tubul servește senzorului de presiune a aerului.
+```

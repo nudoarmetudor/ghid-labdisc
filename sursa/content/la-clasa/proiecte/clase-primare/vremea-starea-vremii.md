@@ -26,13 +26,13 @@ tags: [clase-primare, clasa-ii, iulia-bat]
 
 **O1:** să explice ce înseamnă starea vremii și cum poate fi determinată temperatura.
 
-**O2:** să măsoare temperatura aerului folosind dispozitivul Labdisc gensci.
+**O2:** să măsoare temperatura aerului folosind dispozitivul Labdisc GenSci.
 
 **O3:** să folosească datele temperaturii aerului la alegerea vestimentației corespunzătoare și planificarea activităților.
 
 ## Tehnologii didactice
 
-**⇒ platforme digitale:** [https://globisens.net/](https://globisens.net/), [https://wordwall.net/ro](https://wordwall.net/ro) , [https://www.canva.com/](https://www.canva.com/) .
+**⇒ platforme digitale:** [https://globisens.net/](https://globisens.net/), [https://wordwall.net/ro](https://wordwall.net/ro), [https://www.canva.com/](https://www.canva.com/).
 
 **⇒ metode didactice:** discuția ghidată, experiența, demonstrația, explicația, lectura ghidată, descoperirea, lectura imaginii.
 
@@ -46,7 +46,7 @@ tags: [clase-primare, clasa-ii, iulia-bat]
 
 ## Desfășurarea lecției
 
-### Realizarea sensului (2 min, 7 min, 3 min, 5min, 8 min)
+### Realizarea sensului (2 min, 7 min, 3 min, 5 min, 8 min)
 
 ⇛**Lectura imaginilor.** Cadrul didactic propune elevilor să observe [posterul](https://drive.google.com/file/d/12a67NnvjaNonu66VynyksRoyXVMszGgq/view?usp=sharing) care conține imaginile: *termometru pentru măsurarea temperaturii aerului, 3 imagini cu fenomenele naturii specifice anotimpului toamna, o sală de clasă.*
 
@@ -71,13 +71,13 @@ tags: [clase-primare, clasa-ii, iulia-bat]
 
 ⇛**Analiza structurii termometrului, caiet, pagina 16** (poate fi folosit termometrul, ori altă imagine clară).
 
-⇛**Identificarea temperaturii aerului din sala de clasă, folosind Labdisc-ul gensci.**
+⇛**Identificarea temperaturii aerului din sala de clasă, folosind Labdisc-ul GenSci.**
 
-Dacă elevii au experiență anterioară de a lucra cu Labdisc - ul gensci, ei pot determina temperatura aerului singuri, lucrând în grupuri mici, conform algoritmului de lucru propus de cadrul didactic.
+Dacă elevii au experiență anterioară de a lucra cu Labdisc-ul GenSci, ei pot determina temperatura aerului singuri, lucrând în grupuri mici, conform algoritmului de lucru propus de cadrul didactic.
 
 Dacă nu dețin experiență de lucru, cadrul didactic va realiza experiența, iar elevii vor observa procesul, completând fișa de observare.
 
-⇛**Identificarea temperaturii aerului din exterior, cu ajutorul dispozitivului Labdisc gensci.**
+⇛**Identificarea temperaturii aerului din exterior, cu ajutorul dispozitivului Labdisc GenSci.**
 
 Cadrul didactic va ghida elevii să colecteze datele temperaturii în diferite zone din exterior: zonă umbrită, zonă expusă acțiunilor solare.
 
@@ -91,19 +91,19 @@ Cadrul didactic va ghida elevii să colecteze datele temperaturii în diferite z
 
 ⇛ **Joc digital educațional.** Cineva din elevi va accesa la panoul interactiv (cadrul didactic prezintă la ecran dacă nu există panou interactiv) [jocul](https://wordwall.net/ro/resource/107971587) educațional digital.
 
-**Strategii didactice:** Metode: observare, discuție ghidată, lectură independentă, descoperire, lectura imaginii; explicație. Forme: individual, în pereche, grup mic, grup mare. Resurse: fișa de observare, posterul cu imagini, ghidul pentru lectură, termometru pentru determinarea temperaturii aerului, Labdisc gensi. [https://wordwall.net/ro](https://wordwall.net/ro)
+**Strategii didactice:** Metode: observare, discuție ghidată, lectură independentă, descoperire, lectura imaginii; explicație. Forme: individual, în pereche, grup mic, grup mare. Resurse: fișa de observare, posterul cu imagini, ghidul pentru lectură, termometru pentru determinarea temperaturii aerului, Labdisc GenSci. [https://wordwall.net/ro](https://wordwall.net/ro)
 
-## Activitate de cercetare cu Labdisc gensci
+## Activitate de cercetare cu Labdisc GenSci
 
-**Vremea.Starea vremii.**
+**Vremea. Starea vremii.**
 
 **Disciplina: științe**
 
-**Clasa:a II-a**
+**Clasa: a II-a**
 
 Resurse hard:
 
--   Labdisc gensci
+-   Labdisc GenSci
 -   laptop
 -   panou interactiv/ecran/proiector
 
@@ -111,18 +111,18 @@ Resurse soft: GlobiLab 3.4.3
 
 ### Etapele experienței
 
-1.  Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-1.png)
+1.  Porniți Labdisc-ul, apăsând tasta Pornit/Oprit ![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-1.png)
 2.  Conectați Labdisc-ul la computer, folosind cablul USB, ori wireless Bluetooth.
-3.  Accesați aplicația Globilab(e necesar s-o descărcați din timp de pe site).
-4.  Faceți clic pe pictogramă și selectați un singur senzor, cel de determinare a temperaturii aerului din interior ; rata de eșantionare: Manual; 10 eșantioane.
+3.  Accesați aplicația GlobiLab (e necesar s-o descărcați din timp de pe site).
+4.  Faceți clic pe pictogramă și selectați un singur senzor, cel de determinare a temperaturii aerului din interior; rata de eșantionare: Manual; 10 eșantioane.
 
 ![Captură GlobiLab: fereastra de configurare a senzorilor](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-2.png)
 
 5.  Apăsați tasta ![tasta Labdisc cu săgeată întoarsă](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-3.png) pentru a începe experiența.
-6.  Apăsați tasta ![tasta Labdisc cu săgeată circulară](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-4.png)pentru înregistrarea temperaturii aerului din interiorul clasei.
+6.  Apăsați tasta ![tasta Labdisc cu săgeată circulară](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-4.png) pentru înregistrarea temperaturii aerului din interiorul clasei.
 7.  Efectuați 2-3 măsurări.
 8.  Continuați experiența cu măsurarea temperaturii aerului în hol, în curtea școlii, în zone expuse soarelui și în zone umbrite.
-9.  Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-5.png) pentru a alege tipul graficului(cu bare)![pictograma graficului cu bare](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-6.png).
+9.  Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-5.png) pentru a alege tipul graficului (cu bare) ![pictograma graficului cu bare](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-6.png).
 10. Pentru a adăuga text sau imagini la graficul cu bare, folosiți funcția de adnotare. Faceți clic pe pictograma **A**, apoi mutați cursorul peste una dintre barele roșii și apăsați clic stânga. Se va deschide o fereastră unde puteți introduce text și chiar imagini.
 
 ![Captură GlobiLab: graficul cu bare al temperaturii aerului în diferite locuri, cu adnotări](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-7.png)

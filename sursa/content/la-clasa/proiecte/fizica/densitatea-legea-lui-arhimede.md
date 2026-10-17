@@ -1,5 +1,5 @@
 ---
-title: "Lucare de laborator „Determinarea densității unei substanțe necunoscute, aplicând legea lui Arhimede”"
+title: "Lucrare de laborator „Determinarea densității unei substanțe necunoscute, aplicând legea lui Arhimede”"
 autor: "Angela Covali"
 autor_slug: "angela-covali"
 realizat: "Covali Angela, profesoară de fizică, grad didactic unu."
@@ -38,15 +38,15 @@ tags: [fizica, clasa-vii, angela-covali]
 
 ## Tehnologii didactice
 
--   **platforme digitale:** Labd isk Globisens Physics, senzor de forță.
+-   **platforme digitale:** Labdisc Globisens Physics, senzor de forță.
 -   **metode didactice:** explicația, demonstrația, experimentul, observația.
 -   **forma de organizare:** frontală, în grup.
 
 ## Resurse
 
 1.  Fizică, manual pentru clasa a VII-a, ediția 2020.
-2.  Labdisk, sensor de forță Globisens Physics, corp solid necunoscut, fir subțire, vas cu apă.
-3.  Calculator / tabletă cu aplicația GobiLab.
+2.  Labdisc, senzor de forță Globisens Physics, corp solid necunoscut, fir subțire, vas cu apă.
+3.  Calculator / tabletă cu aplicația GlobiLab.
 
 ## Desfășurarea lecției
 
@@ -70,7 +70,7 @@ Elevii vor fi inițiați ce este Labdisc.
 
 ### Realizarea sensului (35 min)
 
-Se fac precizări la mersul lucrării, fiecare elev sau pereche de elevi efectuiază lucrarea conform instrucțiunilor din Anexă.
+Se fac precizări la mersul lucrării, fiecare elev sau pereche de elevi efectuează lucrarea conform instrucțiunilor din Anexă.
 
 **Tehnologia realizării:** Experimentul; Învățare prin descoperire; Lucrul în perechi; Labdisc Globisens
 
@@ -78,15 +78,15 @@ Se fac precizări la mersul lucrării, fiecare elev sau pereche de elevi efectui
 
 Nume, prenume \_\_\_\_\_\_\_\_\_\_ clasa a VII-a \_\_\_\_\_\_\_\_\_\_
 
-**Lucare de laborator nr.4**
+**Lucrare de laborator nr. 4**
 
 **„Determinarea densității unei substanțe necunoscute, aplicând legea lui Arhimede”**
 
 **Scopul lucrării:** Determinarea densității unui corp necunoscut prin aplicarea legii lui Arhimede, folosind măsurători realizate cu senzori digitali (Globisens Physics).
 
-**Materiale:** Labdisc, sensor de forță (Globisens Physics), corp solid necunoscut, fir subțire, vas cu apă, calculator /tabletă cu aplicația GlobiLab.
+**Materiale:** Labdisc, senzor de forță (Globisens Physics), corp solid necunoscut, fir subțire, vas cu apă, calculator/tabletă cu aplicația GlobiLab.
 
-**Noțiuni teoretice:** Asupra unui corp scufundat total sau partial într-un lichid acționează o forță orientate vertical în sus, egală cu greutatea lichidului dislocuit.
+**Noțiuni teoretice:** Asupra unui corp scufundat total sau parțial într-un lichid acționează o forță orientată vertical în sus, egală cu greutatea lichidului dislocuit.
 
 ***Formula forței arhimedice*** F<sub>A</sub>=G₁-G₂
 
@@ -107,7 +107,7 @@ Nume, prenume \_\_\_\_\_\_\_\_\_\_ clasa a VII-a \_\_\_\_\_\_\_\_\_\_
 5.  Repetați măsurătorile de cel puțin 3–5 ori.
 6.  Completați tabelul de date.
 
-| Nr. ord. | Greutatea în aer G₁, N | Greutatea în apă G₂, N | Forța Arhimede F<sub>A</sub> , N | Volumul V, m³ | Masa m, kg | Densitatea ρ, kg/m³ |
+| Nr. ord. | Greutatea în aer G₁, N | Greutatea în apă G₂, N | Forța Arhimede F<sub>A</sub>, N | Volumul V, m³ | Masa m, kg | Densitatea ρ, kg/m³ |
 |----------|------------------------|------------------------|----------------------------------|---------------|------------|---------------------|
 | 1\.      |                        |                        |                                  |               |            |                     |
 | 2\.      |                        |                        |                                  |               |            |                     |
@@ -115,7 +115,7 @@ Nume, prenume \_\_\_\_\_\_\_\_\_\_ clasa a VII-a \_\_\_\_\_\_\_\_\_\_
 | 4\.      |                        |                        |                                  |               |            |                     |
 | 5\.      |                        |                        |                                  |               |            |                     |
 
-**Formule:** F<sub>A</sub> = G₁ - G₂; V = F<sub>A</sub>/(ρ<sub>apă</sub> • g) ; m = G₁/g; *ρ =* m/V ; ρ<sub>med</sub> = (ρ₁ + ρ₂ + ρ₃ + ρₙ)/n ; Δρ = | ρ - ρ<sub>med</sub> |; Δρ<sub>med</sub> = (Δρ₁ + Δρ₂ + Δρₙ)/n; εᵣ = Δρ<sub>med</sub>/ρ<sub>med</sub> • 100%
+**Formule:** F<sub>A</sub> = G₁ - G₂; V = F<sub>A</sub>/(ρ<sub>apă</sub> • g); m = G₁/g; *ρ =* m/V; ρ<sub>med</sub> = (ρ₁ + ρ₂ + ρ₃ + ρₙ)/n; Δρ = | ρ - ρ<sub>med</sub> |; Δρ<sub>med</sub> = (Δρ₁ + Δρ₂ + Δρₙ)/n; εᵣ = Δρ<sub>med</sub>/ρ<sub>med</sub> • 100%
 
 **Comparând valoarea obținută cu tabelul densităților cunoscute, substanța poate fi:**
 

@@ -20,7 +20,7 @@ tags: [fizica, clasa-viii, angela-covali]
 
 3.2. Definirea mărimilor fizice și a unităților de măsură: *intensitatea curentului electric, amperul, tensiunea electrică, voltul, rezistența electrică, ohmul.*
 
-3.3. Măsurarea/determinarea intensității curentului electric, a tensiunii electrice, și a rezistenței curentului electric.
+3.3. Măsurarea/determinarea intensității curentului electric, a tensiunii electrice și a rezistenței curentului electric.
 
 3.6. Respectarea normelor de securitate la utilizarea dispozitivelor electrice.
 
@@ -28,9 +28,9 @@ tags: [fizica, clasa-viii, angela-covali]
 
 **Elevii vor fi capabili:**
 
-**O₁** –Să definească și să enunțe relațiile dintre intensitatea curentului, tensiune și rezistență (Legea lui Ohm).
+**O₁** – Să definească și să enunțe relațiile dintre intensitatea curentului, tensiune și rezistență (Legea lui Ohm).
 
-**O₂** –Să construiască un circuit simplu și să măsoare tensiunea și intensitatea curentului cu Labdisc folosind senzorii pentru tensiune și intensitate a curentului electric.
+**O₂** – Să construiască un circuit simplu și să măsoare tensiunea și intensitatea curentului cu Labdisc folosind senzorii pentru tensiune și intensitate a curentului electric.
 
 **O₃** – Să calculeze rezistența electrică a rezistorului folosind relația R = U/I și să reprezinte grafic dependența *I=f(U)*.
 
@@ -52,7 +52,7 @@ tags: [fizica, clasa-viii, angela-covali]
 ## Resurse
 
 -   Fizică, manual pentru clasa a VIII-a, Editura Cartier, ediția 2020.
--   Labdisk, senzori de curent și tensiune Globisens Physics.
+-   Labdisc, senzori de curent și tensiune Globisens Physics.
 -   Calculator/tabletă cu aplicația GlobiLab instalată.
 -   Seturi Snap-Circuit (sau dispozitivele clasice de laborator: surse de curent, conductoare, becuri, rezistoare, ampermetru, voltmetru).
 
@@ -75,9 +75,9 @@ Elevii formulează ipoteza:
 
 ### Realizarea sensului (35 min)
 
-Se fac precizări la mersul lucrării, fiecare grup sau pereche de elevi efectuiază lucrarea de laborator conform instrucțiunilor din Anexă.
+Se fac precizări la mersul lucrării, fiecare grup sau pereche de elevi efectuează lucrarea de laborator conform instrucțiunilor din Anexă.
 
-**Tehnologia realizării:** Experiment, investigație, analiză grafică conversație dirijată; lucru pe grupe; Snap Circuits, Labdisc Globisens, aplicația GlobiLab, fișă de laborator
+**Tehnologia realizării:** Experiment, investigație, analiză grafică, conversație dirijată; lucru pe grupe; Snap Circuits, Labdisc Globisens, aplicația GlobiLab, fișă de laborator
 
 ### Reflecție (10 min)
 
@@ -86,7 +86,7 @@ Rezolvați problema:
 Pe ecranul aplicației GlobiLab, graficul indică o tensiune stabilă de 4,5 V și o intensitate a curentului de 150 mA.
 
 -   Calculați rezistența electrică a componentei utilizate în circuit.
--   Dacă înlocuim rezistorul actual cu unul care are o rezistență de două ori mai mare, dar păstrăm aceeași sursă de tensiune, cum se va modifica aspectul liniei intensității pe graficul Labdisk? Explicați fenomenul.
+-   Dacă înlocuim rezistorul actual cu unul care are o rezistență de două ori mai mare, dar păstrăm aceeași sursă de tensiune, cum se va modifica aspectul liniei intensității pe graficul Labdisc? Explicați fenomenul.
 
 **Tehnologia realizării:** analiză; frontal; grafic obținut, tablă
 
@@ -98,7 +98,7 @@ Nume, prenume \_\_\_\_\_\_\_\_\_\_ clasa a VIII-a \_\_\_\_\_\_\_\_\_\_
 
 **Scopul:** Verificarea experimentală a dependenței dintre tensiunea electrică (U) și intensitatea curentului (I), demonstrarea Legii lui Ohm.
 
-**Materiale necesare:** Labdisk, SnapCircuits (sursa de curent, rezistor/bec, conductoare), senzori de tensiune Globissens physics, sensor de curent Globissens physics, calculator/ tablet cu aplicația GlobiLab.
+**Materiale necesare:** Labdisc, SnapCircuits (sursa de curent, rezistor/bec, conductoare), senzori de tensiune Globisens Physics, senzor de curent Globisens Physics, calculator/tabletă cu aplicația GlobiLab.
 
 ![Schema circuitului electric: sursă de curent, ampermetru, bec și rezistor în serie, voltmetru conectat în paralel](la-clasa/proiecte/fizica/imagini/legea-lui-ohm-1.png)
 
@@ -126,7 +126,7 @@ Dacă observi încălzire, fă pauze între măsurări.
 
 6\. Calculați R = U/I
 
-Folosind hârtie milimetrică trasați graficul **I = f(U)**.
+Folosind hârtie milimetrică, trasați graficul **I = f(U)**.
 
 Care este dependența dintre U și I?
 

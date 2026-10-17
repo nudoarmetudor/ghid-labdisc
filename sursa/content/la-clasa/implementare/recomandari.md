@@ -17,7 +17,7 @@ tags: [labdisc]
 - Stabiliți parametrii de măsurare (rata de eșantionare, durata) în funcție de fenomenul analizat.
 - Încurajați elevii să formuleze ipoteze înainte de colectarea datelor.
 - Utilizați graficele generate pentru interpretare și discuții în grup.
-- Integrați activități în context reale (mediu, sănătate, tehnologie) pentru a crește relevanța învățării.
+- Integrați activități în contexte reale (mediu, sănătate, tehnologie) pentru a crește relevanța învățării.
 
 ## Erori frecvente în utilizare
 
@@ -32,11 +32,11 @@ tags: [labdisc]
 ## Listă de verificare înainte de lecție (Checklist)
 
 - [ ] Dispozitivul este complet încărcat
-- [ ] Senzorii necesare sunt funcționali și selectați
+- [ ] Senzorii necesari sunt funcționali și selectați
 - [ ] Conexiunea (USB/Bluetooth) este stabilă
 - [ ] Aplicația GlobiLab este instalată și testată
-- [ ] Parametrii de măsurare sunt setate corect
-- [ ] Materialele obiective auxiliare (sonde, cabluri, sunt pregătite cu activitățile auxiliare
+- [ ] Parametrii de măsurare sunt setați corect
+- [ ] Materialele obiective auxiliare (sonde, cabluri) sunt pregătite cu activitățile auxiliare
 - [ ] Elevii cunosc pașii experimentului
 
 ## Siguranță în utilizare

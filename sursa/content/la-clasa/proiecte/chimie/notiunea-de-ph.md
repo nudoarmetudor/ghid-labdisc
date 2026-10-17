@@ -28,13 +28,13 @@ tags: [chimie, clasa-x, aliona-baidan]
 
 **O₁** - Să explice disocierea apei și să definească corect mediul neutru, acid și bazic pe baza raportului dintre concentrațiile ionilor H⁺ și OH⁻.
 
-**O₂** -  Să definească pH-ul și să interpreteze scala pH (0-14), corelând valorile cu mediul soluției, dând exemple concrete.
+**O₂** - Să definească pH-ul și să interpreteze scala pH (0-14), corelând valorile cu mediul soluției, dând exemple concrete.
 
 **O₃** - Să utilizeze corect echipamentul digital Labdisc BioChem pentru măsurarea pH-ului diferitor soluții utilizate în activitatea cotidiană.
 
 ## Tehnologii didactice
 
-- *platforme digitale*: software-ul GlobiLab,  arcade.padlet
+- *platforme digitale*: software-ul GlobiLab, arcade.padlet
 
 - *metode didactice:* discuție ghidată, algoritmizare, experimentul chimic, problematizare.
 
@@ -46,7 +46,7 @@ tags: [chimie, clasa-x, aliona-baidan]
 2.  Ghid de implementare a curriculumului la disciplina Chimie în clasele X – XII. Chișinău, ediția 2020.
 3.  Chimie, manual pentru cl. a X-a de liceu profil real, profil umanist. Chișinău: Editura ARC, 2020. Velișco N., Kudrițcaia S.
 4.  Calculator, tablete, laboratorul digital Labdisc BioChem, electrod de pH.
-5.  Pahare Berzelius, hârtie de indicator universal, apă distilată pentru spălarea electrodului, apă plată ( de la robinet), soluție de săpun lichid, oțet alimentar diluat, suc de lămâie, apă minerală carbogazoasă, cafea, ceai negru, ceai verde, soluție de glicerină, ser fiziologic.
+5.  Pahare Berzelius, hârtie de indicator universal, apă distilată pentru spălarea electrodului, apă plată (de la robinet), soluție de săpun lichid, oțet alimentar diluat, suc de lămâie, apă minerală carbogazoasă, cafea, ceai negru, ceai verde, soluție de glicerină, ser fiziologic.
 
 ## Desfășurarea lecției
 

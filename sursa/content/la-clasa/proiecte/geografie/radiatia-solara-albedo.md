@@ -28,7 +28,7 @@ La finalul lecției, elevii vor fi capabili:
 
 **O1** Să explice noțiunea de albedo și rolul acesteia în bilanțul radiativ al suprafeței terestre, utilizând exemple de suprafețe cu valori diferite ale albedo-ului.
 
-**O2** Să investigheze experimental influența culorii suprafețelor asupra absorbției și reflectării radiației solare, utilizând senzorul de lumină .
+**O2** Să investigheze experimental influența culorii suprafețelor asupra absorbției și reflectării radiației solare, utilizând senzorul de lumină.
 
 **O3** Să interpreteze rezultatele experimentului privind intensitatea radiației reflectate de diferite suprafețe active.
 
@@ -38,20 +38,20 @@ La finalul lecției, elevii vor fi capabili:
 
 ●***Forme de organizare a activității:*** activitate frontală, activitate individuală, activitate pe grupe.
 
-●***Resurse didactice:*** manualul de Geografie pentru clasa a X-a (Nina Volontir, Ilie Boian, Alexandru Lungu, Editura Litera, Chișinău, 2020), scheme și imagini privind radiația solară, laptop , dispozitivul Labdisc , aplicația GlobiLab, suprafețe pentru experiment (hârtie albă și hârtie neagră), sursă de lumină naturală .
+●***Resurse didactice:*** manualul de Geografie pentru clasa a X-a (Nina Volontir, Ilie Boian, Alexandru Lungu, Editura Litera, Chișinău, 2020), scheme și imagini privind radiația solară, laptop, dispozitivul Labdisc, aplicația GlobiLab, suprafețe pentru experiment (hârtie albă și hârtie neagră), sursă de lumină naturală.
 
 ●*Evaluarea:* conversația de verificare, completarea tabelului cu datele experimentale, interpretarea valorilor înregistrate de senzorul de lumină al dispozitivului Labdisc în aplicația GlobiLab, analiza comparativă a valorilor radiației reflectate de diferite suprafețe, formularea concluziilor privind rolul albedo-ului în bilanțul radiativ al suprafeței terestre.
 
 ## Desfășurarea lecției
 
-### Realizarea sensului (10 min, 7 min, 10 min, 5min)
+### Realizarea sensului (10 min, 7 min, 10 min, 5 min)
 
-*Energia radiantă care vine de la Soare este sursa principală pentru producerea tuturor fenomenelor și proceselor care au loc la suprafața Pămantului și în atmosferă.*
+*Energia radiantă care vine de la Soare este sursa principală pentru producerea tuturor fenomenelor și proceselor care au loc la suprafața Pământului și în atmosferă.*
 
-1.  Analizați schema fig3.4 pag.71 și enumerați componentele radiației solare.
+1.  Analizați schema fig. 3.4 pag. 71 și enumerați componentele radiației solare.
 2.  ![Schema componentelor radiației solare: radiație directă, difuză, reflectată, atmosferică și terestră](la-clasa/proiecte/geografie/imagini/radiatia-solara-albedo-1.png)
 
-    Studiind textul din manual caracterizați componentele radiației solare în tabel, notând aspectele principale.
+    Studiind textul din manual, caracterizați componentele radiației solare în tabel, notând aspectele principale.
 
 | Componentele radiației solare | Caracteristici |
 |-------------------------------|----------------|
@@ -59,7 +59,7 @@ La finalul lecției, elevii vor fi capabili:
 
 -Analizați textul din manual și formulați definiția **albedoului**.
 
-*Albedoul reprezintă raportul procentual dintre radiația solară reflectată de o suprafață și radiația solară incidentă . Albedoul arată capacitatea unei suprafețe active de a reflecta energia solară.*
+*Albedoul reprezintă raportul procentual dintre radiația solară reflectată de o suprafață și radiația solară incidentă. Albedoul arată capacitatea unei suprafețe active de a reflecta energia solară.*
 
 Analizați tabelul și comparați valorile albedoului pentru diferite tipuri de suprafețe.
 
@@ -92,7 +92,7 @@ Pe baza datelor colectate, elevii analizează diferențele dintre suprafețe și
 
 **Tehnologia realizării:** Discuție dirijată; Lucrul cu manualul; Activitate frontală; Tabelul caracteristicilor; Conversația euristică; Analiza datelor; Discuție dirijată; Experiment didactic; Observație dirijată; Activitate pe grupe; Dispozitivul Labdisc; Aplicația GlobiLab
 
-### Reflecție (8min)
+### Reflecție (8 min)
 
 **Sarcina de lucru:**
 
