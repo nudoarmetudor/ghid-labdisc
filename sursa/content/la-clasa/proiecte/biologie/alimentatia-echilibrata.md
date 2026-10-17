@@ -18,7 +18,7 @@ tags: [biologie, clasa-vii, irina-chiprisean]
 
 ## Competențe specifice disciplinei Biologia
 
-- Utilizarea limbajului științific biologic referitor la structura, procese, fenomene, legi, concepte în diverse context de comunicare.
+- Utilizarea limbajului științific biologic referitor la structura, procese, fenomene, legi, concepte în diverse contexte de comunicare.
 
 ## Unități de competență
 
@@ -31,13 +31,13 @@ La sfârșitul activității, elevul va fi capabil/va putea să:
 
 O1 - Definească termenii-cheie ai temei: *digestie, respirație, rație alimentară.*
 
-O2 - Identifice substanțele organice necesare organismului ;
+O2 - Identifice substanțele organice necesare organismului;
 
 O3 - Explice semnificația nutriției și a respirației pentru organismul viu;
 
-O4: Să compare pH-ul diferitelor tipuri de sucuri pentru estimarea indirectă a conținutului de acizi (inclusiv vitamina C) utilizând senzorului de pH Globisens
+O4: Să compare pH-ul diferitelor tipuri de sucuri pentru estimarea indirectă a conținutului de acizi (inclusiv vitamina C) utilizând senzorul de pH Globisens
 
-O5 – Să argumenteze alegerea alimentelor naturale detrimentul celor procesate, bazându-se pe datele experimentale.
+O5 – Să argumenteze alegerea alimentelor naturale în detrimentul celor procesate, bazându-se pe datele experimentale.
 
 ## Tehnologii didactice
 
@@ -83,7 +83,7 @@ Profesorul prezintă un suc natural de portocale, un suc ambalat (100%) și o b�
 
 -   Analiza datelor obținute.
 
-Cum s-a modificat valoarea pH-ului în funcție de gradul de procesare al sucului?
+Cum s-a modificat valoarea pH-ului în funcție de gradul de procesare a sucului?
 
 De ce sucul carbogazos are un pH foarte mic, dar nu este sănătos?
 

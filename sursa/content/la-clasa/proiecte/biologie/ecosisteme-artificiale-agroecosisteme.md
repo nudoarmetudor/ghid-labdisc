@@ -53,7 +53,7 @@ O4 - Să colaboreze eficient în echipă, asumându-și roluri specifice (biolog
 
 **Materiale și echipamente necesare:** Sistem de achiziție de date Labdisc Biochem, dispozitiv (tabletă/laptop) cu aplicația GlobiLab instalată, fișe de lucru.
 
-**Instructaj de securitate și protecție în timpul aplicației:** *Elevii pot face această aplicație practică pe teritoriul școlii dacă școala dispune de seră funcțională sau la un agent economic din localitate care are seră și să fie accesibilă pentru elevi (poate fi încheiat un contract de parteneriat dintre proprietarul serei și administrația instituției care să reglementeze vizitele elevilor la seră). Deplasarea grupului de elevi la seră se efectuază doar în prezența profesorului care ghidează, îndrumează și monitorizează elevii cum efectuiază sarcinele și să nu deterioreze echipamentele, plantele și alte instalații din seră.*
+**Instructaj de securitate și protecție în timpul aplicației:** *Elevii pot face această aplicație practică pe teritoriul școlii dacă școala dispune de seră funcțională sau la un agent economic din localitate care are seră și să fie accesibilă pentru elevi (poate fi încheiat un contract de parteneriat dintre proprietarul serei și administrația instituției care să reglementeze vizitele elevilor la seră). Deplasarea grupului de elevi la seră se efectuează doar în prezența profesorului care ghidează, îndrumează și monitorizează elevii cum efectuează sarcinile și să nu deterioreze echipamentele, plantele și alte instalații din seră.*
 
 ## Desfășurarea lecției
 
@@ -71,7 +71,7 @@ Profesorul proiectează sau prezintă câteva ocupații moderne: *inginer agrono
 
 Clasa este împărțită în echipe de cercetare. Sarcina lor este să monitorizeze timp de **7 zile** factorii abiotici (Temperatura, Umiditatea Relativă, Nivelul de Iluminare) într-o seră reală (fie o seră aflată pe teritoriul școlii, fie la un agent economic/fermier partener din apropiere).
 
-**Instructajul Tehnic:** configurarea aparatului pentru achiziție de lungă durată direct din GlobiLab. Elevii trebuie să deducă faptul că Labdisc-ul va avea nevoie de o sursă de alimentare continua sau trebuie să fie încărcat complet (conectat la priză/baterie externă mare) și trebuie plasat într-un loc sigur în interiorul serei, ferit de apa directă de la irigații.
+**Instructajul Tehnic:** configurarea aparatului pentru achiziție de lungă durată direct din GlobiLab. Elevii trebuie să deducă faptul că Labdisc-ul va avea nevoie de o sursă de alimentare continuă sau trebuie să fie încărcat complet (conectat la priză/baterie externă mare) și trebuie plasat într-un loc sigur în interiorul serei, ferit de apa directă de la irigații.
 
 *Setări necesare:* Selectarea senzorilor (Temp, Umiditate, Luminozitate). Setarea ratei de eșantionare la 1 măsurătoare pe oră (pentru a nu umple memoria dispozitivului).
 
@@ -102,7 +102,7 @@ La lecția de evaluare de săptămâna viitoare, echipele vor descărca datele d
 
 **Tehnologia Realizării:** Lucru individual pe Classroom/ Portofoliul personal
 
-## Fișe de centralizarea datelor
+## Fișe de centralizare a datelor
 
 Monitorizarea microclimatului în seră
 
@@ -110,7 +110,7 @@ Monitorizarea microclimatului în seră
 
 **Perioada:** \_\_\_\_\_\_\_\_\_\_
 
-### Tabel 1: Valorile zilnice a factorilor abiotici
+### Tabel 1: Valorile zilnice ale factorilor abiotici
 
 *Sarcina tehnicianului de date: deschideți graficul în GlobiLab, folosiți funcția de citire a coordonatelor pentru a extrage următoarele valori pentru fiecare din cele 7 zile de monitorizare.*
 
@@ -139,13 +139,13 @@ Monitorizarea microclimatului în seră
 
 ### Sarcina de echipă
 
-Privind "Momentele Critice" de mai sus, care este cea mai mare vulnerabilitate a acestei sere (ex. e prea frig noaptea? prea multă umiditate ziua?) și ce **soluție inginerească/tehnologică** propuneți pentru a o rezolva sustenabil?
+Privind „Momentele Critice” de mai sus, care este cea mai mare vulnerabilitate a acestei sere (ex. e prea frig noaptea? prea multă umiditate ziua?) și ce **soluție inginerească/tehnologică** propuneți pentru a o rezolva sustenabil?
 
 ## RAPORT TEHNIC ȘI DE SOLUȚIONARE
 
-„ Monitorizarea microclimatului în seră”
+„Monitorizarea microclimatului în seră”
 
-**Numele echipei :** \_\_\_\_\_\_\_\_\_\_
+**Numele echipei:** \_\_\_\_\_\_\_\_\_\_
 
 **Perioada de monitorizare:** \_\_\_\_\_\_\_\_\_\_
 

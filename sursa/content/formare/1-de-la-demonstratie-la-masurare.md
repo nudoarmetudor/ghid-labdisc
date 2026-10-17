@@ -1,38 +1,45 @@
 ---
-title: "De la demonstrație la măsurare"
+title: "Labdisc și GlobiLab: de la demonstrație la măsurare"
 description: "Utilizarea dispozitivului Labdisc și a aplicației GlobiLab pentru configurarea unei înregistrări și citirea datelor în timp real."
 ordine: 1
 tags: [formare, sesiune]
 ---
 
-Sesiunea 1 din 4, 90 de minute, unitatea 1 a cursului: *De la demonstrație la măsurare: Labdisc și GlobiLab*. Forma de lucru: curs / laborator.
+Unitatea 1 din 4 a cursului.
 
 > [!abstract] Ce veți putea face
-> Rezultatele sesiunii, din curriculumul cursului:
->
-> - Să descrie structura dispozitivului Labdisc, senzorii și modurile de conectare.
+> - Să descrie structura dispozitivului Labdisc și senzorii fiecărui model.
 > - Să explice parametrii unei înregistrări.
 > - Să configureze Labdisc și GlobiLab pentru o înregistrare.
 >
 > Pe scurt: utilizarea dispozitivului Labdisc și a aplicației GlobiLab pentru configurarea unei înregistrări și citirea datelor în timp real.
 
-## Ce conține
-
-- Învățarea bazată pe investigație la științe: de la experimentul demonstrativ la măsurarea realizată de elevi.
-- Structura dispozitivului Labdisc: taste, ecran, senzori integrați și externi, porturi, alimentare. Modelele Labdisc (GenSci, Physio, BioChem, Enviro) și ce măsoară fiecare.
-- Aplicația GlobiLab: instalare, conectare prin USB și Bluetooth, configurarea înregistrării (senzori, rata de eșantionare, numărul de eșantioane).
-- Prima înregistrare: temperatură, lumină, nivel sonor; citirea graficului în timp real.
-
-> [!tip] De citit înainte sau după
+> [!tip] De citit pe parcurs
 > - [[formare/labdisc/index|Labdisc pe scurt]]
 > - [[formare/labdisc/aparatul|Aparatul: taste, ecran, senzori, configurare]]
 > - [[formare/labdisc/globilab|GlobiLab: instalare, interfață, colectarea datelor]]
 > - [[formare/labdisc/modele/index|Modelele Labdisc și senzorii lor]]
 > - [[la-clasa/implementare/ce-labdisc-aveti|Ce Labdisc aveți?]]
 
-## Cuvintele sesiunii
+> [!question] Înainte să începeți
+> Ce lucrare de laborator sau observație nu reușiți să o faceți la clasă și de ce? Scrieți răspunsul în Padletul grupului sau în documentul vostru de curs (de exemplu un Google Doc). Lista aceasta de obstacole o reluați în [[formare/4-lectia-mea-cu-labdisc|unitatea 4]].
 
-Înainte de aparat, vocabularul. Atingeți fiecare cartonaș, spuneți-vă explicația în gând, apoi întoarceți-l ca să verificați.
+## Investigația științifică cu senzori digitali
+
+### Învățarea bazată pe investigație: de la experimentul demonstrativ la măsurarea realizată de elevi
+
+Gândiți-vă la aceeași răcire a unui pahar cu apă, urmărită o dată cu termometrul și o dată cu Labdisc. Diferența nu e precizia, ci ce vede elevul.
+
+| Cu termometrul | Cu Labdisc |
+|---|---|
+| 3 valori citite pe termometru | o curbă în timp real |
+| elevul citește valorile una câte una | elevul are timp să gândească asupra datelor |
+
+> [!quote] Senzorul nu face experimentul în locul elevului. Îi dă timp să gândească asupra datelor.
+
+Asta aduce un data logger în lecția de științe: elevii nu mai privesc o demonstrație, ci pun o întrebare, prevăd, măsoară și explică. Pașii sunt descriși în [[la-clasa/metodologie/ciclul-investigatiei|Ciclul investigației]].
+
+Vocabularul unității, pe cartonașe. Spuneți-vă explicația în gând, apoi întoarceți cartonașul ca să verificați.
 
 ```cartonase
 Data logger (înregistrator de date) :: Aparat care măsoară cu senzori și păstrează valorile în timp. Labdisc adună mai mulți senzori într-un singur disc.
@@ -43,93 +50,46 @@ Numărul de eșantioane :: Câte valori se înregistrează în total. Împreună
 Durata înregistrării :: Numărul de eșantioane împărțit la rată: 1000 de eșantioane la 10 pe secundă înseamnă 100 s.
 USB :: Conexiune prin cablu, stabilă; potrivită pentru laborator.
 Bluetooth :: Conexiune fără fir cu laptopul, tableta sau telefonul; utilă pe teren. Trebuie activată pe disc.
-Marker :: Punct pus pe grafic, care arată valoarea exactă și momentul în care a fost măsurată.
+Marker :: Punct pus pe grafic în GlobiLab, care arată valoarea exactă și momentul în care a fost măsurată.
 Adnotare :: Text sau imagine scrise direct pe grafic, ca să explice ce s-a întâmplat în acel moment.
 ```
 
-## Desfășurarea, pas cu pas
+## Dispozitivul Labdisc și aplicația GlobiLab
 
-Minutele sunt de la începutul sesiunii. Întrebarea din chenarul „Întrebarea formatorului” e cea pe care formatorul o pune grupului; o puteți folosi la fel cu elevii.
+### Structura dispozitivului Labdisc: taste, ecran, senzori integrați și externi, porturi, alimentare
 
-```mermaid
-flowchart TD
-  A["0-10 min: deschidere"] --> B["10-25 min: ce aduce senzorul"]
-  B --> C["25-45 min: aparatul"]
-  C --> D["45-60 min: conectarea la GlobiLab"]
-  D --> E["60-80 min: prima înregistrare"]
-  E --> F["80-90 min: recapitulare"]
-```
+Luați discul în mână și parcurgeți pașii. Detaliile sunt în [[formare/labdisc/aparatul|Aparatul Labdisc]].
 
-### Deschidere și evaluare inițială (min 0-10)
-
-**Scop:** Cadrul de lucru stabilit, așteptări cunoscute.
-
-1. Bun venit, agenda zilei
-2. Echipe de 2-3 la un Labdisc
-3. Asalt de idei pe un panou Padlet comun: „Ce lucrare de laborator nu reușiți să o faceți la clasă și de ce?”
-
-> [!question] Întrebarea formatorului
-> „Azi lucrăm cu aparatul în mână. Până la prânz fiecare echipă are grafice proprii.”
-
-**Produs:** Lista de obstacole, pe panoul Padlet al grupului, reluată la S4.
-
-**Aveți nevoie de:** Agenda proiectată, un panou Padlet deschis pentru tot grupul.
+1. Porniți discul, alegeți limba și activați Bluetooth-ul.
+2. Găsiți pe disc tastele, ecranul, porturile și senzorii.
+3. Alegeți un senzor cu tastele de selecție și citiți valoarea direct pe ecran.
 
 > [!warning]- Dacă nu merge
-> Dacă întârzie participanți: începeți cu echipele prezente, recapitulare de 2 min la sosire.
+> Baterie descărcată: puneți discul la încărcat și lucrați între timp cu alt disc. Încărcarea completă durează aproximativ 6 ore, deci discurile se încarcă din ziua dinainte.
 
-### Mini-input: ce aduce senzorul în lecție (min 10-25)
+### Modelele Labdisc (GenSci, Physio, BioChem, Enviro) și ce măsoară fiecare
 
-**Scop:** Diferența dintre experiment demonstrativ și investigație înțeleasă.
+1. Identificați modelul pe care îl aveți.
+2. Cu [[formare/labdisc/aparatul#1.3 Senzori integrați și senzori externi|tabelul senzorilor pe modele]], stabiliți ce poate și ce nu poate măsura.
+3. Comparați modelele: care se potrivește disciplinei voastre și ce aveți la școală.
 
-1. Aceeași răcire a apei, cu termometru și cu Labdisc
-2. Comparăm ce vede elevul: 3 valori citite pe termometru sau o curbă în timp real
-3. Învățarea bazată pe investigație, pe scurt
+> [!question] Gândiți-vă
+> Ce model aveți? Ce experiment din disciplina voastră nu ați putea face cu el?
 
-| Cu termometrul | Cu Labdisc |
-|---|---|
-| 3 valori citite pe termometru | o curbă în timp real |
-| elevul citește valorile una câte una | elevul are timp să gândească asupra datelor |
+> [!example]- Ce model pentru ce disciplină
+> Stațiile cursului folosesc Physio sau GenSci la fizică, BioChem la chimie și biologie, Enviro la geografie și GenSci la clasele primare. Senzorul de temperatură externă e pe toate modelele, deci o primă înregistrare merge oriunde.
 
-> [!question] Întrebarea formatorului
-> „Senzorul nu face experimentul în locul elevului. Îi dă timp să gândească asupra datelor.”
+**Ce produceți:** fișa modelului, în documentul vostru: senzorii disponibili și experimentele posibile. Fiecare model are pagina lui în [[formare/labdisc/modele/index|Modelele Labdisc]], cu un test scurt la final.
 
-**Aveți nevoie de:** Proiector, un Labdisc conectat la proiector.
+### Aplicația GlobiLab: instalare, conectare prin USB și Bluetooth, configurarea înregistrării
 
-> [!warning]- Dacă nu merge
-> Dacă proiectorul nu preia Bluetooth-ul: conectare prin USB.
+1. Instalați GlobiLab, după pașii din [[formare/labdisc/globilab#2.1 Instalare GlobiLab Software|GlobiLab, secțiunea 2.1]].
+2. Conectați discul prin USB sau prin Bluetooth.
+3. Deschideți „Configurare” și alegeți senzorii, rata de eșantionare și numărul de eșantioane.
+4. Calculați durata: număr de eșantioane / rată.
 
-### Cunoașterea dispozitivului Labdisc (min 25-45)
-
-**Scop:** Participanții cunosc dispozitivul: taste, ecran, senzori, porturi.
-
-1. Pornire, limba, Bluetooth
-2. Fiecare echipă își identifică modelul (GenSci, Physio, BioChem sau Enviro) și, cu tabelul senzorilor din ghid, spune ce poate și ce nu poate măsura
-3. Găsește senzorii pe disc și citește o valoare direct pe ecran
-4. Comparăm modelele: care se potrivește disciplinei voastre și ce aveți la școală
-
-> [!question] Întrebarea formatorului
-> „Ce model aveți pe masă? Ce experiment din disciplina voastră nu ați putea face cu el?”
-
-**Produs:** Fișa modelului, în documentul comun al echipei: senzori disponibili și experimente posibile.
-
-**Aveți nevoie de:** Labdisc încărcate (toate cele 4 modele), tabelul senzorilor pe modele din ghid.
-
-> [!warning]- Dacă nu merge
-> Baterie descărcată: încărcătorul pe masa formatorului; echipa lucrează cu un dispozitiv vecin.
-
-Tabelul senzorilor pe modele e în [[formare/labdisc/aparatul#1.3 Senzori integrați și senzori externi|Aparatul, secțiunea 1.3]]; fiecare model are pagina lui în [[formare/labdisc/modele/index|Modelele Labdisc]], cu un test scurt la final.
-
-### Conectarea la GlobiLab (min 45-60)
-
-**Scop:** Labdisc conectat la GlobiLab și înregistrarea configurată.
-
-1. Conectare USB sau Bluetooth
-2. „Configurare”: senzori, rata de eșantionare, numărul de eșantioane
-3. Calculăm durata: număr de eșantioane / rată
-
-> [!question] Întrebarea formatorului
-> „10 eșantioane pe secundă și 1000 de eșantioane: cât durează înregistrarea?”
+> [!question] Calculați
+> 10 eșantioane pe secundă și 1000 de eșantioane: cât durează înregistrarea?
 
 Răspundeți întâi în gând, apoi verificați în calculator. După aceea schimbați rata la 1 pe secundă și urmăriți cum se schimbă durata.
 
@@ -139,14 +99,10 @@ Răspundeți întâi în gând, apoi verificați în calculator. După aceea sch
 > [!example] Cum alegeți rata
 > Rata se alege după cât de repede se schimbă fenomenul. Răcirea unui pahar cu apă e lentă: 1 valoare pe secundă ajunge. Un sunet sau o descărcare electrică se schimbă în fracțiuni de secundă și cer rate mari. O rată prea mare la un fenomen lent nu face graficul mai bun, doar fișierul mai mare.
 
-**Produs:** Dispozitiv conectat, setări salvate.
-
-**Aveți nevoie de:** Laptopuri cu GlobiLab, cabluri USB.
-
 > [!warning]- Dacă nu merge
-> Bluetooth-ul nu găsește dispozitivul: cablu USB. GlobiLab neinstalat: laptop de rezervă.
+> Bluetooth-ul nu găsește discul: verificați că e activat pe disc sau folosiți cablul USB.
 
-Puneți pașii unei înregistrări în ordine. Folosiți săgețile, apoi apăsați „Verifică ordinea”.
+Puneți în ordine pașii unei înregistrări. Folosiți săgețile, apoi apăsați „Verifică ordinea”.
 
 ```ordine
 titlu: Ordonați pașii pentru prima înregistrare în GlobiLab
@@ -160,13 +116,11 @@ Apăsați Stop
 Puneți un marker și o adnotare pe grafic
 ```
 
-### Prima înregistrare în 10 minute (min 60-80)
+### Prima înregistrare: temperatura, a doua mărime după model; citirea graficului în timp real
 
-**Scop:** Prima înregistrare proprie, citită și adnotată.
-
-1. Sonda de temperatură ținută în palmă 60 s, apoi eliberată (merge pe toate modelele)
-2. A doua mărime, după model: lumina acoperită și descoperită sau nivelul sonor
-3. Marker pe grafic, o adnotare care explică fenomenul
+1. Țineți sonda de temperatură externă în palmă 60 s, apoi eliberați-o. Merge pe toate modelele.
+2. Adăugați a doua mărime, după model: lumina, nivelul sonor sau umiditatea.
+3. Puneți un marker pe grafic și o adnotare care explică fenomenul.
 
 Înainte să apăsați Run, prevedeți. Desenați pe grafic curba pe care o așteptați pentru sonda ținută în palmă un minut și apoi eliberată, apoi apăsați „Arată datele”.
 
@@ -194,36 +148,27 @@ date:
 140, 24.0
 ```
 
-> [!example]- Aceeași primă înregistrare, după disciplină
-> Formatorul alege a doua mărime după grupul care participă și după modelul de pe masă.
->
-> - **Fizică:** lumina, cu senzorul acoperit și descoperit, sau nivelul sonor când cineva vorbește lângă disc.
-> - **Chimie:** temperatura amestecului când turnați oțet peste bicarbonat de sodiu, cu sonda externă în pahar (reacția absoarbe căldură).
-> - **Biologie:** umiditatea relativă când suflați aer expirat spre senzor; pe BioChem, ritmul cardiac cu clema pentru ureche.
-> - **Geografie:** temperatura și umiditatea aerului lângă fereastra deschisă și în mijlocul clasei.
-> - **Clasele primare:** lumina la umbră și la soare, cu discul pe pervaz.
-
-> [!question] Întrebarea formatorului
-> „Puneți markerul acolo unde ați luat mâna. Ce spune graficul după acel moment?”
+> [!question] Gândiți-vă
+> Puneți markerul acolo unde ați luat mâna. Ce spune graficul după acel moment?
 
 > [!question]- Un răspuns posibil
 > Temperatura nu revine dintr-odată la cea a aerului. Scade repede la început și tot mai încet după aceea, pentru că sonda cedează căldură cu atât mai repede cu cât e mai caldă decât aerul. Același lucru se vede și la încălzire: sonda nu sare la temperatura palmei, se apropie de ea treptat. Asta e o adnotare bună pentru grafic.
 
-**Produs:** Grafic adnotat (primul artefact).
+> [!example]- A doua mărime, după disciplină
+> - **Fizică:** lumina, cu senzorul acoperit și descoperit, sau nivelul sonor când cineva vorbește lângă disc.
+> - **Chimie:** temperatura apei în care dizolvați clorură de calciu, cu sonda externă (cu ochelari de protecție).
+> - **Biologie:** umiditatea relativă când suflați aer expirat spre senzor.
+> - **Geografie:** temperatura și umiditatea aerului lângă fereastra deschisă și în mijlocul clasei.
+> - **Clasele primare:** lumina la umbră și la soare, cu discul pe pervaz.
 
-**Aveți nevoie de:** Sonde de temperatură externă, lanternă.
+**Ce produceți:** un grafic adnotat, primul produs pentru portofoliu.
 
 > [!warning]- Dacă nu merge
-> Grafic plat: verificăm senzorul bifat la „Configurare”.
+> Grafic plat: verificați dacă senzorul e bifat la „Configurare”.
 
-### Recapitulare (min 80-90)
+## Verificați-vă
 
-**Scop:** Verificarea înțelegerii, întrebări rezolvate.
-
-1. Trei întrebări rapide: rata, durata, senzorul potrivit
-2. Ce s-a blocat și cum am rezolvat
-
-Întrebările rapide, cu răspuns imediat. Alegeți o variantă și citiți explicația, mai ales când ați greșit.
+Cinci întrebări: rata, durata, senzorul potrivit și două probleme frecvente. Alegeți o variantă și citiți explicația, mai ales când ați greșit.
 
 ```quiz
 ? Setați 10 eșantioane pe secundă și 1000 de eșantioane. Cât durează înregistrarea?
@@ -242,7 +187,7 @@ date:
 - Termocuplul | E doar pe BioChem; e gândit pentru temperaturi foarte joase sau foarte înalte.
 
 ? Ați apăsat Run, dar graficul e o linie plată. Ce verificați întâi?
-+ Dacă senzorul e bifat la „Configurare” | E primul pas din lista „Dacă nu merge” a sesiunii și se verifică în câteva secunde.
++ Dacă senzorul e bifat la „Configurare” | Se verifică în câteva secunde și e prima cauză din lista „Dacă nu merge”.
 - Rata de eșantionare | Rata schimbă cât de des se măsoară, nu dacă senzorul e activ.
 - Reinstalați GlobiLab | Programul desenează graficul, deci funcționează; problema e în setări sau în experiment.
 
@@ -252,18 +197,10 @@ date:
 - Reduceți numărul de eșantioane | Setările înregistrării nu influențează conexiunea.
 ```
 
-> [!question] Întrebarea formatorului
-> „Ce i-ați spune unui coleg care deschide Labdisc prima dată?”
+## Aplicați
 
-**Produs:** Lista de sfaturi practice.
-
-> [!warning]- Dacă nu merge
-> Dacă ați depășit timpul: recapitularea trece la începutul S2.
-
-## După sesiune: lucrul individual
-
-- Instalarea aplicației GlobiLab pe dispozitivul propriu și studierea ghidului de utilizare Labdisc.
-- O înregistrare de probă în laboratorul școlii.
+- Instalarea aplicației GlobiLab pe dispozitivul propriu și studierea [[formare/labdisc/index|ghidului de utilizare Labdisc]].
+- O înregistrare de probă în laboratorul sau în clasa proprie.
 
 **Produsul:** Grafic adnotat al unei înregistrări proprii. **Evaluarea:** autoevaluare după lista de verificare.
 
@@ -271,12 +208,14 @@ date:
 
 Bifați ce puteți face fără ajutor. Bifele rămân doar în browserul dumneavoastră.
 
-- [ ] Pot descrie structura dispozitivului Labdisc, senzorii și modurile de conectare.
+- [ ] Pot descrie structura dispozitivului Labdisc și senzorii fiecărui model.
 - [ ] Pot explica parametrii unei înregistrări.
 - [ ] Pot configura Labdisc și GlobiLab pentru o înregistrare.
 
 ## Reflecție
 
-> [!quote] „Ce i-ați spune unui coleg care deschide Labdisc prima dată?”
+> [!quote] Ce i-ați spune unui coleg care deschide Labdisc prima dată?
 
-Scrieți, în Padlet-ul cursului sau în documentul comun al grupului (de exemplu un Google Doc), un lucru pe care îl duceți la clasă din sesiunea aceasta și un lucru care încă nu e clar.
+Scrieți sfatul în Padletul grupului, apoi notați în documentul vostru de curs un lucru pe care îl duceți la clasă și un lucru care încă nu e clar.
+
+**Mai departe:** cu discul configurat, treceți la experimente din disciplina voastră în [[formare/2-experimente-in-statii|unitatea 2]].

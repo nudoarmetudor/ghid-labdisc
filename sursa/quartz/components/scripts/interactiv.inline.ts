@@ -520,3 +520,60 @@ document.addEventListener("nav", () => {
     }
   })
 })
+
+// Un buton „Copiază tabelul” deasupra fiecărui tabel din pagină. Pune pe clipboard și HTML
+// (ca să se lipească drept tabel în Google Docs sau Word), și text cu tab-uri (pentru Sheets).
+const tabelHtml = (t: HTMLTableElement) => {
+  const c = t.cloneNode(true) as HTMLTableElement
+  c.querySelectorAll("*").forEach((x) => {
+    x.removeAttribute("class")
+    x.removeAttribute("id")
+    x.removeAttribute("style")
+  })
+  c.removeAttribute("class")
+  c.removeAttribute("data-copiere")
+  c.setAttribute("border", "1")
+  c.setAttribute("style", "border-collapse:collapse")
+  c.querySelectorAll("th, td").forEach((x) => {
+    x.setAttribute("style", "border:1px solid #000;padding:4px 6px;vertical-align:top")
+  })
+  return `<meta charset="utf-8">${c.outerHTML}`
+}
+const tabelText = (t: HTMLTableElement) =>
+  Array.from(t.rows)
+    .map((r) => Array.from(r.cells).map((c) => (c.innerText ?? "").replace(/\s+/g, " ").trim()).join("\t"))
+    .join("\n")
+
+document.addEventListener("nav", () => {
+  document.querySelectorAll<HTMLTableElement>("article table:not([data-copiere])").forEach((t) => {
+    if (t.closest(".interactiv")) return
+    t.dataset.copiere = "1"
+    const b = el("button", "copiaza-tabel", "Copiază tabelul") as HTMLButtonElement
+    b.type = "button"
+    b.title = "Copiază tabelul, ca să-l lipiți într-un document sau într-un tabel de calcul"
+    const clic = async () => {
+      const html = tabelHtml(t)
+      const text = tabelText(t)
+      try {
+        if (window.ClipboardItem) {
+          await navigator.clipboard.write([
+            new ClipboardItem({
+              "text/html": new Blob([html], { type: "text/html" }),
+              "text/plain": new Blob([text], { type: "text/plain" }),
+            }),
+          ])
+        } else {
+          await navigator.clipboard.writeText(text)
+        }
+        b.textContent = "Copiat ✓"
+      } catch {
+        b.textContent = "Nu s-a putut copia"
+      }
+      setTimeout(() => (b.textContent = "Copiază tabelul"), 2000)
+    }
+    b.addEventListener("click", clic)
+    window.addCleanup(() => b.removeEventListener("click", clic))
+    const loc = t.closest(".table-container") ?? t
+    loc.parentElement?.insertBefore(b, loc)
+  })
+})
