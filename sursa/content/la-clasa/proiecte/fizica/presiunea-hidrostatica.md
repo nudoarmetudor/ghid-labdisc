@@ -24,11 +24,11 @@ tags: [fizica, clasa-vii, angela-covali]
 
 **Elevii vor fi capabili:**
 
-**O₁** – Să definească presiunea hidrostatică și să identifice unitatea de măsură în SI, utilizând suportul teoretic și datele afișate de Labdisk.
+**O₁** – Să definească presiunea hidrostatică și să identifice unitatea de măsură în SI, utilizând suportul teoretic și datele afișate de Labdisc.
 
-**O₂** - Să explice relația de dependență direct proporțională dintre adâncime și presiunea exercitată de coloana de lichid.
+**O₂** – Să explice relația de dependență direct proporțională dintre adâncime și presiunea exercitată de coloana de lichid.
 
-**O₃** –Să configureze senzorul de presiune Labdisk pentru a colecta date experimentale în timp real.
+**O₃** – Să configureze senzorul de presiune Labdisc pentru a colecta date experimentale în timp real.
 
 **O₄** – Să interpreteze graficul *P = f(h)* generat de aplicația Globisens, identificând panta graficului și valorile extreme.
 
@@ -36,15 +36,15 @@ tags: [fizica, clasa-vii, angela-covali]
 
 ## Tehnologii didactice
 
--   **platforme digitale: Labdisk Physio** (Senzor de presiune barometrică/gaz utilizat cu tub capilar).
+-   **platforme digitale: Labdisc Physio** (Senzor de presiune barometrică/gaz utilizat cu tub capilar).
 -   **metode didactice:** explicația, demonstrația, experimentul, observația.
 -   **forma de organizare:** frontală, în grup.
 
 ## Resurse
 
 1.  Fizică, manual pentru clasa a VII-a, ediția 2020.
-2.  **Labdisk Physio** (Senzor de presiune barometrică/gaz utilizat cu tub capilar)., cilindru cu apă, riglă.
-3.  Calculator / tabletă cu aplicația GobiLab.
+2.  **Labdisc Physio** (Senzor de presiune barometrică/gaz utilizat cu tub capilar), cilindru cu apă, riglă.
+3.  Calculator / tabletă cu aplicația GlobiLab.
 
 ## Desfășurarea lecției
 
@@ -57,7 +57,7 @@ Profesorul prezintă imaginea unui baraj și întreabă:
 
 Anunțarea temei și a obiectivelor.
 
-**Tehnologia realizării:** Converasația; Problematizarea; Frontal
+**Tehnologia realizării:** Conversația; Problematizarea; Frontal
 
 ### Realizarea sensului (25 min)
 
@@ -67,7 +67,7 @@ Elevii vor fi inițiați ce este Labdisc.
 
 *Labdisc Globisens este un laborator digital portabil, dotat cu senzori integrați (temperatură, presiune, mișcare, tensiune electrică etc.) care permit realizarea rapidă a experimentelor de fizică, chimie sau biologie. Dispozitivul colectează automat datele în timp real și le transmite către calculator, tabletă sau telefon, unde pot fi analizate sub formă de grafice și tabele. Astfel, elevii pot observa direct legătura dintre fenomenul studiat și reprezentarea lui grafică, înțelegând mai ușor procesele fizice investigate.*
 
-**Configurarea Labdisk:**
+**Configurarea Labdisc:**
 
 -   Conectarea Bluetooth la tabletă/PC.
 -   Selectarea senzorului de Presiune (Barometru).
@@ -81,7 +81,7 @@ Elevii vor fi inițiați ce este Labdisc.
 4.  Continuarea măsurărilor până la 30 cm.
 5.  Se observă în timp real cum aplicația Globisens trasează curba presiunii.
 
-Elevii completează o fișă de lucru rapidă în care notează corelația dintre adâncimea măsurată cu rigla și presiunea afișată pe Labdisk.
+Elevii completează o fișă de lucru rapidă în care notează corelația dintre adâncimea măsurată cu rigla și presiunea afișată pe Labdisc.
 
 | Nr. d/o | h (m) | p (Pa) |
 |---------|-------|--------|
@@ -98,9 +98,9 @@ Elevii completează o fișă de lucru rapidă în care notează corelația dintr
 
 **Analiza datelor în Globisens:**
 
-Se va utiliza funcția **"Marker"** pentru a citi valorile exacte de pe grafic.
+Se va utiliza funcția **„Marker”** pentru a citi valorile exacte de pe grafic.
 
-Se va utiliza funcția **"Linear Regression"** pentru a observa caracterul liniar al creșterii presiunii cu adâncimea.
+Se va utiliza funcția **„Linear Regression”** pentru a observa caracterul liniar al creșterii presiunii cu adâncimea.
 
 -   Ce formă are graficul?
 -   Este dependența liniară?

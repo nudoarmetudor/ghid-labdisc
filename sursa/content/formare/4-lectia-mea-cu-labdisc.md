@@ -1,38 +1,50 @@
 ---
-title: "Lecția mea cu Labdisc"
+title: "Lecția mea cu Labdisc: proiectare și reflecție"
 description: "Proiectarea și aplicarea la clasă a unei fișe de investigație cu Labdisc, cu criterii de evaluare a produselor elevilor."
 ordine: 4
 tags: [formare, sesiune]
 ---
 
-Sesiunea 4 din 4, 90 de minute, unitatea 4 a cursului: *Lecția mea cu Labdisc: proiectare și reflecție*. Forma de lucru: seminar.
+Unitatea 4 din 4 a cursului.
 
 > [!abstract] Ce veți putea face
-> Rezultatele sesiunii, din curriculumul cursului:
->
 > - Să proiecteze o fișă de investigație cu Labdisc pentru o unitate de competență din curriculum.
 > - Să integreze activitatea cu Labdisc în etapele lecției.
 > - Să evalueze investigațiile elevilor pe baza unor criterii explicite.
-> - Să adapteze activitățile pentru gimnaziu, liceu și alte discipline științifice.
+> - Să adapteze activitățile pentru niveluri diferite și proiecte interdisciplinare.
 >
 > Pe scurt: proiectarea și aplicarea la clasă a unei fișe de investigație cu Labdisc, cu criterii de evaluare a produselor elevilor.
 
-## Ce conține
-
-- Corelarea activității cu competențele specifice și unitățile de competență din curriculumul disciplinei (la fizică, de unde a pornit cursul, sau la disciplina pe care o predați).
-- Elaborarea fișei de investigație pentru clasa proprie.
-- Criterii de evaluare a investigației elevilor.
-- Prezentarea fișelor, feedback între colegi, reflecție și plan de aplicare la clasă.
-
-> [!tip] De citit înainte sau după
+> [!tip] De citit pe parcurs
 > - [[la-clasa/anexe/fisa-de-investigatie|Șablonul fișei de investigație]]
 > - [[la-clasa/anexe/criterii-de-evaluare|Criterii de evaluare]]
 > - [[la-clasa/implementare/organizarea-lectiei|Organizarea lecției]]
 > - [[la-clasa/proiecte/index|Proiectele de lecție ale profesorilor]]
 
-## Activitatea cu Labdisc în etapele lecției
+## Fișa de investigație pentru clasa proprie
 
-Fișa de investigație se așază în cele trei etape ale lecției: **evocarea** (întrebarea și ipoteza), **realizarea sensului** (planul, măsurarea, analiza) și **reflecția** (concluzia și erorile).
+Plecați de la o lecție pe care o predați luna aceasta și de la lista de obstacole scrisă la începutul [[formare/1-de-la-demonstratie-la-masurare|unității 1]]. Dacă nu aveți încă o temă, porniți de la una dintre stațiile disciplinei voastre din [[formare/2-experimente-in-statii|unitatea 2]].
+
+### Corelarea activității cu competențele specifice și unitățile de competență ale disciplinei
+
+Fiecare disciplină științifică are în curriculum o competență de investigare. Căutați în curriculumul disciplinei voastre unitatea de competență pe care o lucrează lecția aleasă și scrieți-o în capul fișei.
+
+> [!example]- Competența de investigare, pe discipline
+> Formulările din curriculumul național, citate în curriculumul cursului:
+>
+> - **Fizică:** „Investigarea fenomenelor fizice simple prin observare și experimentare…”
+> - **Chimie:** „Investigarea experimentală a substanțelor și proceselor chimice…”
+> - **Biologie:** „Investigarea lumii vii cu ajutorul metodelor și al mijloacelor specifice…”
+> - **Geografie:** „Investigarea spațiului geografic prin conexiuni interdisciplinare…”
+> - **Științe la clasele primare:** „Explorarea-investigarea mediului înconjurător…”
+
+### Structura fișei de investigație
+
+Șablonul e în [[la-clasa/anexe/fisa-de-investigatie|Fișa de investigație]]. Faceți-vă o copie în Google Docs și completați-o pentru clasa voastră. Rubricile: clasa, unitatea de competență, întrebarea, materiale, pași, tabel de date, întrebări de interpretare, criterii de evaluare, securitate.
+
+> [!quote] Ce va face elevul cu datele după ce apasă Stop?
+
+Activitatea se așază în cele trei etape ale lecției: **evocarea** (întrebarea și ipoteza), **realizarea sensului** (planul, măsurarea, analiza) și **reflecția** (concluzia și erorile).
 
 ```mermaid
 flowchart TD
@@ -52,139 +64,7 @@ Elevii compară graficul real cu cel desenat
 Elevii răspund la întrebare și numesc două surse de eroare
 ```
 
-## Desfășurarea, pas cu pas
-
-Minutele sunt de la începutul sesiunii. Întrebarea din chenarul „Întrebarea formatorului” e cea pe care formatorul o pune grupului; o puteți folosi la fel cu elevii.
-
-### Modelul fișei de investigație (min 0-10)
-
-**Scop:** Structura fișei de investigație cunoscută.
-
-1. Structura: clasa, unitatea de competență, întrebarea, materiale, pași, tabel de date, întrebări de interpretare, criterii de evaluare, securitate
-2. Legătura cu etapele lecției: evocare, realizarea sensului, reflecție
-
-> [!question] Întrebarea formatorului
-> „Plecați de la o lecție pe care o predați luna aceasta.”
-
-**Aveți nevoie de:** Șablonul fișei de investigație, ca document comun pe care fiecare îl copiază (de exemplu în Google Docs).
-
-### Elaborarea fișei (min 10-50)
-
-**Scop:** O fișă de investigație pentru clasa proprie.
-
-1. Individual sau în perechi, pe aceeași clasă
-2. Se pornește de la lista de obstacole din S1
-3. Se testează un pas pe dispozitiv dacă e nevoie
-
-> [!question] Întrebarea formatorului
-> „Ce va face elevul cu datele după ce apasă Stop?”
-
-**Produs:** Fișa de investigație (draft).
-
-**Aveți nevoie de:** Laptopuri, Labdisc, curriculumul disciplinei.
-
-> [!warning]- Dacă nu merge
-> Participant fără temă: propune o lucrare de laborator din curriculumul disciplinei lui, de exemplu pentru clasa a VIII-a.
-
-### Feedback în perechi (min 50-70)
-
-**Scop:** Fișele îmbunătățite prin feedback între colegi.
-
-1. Schimb de fișe: fiecare îi dă colegului acces de comentare la documentul lui
-2. Verificare după criterii: întrebare testabilă, variabile clare, timp realist, interpretare cerută elevului
-3. „două stele și o dorință”, scrise ca comentarii în documentul colegului
-
-> [!question] Întrebarea formatorului
-> „Ce ar face un elev care termină primul?”
-
-Exersați criteriile înainte să le aplicați pe fișa colegului.
-
-```quiz
-? Care întrebare se poate testa cu Labdisc într-o lecție?
-+ Cum se schimbă pH-ul apei când picurăm suc de lămâie în ea? | Se schimbă un lucru, se măsoară altul, în câteva minute.
-- De ce e important să bem apă curată? | E o întrebare bună de discuție, dar nu are răspuns prin măsurare.
-- Cum se schimbă clima Moldovei? | Se măsoară în ani și decenii, nu într-o lecție.
-
-? Fișa colegului cere elevilor doar să insereze graficul în raport. Ce criteriu nu e îndeplinit?
-+ Elevului i se cere să interpreteze datele | Graficul pus în raport e colectare; interpretarea înseamnă să citească și să explice ce arată graficul.
-- Întrebarea se poate testa | Întrebarea poate fi foarte bună; problema e ce face elevul cu datele.
-- Timpul e realist | Pasul e rapid; timpul nu e problema aici.
-
-? Elevii n-au mai lucrat niciodată cu senzori. Cu ce nivel de investigație începeți?
-+ Confirmare sau structurată | Profesorul dă întrebarea și metoda; elevii învață întâi aparatul. Se urcă un nivel când își configurează singuri senzorii.
-- Deschisă | Elevii ar trebui să aleagă singuri întrebarea și metoda fără să cunoască aparatul.
-- Ghidată | E pasul următor, după ce elevii se descurcă singuri cu configurarea.
-
-? Ce încărcați în portofoliul Padlet după lecție?
-+ Fișa și un grafic al elevilor, fără nume și fără fotografii cu fețe | Dovada aplicării, fără date personale ale elevilor.
-- Fotografii ale clasei la lucru, ca să se vadă implicarea | Fotografiile cu fețe sunt date personale; nu se încarcă.
-- Rapoartele elevilor cu numele lor, ca să se vadă cine a lucrat | Numele elevilor nu intră în portofoliu.
-```
-
-**Produs:** Fișa revizuită (al patrulea artefact).
-
-**Aveți nevoie de:** Lista de criterii.
-
-### Plan de aplicare și lucrul individual (min 70-80)
-
-**Scop:** Plan de aplicare la clasă și sarcina individuală clare.
-
-1. Data și clasa la care aplică fișa
-2. Sarcina individuală și portofoliul Padlet
-3. Resursele de după curs
-
-> [!question] Întrebarea formatorului
-> „Încărcați în Padlet fișa și un grafic al elevilor, fără nume și fără fotografii cu fețe.”
-
-**Produs:** Plan de aplicare.
-
-**Aveți nevoie de:** Link Padlet.
-
-### Încheiere (min 80-90)
-
-**Scop:** Evaluarea cursului și reflecție finală.
-
-1. Reflecție: un lucru pe care îl aplic, un obstacol care rămâne
-2. Chestionarul de feedback
-3. Încheiere
-
-> [!question] Întrebarea formatorului
-> „Ce obstacol de dimineață s-a micșorat azi?”
-
-**Produs:** Chestionar completat.
-
-**Aveți nevoie de:** Chestionar online.
-
-## Adaptarea: alte clase, alte discipline
-
-Aceeași fișă se adaptează pe două axe: cât hotărăsc elevii (nivelul de investigație) și ce senzori cere disciplina. Întoarceți cartonașele cu cele patru niveluri descrise de Banchi și Bell (2008).
-
-```cartonase
-Confirmare :: Profesorul dă întrebarea și metoda; răspunsul se știe dinainte. Elevii verifică prin măsurare.
-Investigație structurată :: Profesorul dă întrebarea și metoda; răspunsul îl găsesc elevii.
-Investigație ghidată :: Profesorul dă întrebarea; elevii își fac singuri planul și găsesc răspunsul.
-Investigație deschisă :: Elevii aleg întrebarea, metoda și găsesc răspunsul.
-Două stele și o dorință :: Feedback între colegi: două lucruri reușite și unul de îmbunătățit.
-```
-
-Ce senzori cere fiecare disciplină, după [[formare/labdisc/aparatul#1.3 Senzori integrați și senzori externi|tabelul senzorilor pe modele]]:
-
-> [!example]- La fizică
-> Distanța, tensiunea și curentul (GenSci, Physio), accelerometrul (Physio), lumina, presiunea aerului, temperatura. Exemple: [[la-clasa/proiecte/fizica/index|proiectele de fizică]].
-
-> [!example]- La chimie
-> pH-ul (GenSci, Enviro, BioChem), conductivitatea, colorimetrul și termocuplul (BioChem), temperatura externă pentru reacții care degajă sau absorb căldură. Exemple: [[la-clasa/proiecte/chimie/index|proiectele de chimie]].
-
-> [!example]- La biologie
-> Ritmul cardiac (BioChem), oxigenul dizolvat (BioChem, Enviro), lumina și umiditatea pentru fotosinteză și transpirația plantelor. Exemple: [[la-clasa/proiecte/biologie/index|proiectele de biologie]].
-
-> [!example]- La geografie
-> GPS, presiunea barometrică, umiditatea, UV și temperatura IR (Enviro), turbiditatea apei. Exemple: [[la-clasa/proiecte/geografie/index|proiectele de geografie]].
-
-> [!example]- La clasele primare
-> Temperatura, lumina și nivelul sonor, citite direct pe ecranul discului sau pe graficul proiectat. Exemple: [[la-clasa/proiecte/clase-primare/index|proiectele pentru clasele primare]].
-
-Un exemplu de chimie, de liceu: neutralizarea unui acid cu o bază, urmărită cu electrodul de pH. Desenați curba pH-ului pe care o așteptați, apoi comparați.
+Un exemplu de chimie, de liceu: neutralizarea unui acid cu o bază, urmărită cu electrodul de pH. Așa ar arăta graficul pe care îl desenează elevii în evocare și pe care îl compară cu datele în reflecție. Desenați curba pH-ului pe care o așteptați, apoi comparați.
 
 ```grafic
 titlu: pH-ul la neutralizarea acidului clorhidric cu hidroxid de sodiu
@@ -210,21 +90,85 @@ date:
 40, 12.36
 ```
 
-> [!question]- Cum îl adaptați la gimnaziu?
-> La liceu, întrebarea e unde și de ce pH-ul sare brusc (în jur de 25 ml, când acidul a fost neutralizat). La gimnaziu, aceeași măsurare devine o investigație structurată mai simplă: elevii adaugă picături de oțet sau de suc de lămâie în apă și urmăresc cum scade pH-ul, fără calcule de concentrație.
+> [!question]- Unde sare pH-ul și de ce?
+> În jurul a 25 ml, când tot acidul a fost neutralizat. Înainte și după acest punct, multe picături schimbă pH-ul puțin; aproape de el, câteva picături îl schimbă cu mai multe unități. E o întrebare bună de interpretare pentru fișă.
 
-Fără electrod de pH la îndemână, elevii pot explora aceeași idee în simulare: pH-ul unor lichide din casă și ce se întâmplă când le diluați cu apă.
+### Criterii de evaluare a investigației elevilor
 
-```simulare
-url: https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_ro.html
-titlu: Scara pH
-sursa: PhET Interactive Simulations, University of Colorado Boulder, CC BY 4.0.
+Criteriile cu care verificați fișa sunt și criteriile cu care se evaluează investigația elevilor: întrebare testabilă, variabile clare, timp realist, interpretare cerută elevului. Lista completă, pentru fișa profesorului și pentru raportul elevilor, e în [[la-clasa/anexe/criterii-de-evaluare|Criterii de evaluare]]. Puneți criteriile într-un formular Google, ca fiecare coleg să le bifeze pentru fișa pe care o citește.
+
+Exersați criteriile înainte să le aplicați pe fișa unui coleg.
+
+```quiz
+? Care întrebare se poate testa cu Labdisc într-o lecție?
++ Cum se schimbă pH-ul apei când picurăm suc de lămâie în ea? | Se schimbă un lucru, se măsoară altul, în câteva minute.
+- De ce e important să bem apă curată? | E o întrebare bună de discuție, dar nu are răspuns prin măsurare.
+- Cum se schimbă clima Moldovei? | Se măsoară în ani și decenii, nu într-o lecție.
+
+? Fișa colegului cere elevilor doar să insereze graficul în raport. Ce criteriu nu e îndeplinit?
++ Elevului i se cere să interpreteze datele | Graficul pus în raport e colectare; interpretarea înseamnă să citească și să explice ce arată graficul.
+- Întrebarea se poate testa | Întrebarea poate fi foarte bună; problema e ce face elevul cu datele.
+- Timpul e realist | Pasul e rapid; timpul nu e problema aici.
+
+? Elevii n-au mai lucrat niciodată cu senzori. Cu ce nivel de investigație începeți?
++ Confirmare sau structurată | Profesorul dă întrebarea și metoda; elevii învață întâi aparatul. Se urcă un nivel când își configurează singuri senzorii.
+- Deschisă | Elevii ar trebui să aleagă singuri întrebarea și metoda fără să cunoască aparatul.
+- Ghidată | E pasul următor, după ce elevii se descurcă singuri cu configurarea.
+
+? Ce încărcați în portofoliul Padlet după lecție?
++ Fișa și un grafic al elevilor, fără nume și fără fotografii cu fețe | Dovada aplicării, fără date personale ale elevilor.
+- Fotografii ale clasei la lucru, ca să se vadă implicarea | Fotografiile cu fețe sunt date personale; nu se încarcă.
+- Rapoartele elevilor cu numele lor, ca să se vadă cine a lucrat | Numele elevilor nu intră în portofoliu.
 ```
 
-## După sesiune: lucrul individual
+## Prezentare și reflecție
+
+### Feedback între colegi, reflecție, plan de aplicare la clasă
+
+1. Dați unui coleg acces de comentare la fișa voastră, de preferință unui coleg de altă disciplină.
+2. Colegul o verifică după criterii: întrebare testabilă, variabile clare, timp realist, interpretare cerută elevului.
+3. Feedbackul vine ca „două stele și o dorință”, scris în comentarii în document.
+
+> [!question] Gândiți-vă
+> Ce ar face un elev care termină primul?
+
+**Ce produceți:** fișa revizuită, al patrulea produs pentru portofoliu.
+
+Planul de aplicare îl scrieți în Padletul grupului: data și clasa la care aplicați fișa. Modelul de plan e în [[formare/reflectie|Reflecție]].
+
+> [!quote] Încărcați în Padlet fișa și un grafic al elevilor, fără nume și fără fotografii cu fețe.
+
+### Adaptarea: alte niveluri, proiecte interdisciplinare
+
+Aceeași fișă se adaptează pe două axe: cât hotărăsc elevii (nivelul de investigație) și ce discipline se întâlnesc în aceeași întrebare. Întoarceți cartonașele cu cele patru niveluri descrise de Banchi și Bell (2008).
+
+```cartonase
+Confirmare :: Profesorul dă întrebarea și metoda; răspunsul se știe dinainte. Elevii verifică prin măsurare.
+Investigație structurată :: Profesorul dă întrebarea și metoda; răspunsul îl găsesc elevii.
+Investigație ghidată :: Profesorul dă întrebarea; elevii își fac singuri planul și găsesc răspunsul.
+Investigație deschisă :: Elevii aleg întrebarea, metoda și găsesc răspunsul.
+Două stele și o dorință :: Feedback între colegi: două lucruri reușite și unul de îmbunătățit.
+```
+
+> [!example]- De la liceu la gimnaziu și la clasele primare
+> Neutralizarea de mai sus, la liceu, cere elevilor să explice unde și de ce sare pH-ul. La gimnaziu, aceeași măsurare devine o investigație structurată: elevii adaugă picături de soluție de bicarbonat de sodiu în oțet și urmăresc cum crește pH-ul, fără calcule de concentrație. La clasele primare, întrebarea se mută pe un fenomen văzut: ce arată termometrul cât timp se topește gheața.
+
+> [!example]- Un proiect interdisciplinar: microclimatul școlii
+> Aceleași măsurări de temperatură, umiditate și lumină, în clasă, pe coridor și în curte, răspund la întrebări din mai multe discipline. La geografie: unde e mai cald și de ce. La biologie: unde ar crește mai bine o plantă de interior. La fizică: cum se încălzesc suprafețele la lumină. Punctele de măsurare se pun pe harta școlii în Google My Maps, iar datele din toate echipele merg în aceeași foaie Google Sheets.
+
+> [!example]- Senzorii fiecărei discipline
+> După [[formare/labdisc/aparatul#1.3 Senzori integrați și senzori externi|tabelul senzorilor pe modele]]:
+>
+> - **Fizică:** distanța, tensiunea și curentul (GenSci, Physio), accelerometrul (Physio). [[la-clasa/proiecte/fizica/index|Proiecte de fizică]].
+> - **Chimie:** pH-ul (GenSci, Enviro, BioChem), conductivitatea, colorimetrul și termocuplul (BioChem). [[la-clasa/proiecte/chimie/index|Proiecte de chimie]].
+> - **Biologie:** ritmul cardiac (BioChem), oxigenul dizolvat (BioChem, Enviro), umiditatea și lumina. [[la-clasa/proiecte/biologie/index|Proiecte de biologie]].
+> - **Geografie:** GPS, presiunea barometrică, umiditatea, UV și temperatura IR (Enviro), turbiditatea. [[la-clasa/proiecte/geografie/index|Proiecte de geografie]].
+> - **Clasele primare:** temperatura, lumina, nivelul sonor, citite pe ecranul discului sau pe graficul proiectat. [[la-clasa/proiecte/clase-primare/index|Proiecte pentru clasele primare]].
+
+## Aplicați
 
 - Finalizarea fișei de investigație și aplicarea ei la o lecție.
-- Reflecție scrisă asupra lecției.
+- Reflecție asupra lecției, în portofoliul Padlet.
 
 **Produsul:** Fișa de investigație și dovezi din lecție (grafice, produse ale elevilor, fără date personale) în portofoliul Padlet. **Evaluarea:** feedback constructiv și evaluare reciprocă.
 
@@ -235,13 +179,15 @@ Bifați ce puteți face fără ajutor. Bifele rămân doar în browserul dumneav
 - [ ] Pot proiecta o fișă de investigație cu Labdisc pentru o unitate de competență din curriculum.
 - [ ] Pot integra activitatea cu Labdisc în etapele lecției.
 - [ ] Pot evalua investigațiile elevilor pe baza unor criterii explicite.
-- [ ] Pot adapta activitățile pentru gimnaziu, liceu și alte discipline științifice.
+- [ ] Pot adapta activitățile pentru niveluri diferite și proiecte interdisciplinare.
 
 ## Reflecție
 
-> [!quote] „Ce obstacol de dimineață s-a micșorat azi?”
+> [!quote] Ce obstacol de la începutul cursului s-a micșorat?
 
-Scrieți, în Padlet-ul cursului sau în documentul comun al grupului (de exemplu un Google Doc), un lucru pe care îl duceți la clasă din sesiunea aceasta și un lucru care încă nu e clar.
+Scrieți în Padletul grupului un lucru pe care îl aplicați la clasă și un obstacol care rămâne.
+
+**Mai departe:** verificați unde ați ajuns cu [[formare/rezultate|rezultatele cursului]], [[formare/autoevaluare|autoevaluarea]] și [[formare/reflectie|reflecția de după curs]].
 
 ## Surse
 

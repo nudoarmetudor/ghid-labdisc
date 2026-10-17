@@ -12,7 +12,7 @@ La curs, fiecare profesor pleacă de la o lecție pe care o predă luna aceasta 
 Activitatea se așază în etapele lecției: **evocarea** (întrebarea și ipoteza), **realizarea sensului** (planul, măsurarea, analiza) și **reflecția** (concluzia și erorile).
 
 ```mermaid
-flowchart LR
+flowchart TD
   E["Evocarea<br/>întrebarea, ipoteza"] --> R["Realizarea sensului<br/>planul, măsurarea, analiza"] --> F["Reflecția<br/>concluzia, erorile"]
 ```
 

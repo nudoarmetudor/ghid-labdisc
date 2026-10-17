@@ -60,7 +60,7 @@ Purtătorul de cuvânt :: Prezint graficul și concluzia echipei. Arăt pe grafi
 O oră de 45 de minute încape o singură măsurare bună, cu pregătire și discuție. O împărțire orientativă, după etapele lecției:
 
 ```mermaid
-flowchart LR
+flowchart TD
   A["Evocare<br/>întrebare, ipoteză<br/>~10 min"] --> B["Realizarea sensului<br/>plan, măsurare, analiză<br/>~25 min"] --> C["Reflecție<br/>concluzie, erori<br/>~10 min"]
 ```
 

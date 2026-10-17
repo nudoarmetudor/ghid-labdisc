@@ -32,13 +32,13 @@ La finalul lecției, elevii vor fi capabili:
 
 ## Tehnologii didactice
 
-***Resurse proceduale**:* conversație euristică, observație dirijată, problematizare, investigație experimentală, demonstrație practică (utilizarea dispozitivului Labdisc), analiză comparativă a datelor, analiză cauzală, învățare prin cooperare (Mozaic), studiu de caz, schemă logică, turul galeriei, reflecție dirijată.
+***Resurse procedurale**:* conversație euristică, observație dirijată, problematizare, investigație experimentală, demonstrație practică (utilizarea dispozitivului Labdisc), analiză comparativă a datelor, analiză cauzală, învățare prin cooperare (Mozaic), studiu de caz, schemă logică, turul galeriei, reflecție dirijată.
 
 *Forme de organizare a activității:* frontală; în grup; individuală.
 
 ***Resurse didactice:***
 
-I.Codreanu, S. Roșcovan, Geografie. Manual pentru clasa a XII-a, Editura Bons Offices, Chișinău, 2024;
+I. Codreanu, S. Roșcovan, Geografie. Manual pentru clasa a XII-a, Editura Bons Offices, Chișinău, 2024;
 
 schema privind tipurile și degradarea solurilor; dispozitivul Labdisc (Globisens) cu senzori pentru pH; site-ul oficial Globisens ([https://globisens.net](https://globisens.net)); aplicația GlobiLab; mostre de sol; tabele de interpretare a pH-ului și a umidității; calculator/laptop, conexiune la internet; fișe de lucru.
 
@@ -52,7 +52,7 @@ Resurse didactice: material video, dispozitivul Labdisc, aplicația GlobiLab, te
 
 Solul reprezintă stratul superficial al scoarței terestre, rezultat al interacțiunii dintre rocă, relief, climă, organisme vii și activitatea antropică. Fertilitatea solului este determinată de structura sa, conținutul de humus, umiditatea și reacția chimică (pH).
 
-Se prezintă schema „Tipurile de degradarea a solului” :
+Se prezintă schema „Tipurile de degradare a solului”:
 
 ![Schemă: tipuri de degradare a solului (fizică, chimică, biologică)](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-1.jpg)
 
@@ -62,7 +62,7 @@ Se prezintă schema „Tipurile de degradarea a solului” :
 
 Fiecare grup primește câte o probă de sol provenită dintr-o zonă diferită a localității. 
 
-– *teren agricol cu culturi pomicole ;*
+– *teren agricol cu culturi pomicole;*
 
 *– spațiu verde (curtea școlii);*
 
@@ -80,13 +80,13 @@ Elevii propun ipoteze, de exemplu:
 
 **Tehnologia realizării:** Conversație euristică, Observație dirijată, Problematizare; Activitate frontală; Imagini, probe de sol; Schema degradării solului
 
-### Realizarea sensului (25min)
+### Realizarea sensului (25 min)
 
 **1. Sarcina de lucru**
 
 ●Determinați pH-ul probei de sol primite, utilizând dispozitivul Labdisc și aplicația GlobiLab, parcurgând următorii pași:
 
-●Identificați zona din care provine proba de sol primită și analizați vizual caracteristicile acesteia (culoare, textură, grad aparent de umiditate (Anexa 1).
+●Identificați zona din care provine proba de sol primită și analizați vizual caracteristicile acesteia (culoare, textură, grad aparent de umiditate) (Anexa 1).
 
 ●Pregătiți suspensia sol–apă, amestecând o parte de sol la 2,5 părți apă distilată.
 
@@ -122,17 +122,17 @@ Introduceți sonda de pH în suspensia obținută și porniți înregistrarea da
 
 | Probă de sol    | pH măsurat | Tipul reacției solului | Nivel estimativ al fertilității solului | Culturi agricole favorabile |
 |-----------------|------------|------------------------|-----------------------------------------|-----------------------------|
-| 1.Livadă        |            |                        |                                         |                             |
-| 2.Curtea școlii |            |                        |                                         |                             |
-| 3.Teren agricol |            |                        |                                         |                             |
+| 1. Livadă       |            |                        |                                         |                             |
+| 2. Curtea școlii |            |                        |                                         |                             |
+| 3. Teren agricol |            |                        |                                         |                             |
 
 ● Analizați valorile determinate utilizând tabelele de interpretare a pH-ului (Anexa 2) pentru stabilirea nivelului de fertilitate al solului.
 
 ●Comparați rezultatele obținute între cele trei grupuri de investigație și formulați concluzii privind diferențele dintre solurile analizate.
 
-**Tehnologia realizării:** Investigație experimentală, demonstrație practică; Activitate pe grupe; Dispozitivul LabDisc, aplicația GlobiLab, apă distilată, probe de sol, tabel analiză; Analiză comparativă Conversație euristică; Activitate frontală; Tabel interpretare pH(Anexa nr.2)
+**Tehnologia realizării:** Investigație experimentală, demonstrație practică; Activitate pe grupe; Dispozitivul Labdisc, aplicația GlobiLab, apă distilată, probe de sol, tabel analiză; Analiză comparativă Conversație euristică; Activitate frontală; Tabel interpretare pH (Anexa nr. 2)
 
-### Reflecție (8min)
+### Reflecție (8 min)
 
 Profesorul propune elevilor o activitate intitulată „Jurnalul reflexiv”, prin care elevii analizează rezultatele investigației experimentale realizate cu dispozitivul Labdisc.
 
@@ -142,13 +142,13 @@ Elevii primesc o fișă de lucru și răspund la următoarele întrebări:
 
 Exemplu de răspuns posibil:
 
-*Am observat că solurile analizate au valori diferite ale pH-ului , ceea ce influențează fertilitatea și tipurile de plante care pot fi cultivate.*
+*Am observat că solurile analizate au valori diferite ale pH-ului, ceea ce influențează fertilitatea și tipurile de plante care pot fi cultivate.*
 
 2\. Ce legătură există între pH-ul solului, fertilitate și utilizarea terenului?
 
 Exemplu de răspuns posibil:
 
-*Solul din livadă are pH slab acid , ceea ce favorizează dezvoltarea pomilor fructiferi. Solul din curtea școlii este mai compact și mai puțin fertil.*
+*Solul din livadă are pH slab acid, ceea ce favorizează dezvoltarea pomilor fructiferi. Solul din curtea școlii este mai compact și mai puțin fertil.*
 
 3\. Ce măsuri pot contribui la menținerea calității solului în zonele analizate?
 
@@ -166,7 +166,7 @@ Exemplu de răspuns posibil:
 | Moderată (umiditate optimă) | sol ușor umed, structura stabilă      | condiții favorabile pentru dezvoltarea plantelor             |
 | Ridicată (exces de apă)     | sol lipicios, compact, drenaj slab    | aerare redusă a solului, activitatea biologică scade         |
 
-## Anexa nr.2 Interpretarea pH-ului solului
+## Anexa nr. 2 Interpretarea pH-ului solului
 
 | Valoarea pH-ului | Tipul reacției solului | Caracteristicile solului                                                                        | Nivelul fertilității                             | Exemple de culturi agricole favorabile                                         |
 |------------------|------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------|

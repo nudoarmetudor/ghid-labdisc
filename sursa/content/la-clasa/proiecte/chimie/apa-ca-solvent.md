@@ -26,15 +26,15 @@ tags: [chimie, clasa-viii, aliona-baidan]
 
 **O₁** - Să opereze cu noțiunea de soluții, dizolvare, dizolvant, emulsii, suspensii, solubilitatea substanțelor, tipuri de amestecuri.
 
-**O₂** -  Să caracterizeze compoziția emulsiilor, suspensiilor, soluțiilor și influența temperaturii, presiunii la dizolvarea substanțelor.
+**O₂** - Să caracterizeze compoziția emulsiilor, suspensiilor, soluțiilor și influența temperaturii, presiunii la dizolvarea substanțelor.
 
-**O₃** - Să investigheze experimental cu ajutorul laboratorul digital Labdisc proprietățile soluțiilor.
+**O₃** - Să investigheze experimental cu ajutorul laboratorului digital Labdisc proprietățile soluțiilor.
 
 **O₄** - Să interpreteze graficele obținute pentru a demonstra experimental influența temperaturii și presiunii asupra solubilității substanțelor.
 
 ## Tehnologii didactice
 
-- *platforme digitale*: software-ul GlobiLab, notebookLM
+- *platforme digitale*: software-ul GlobiLab, NotebookLM
 
 - *metode didactice*: video educațional, discuția ghidată, algoritmizarea, experimentul chimic
 
@@ -64,7 +64,7 @@ Profesorul propune elevilor să investigheze ce se întâmplă cu un gaz dizolva
 
 **Mod de lucru:**
 
-1.Pregătirea echipamentului (Hardware)
+1\. Pregătirea echipamentului (Hardware)
 
 -   Apasă butonul de pornire de pe Labdisc.
 -   Introdu sonda externă de temperatură în portul dedicat (de obicei marcat cu simbolul termometrului).

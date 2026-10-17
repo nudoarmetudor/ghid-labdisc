@@ -14,7 +14,7 @@ Câte trei fișe de stație pentru fiecare disciplină, pe care le dați grupelo
 > 4. La final, fiecare grup pune un grafic adnotat pe Padletul clasei, pentru discuția de sinteză.
 
 ```mermaid
-flowchart LR
+flowchart TD
   S1["Stația 1<br/>înregistrare și adnotare"] --> S2["Stația 2<br/>o funcție GlobiLab"] --> S3["Stația 3<br/>datele în foaia de calcul"] --> S1
 ```
 

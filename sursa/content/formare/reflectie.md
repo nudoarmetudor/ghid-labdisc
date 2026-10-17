@@ -5,20 +5,20 @@ ordine: 7
 tags: [formare]
 ---
 
-Reflecția se scrie, nu doar se gândește. Răspundeți în Padlet-ul cursului sau într-un document al dumneavoastră (de exemplu Google Docs); acolo merge și planul de aplicare.
+Reflecția se scrie, nu doar se gândește. Răspundeți în Padletul grupului sau în documentul vostru de curs (de exemplu Google Docs); planul de aplicare merge în Padlet.
 
 ## La finalul cursului
 
 - Un lucru pe care îl aplic la clasă.
 - Un obstacol care rămâne.
-- Ce obstacol de dimineață s-a micșorat azi? (la începutul cursului, fiecare a spus ce lucrare de laborator nu reușește să facă la clasă și de ce)
+- Ce obstacol de la începutul cursului s-a micșorat? (în [[formare/1-de-la-demonstratie-la-masurare|unitatea 1]] ați scris ce lucrare de laborator sau observație nu reușiți să faceți la clasă și de ce)
 
 ## După curs
 
 Fiecare întrebare are un exemplu de răspuns. Scrieți-l întâi pe al dumneavoastră, apoi deschideți exemplul.
 
 1. Ce experiment din manual ați putea transforma într-o măsurare făcută de elevi?
-2. Unde v-ați încurcat azi cu aparatul sau cu programul? Ce le-ați spune elevilor înainte să dea de aceeași problemă?
+2. Unde v-ați încurcat cu aparatul sau cu programul? Ce le-ați spune elevilor înainte să dea de aceeași problemă?
 3. Ce ar trebui să vadă elevii pe grafic ca să înțeleagă fenomenul, nu doar să-l copieze?
 
 > [!example]- Exemplu pentru întrebarea 1
@@ -53,7 +53,7 @@ Ultimul rând al planului e cel mai greu de scris. Cele trei întrebări de mai 
 
 ## Planul meu de aplicare
 
-Copiați cele cinci rânduri în documentul dumneavoastră și completați-le.
+Copiați cele cinci rânduri într-o postare în Padletul grupului și completați-le.
 
 1. **Clasa și tema:**
 2. **Întrebarea de cercetare pentru elevi:**

@@ -7,7 +7,7 @@ ordine: 2
 Trei pagini pentru drumul de la „am un aparat” la „lecția a mers”: ce poate aparatul vostru, cum împărțiți clasa și timpul, ce verificați înainte.
 
 ```mermaid
-flowchart LR
+flowchart TD
   A["Ce Labdisc aveți?<br/>senzori și lecții"] --> B["Organizarea lecției<br/>echipe, roluri, timp"] --> C["Recomandări<br/>verificare și siguranță"]
 ```
 

@@ -24,9 +24,9 @@ tags: [chimie, clasa-x, aliona-baidan]
 
 **O₁** - Să descrie procesul de dizolvare și tipurile de sisteme disperse.
 
-**O₂** -  Să explice fenomenele fizice și chimice care stau la baza dizolvării substanțelor în apă.
+**O₂** - Să explice fenomenele fizice și chimice care stau la baza dizolvării substanțelor în apă.
 
-**O₃** - Să investigheze experimental variația de temperatură (efectul termic) la dizolvarea diferitor săruri cu ajutorul laboratorul digital Labdisc.
+**O₃** - Să investigheze experimental variația de temperatură (efectul termic) la dizolvarea diferitor săruri cu ajutorul laboratorului digital Labdisc.
 
 ## Tehnologii didactice
 
@@ -34,7 +34,7 @@ tags: [chimie, clasa-x, aliona-baidan]
 
 - *metode didactice*: video educațional, discuția ghidată, algoritmizarea, experimentul chimic
 
-- *forme de organizar*e: lucru în grup, în perechi, individual.
+- *forme de organizare*: lucru în grup, în perechi, individual.
 
 ## Resurse
 
@@ -90,9 +90,9 @@ Conectați mufa senzorului de temperatură extern (sonda de metal) în portul co
 -   Introduceți sonda de temperatură în paharul cu cei 30 ml de apă distilată (pentru dizolvare).
 -   Faceți clic pe butonul Run din GlobiLab.
 -   Lăsați softul să înregistreze temperatura constantă timp de 10-15 secunde. Aceasta va forma o linie orizontală pe grafic (Temperatura inițială, T₁).
--   Adăugați substanța solidă nitratul de amoniu . Amestecați ușor cu o baghetă de sticlă, având grijă să nu loviți peretele paharului cu sonda.
--   Repetați același acțiuni doar că adăugați substanța solidă clorura de calciu.
--   Urmăriți pe ecran cum se deseneaza curba temperaturii în timp real (ascendentă pentru procesele exoterme, descendentă pentru cele endoterme).
+-   Adăugați substanța solidă nitratul de amoniu. Amestecați ușor cu o baghetă de sticlă, având grijă să nu loviți peretele paharului cu sonda.
+-   Repetați aceleași acțiuni doar că adăugați substanța solidă clorura de calciu.
+-   Urmăriți pe ecran cum se desenează curba temperaturii în timp real (ascendentă pentru procesele exoterme, descendentă pentru cele endoterme).
 -   După ce curba atinge punctul de inflexiune (maxim sau minim) și începe să revină lent spre temperatura camerei, apăsați butonul **Stop**.
 
 Analizați graficele obținute. Formulați concluzia.

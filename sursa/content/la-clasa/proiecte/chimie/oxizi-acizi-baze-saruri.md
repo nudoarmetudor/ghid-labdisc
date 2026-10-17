@@ -18,7 +18,7 @@ tags: [chimie, clasa-viii, aliona-baidan]
 
 4.2. *Corelarea* compoziției substanței cu denumirea, clasa de compuși, utilizarea, importanța, acțiunea asupra organismului uman.
 
-4.8. *Formularea* concluziilor ce se referă la beneficiile oxizilor, acizi lor, bazelor, sărurilor.
+4.8. *Formularea* concluziilor ce se referă la beneficiile oxizilor, acizilor, bazelor, sărurilor.
 
 ## Obiective operaționale
 
@@ -86,7 +86,7 @@ Profesorul propune elevilor să obțină oxidul de carbon (IV) în laborator și
 
 **III. Executarea experimentului și colectarea datelor**
 
-1.  Măsurarea de calității aerului din sala de clasă:
+1.  Măsurarea calității aerului din sala de clasă:
 
 -   Fă clic pe pictograma Run (omulețul care aleargă) din GlobiLab pentru a începe înregistrarea.
 -   Lasă dispozitivul să înregistreze nivelul de CO₂ din aerul sălii de clasă timp de aproximativ 2 minute pentru a stabili linia de bază.

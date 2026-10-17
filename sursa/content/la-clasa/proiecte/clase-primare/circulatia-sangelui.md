@@ -28,7 +28,7 @@ tags: [clase-primare, clasa-vi, iulia-bat]
 
 **O1:** să explice cum are loc circulația sângelui în baza imaginii și a secvenței video.
 
-**O2:** să determine pulsul/ritmul cardiac cu ajutorul dispozitivului Labdisc biochem.
+**O2:** să determine pulsul/ritmul cardiac cu ajutorul dispozitivului Labdisc BioChem.
 
 **O3:** să practice activități relevante pentru sănătatea inimii.
 
@@ -61,14 +61,14 @@ b) explicația circulației sangvine, în baza imaginii din manual, pagina 62;
 
 c) consolidarea cunoștințelor despre puls.
 
-⇛**Realizarea experienței cu dispozitivul Labdisc biochem**
+⇛**Realizarea experienței cu dispozitivul Labdisc BioChem**
 
-Cadrul didactic va ghida elevii să formeze grupuri mici și va prezenta etapele experienței. Va oferi fiecărui grup mic algoritmul de lucru, fișa de observare, dispozitivul Labdisc biochem.
+Cadrul didactic va ghida elevii să formeze grupuri mici și va prezenta etapele experienței. Va oferi fiecărui grup mic algoritmul de lucru, fișa de observare, dispozitivul Labdisc BioChem.
 
-*Notă: cadrul didactic ghidează formarea grupurilor mici(3 elevi), în dependență de dispozitivele disponibile. Eficient ar fi să lucreze în pereche.*
+*Notă: cadrul didactic ghidează formarea grupurilor mici (3 elevi), în dependență de dispozitivele disponibile. Eficient ar fi să lucreze în pereche.*
 
--   Măsurarea pulsului în stare de repaos. Completarea fișei de observare.
--   Măsurarea pulsului după realizarea unor exerciții cu efort sporit (10 sărituri cu coarda/10 sărituri pe ambele picioare, etc). Completarea fișei de observare.
+-   Măsurarea pulsului în stare de repaus. Completarea fișei de observare.
+-   Măsurarea pulsului după realizarea unor exerciții cu efort sporit (10 sărituri cu coarda/10 sărituri pe ambele picioare etc.). Completarea fișei de observare.
 -   Măsurarea pulsului peste 1 minut de la realizarea exercițiilor cu efort. Completarea fișei de observare.
 
 ⇛**Compararea rezultatelor.**
@@ -83,17 +83,17 @@ Cadrul didactic va ghida elevii să formeze grupuri mici și va prezenta etapele
 2.  analiza sfaturilor în pereche;
 3.  identificarea altor activități benefice pentru sănătatea inimii (din experiența elevilor).
 
-⇛**Sarcina pentru acasă**.Cadrul didactic va propune elevilor să planifice realizarea unor activități casnice, să verifice pulsul cu ajutorul membrilor familiei și să completeze fișa de observare.
+⇛**Sarcina pentru acasă**. Cadrul didactic va propune elevilor să planifice realizarea unor activități casnice, să verifice pulsul cu ajutorul membrilor familiei și să completeze fișa de observare.
 
-**Strategii didactice:** Metode: observare, discuție ghidată, lectură independentă, descoperire, explicație, vizionarea secvenței video. Forme: individual, în pereche, grup mic, grup mare. Resurse: fișa de observare, Labdisc biochem, cevența video; [https://eduboom.ro/video/1618/sistemul-circulator-](https://eduboom.ro/video/1618/sistemul-circulator-)
+**Strategii didactice:** Metode: observare, discuție ghidată, lectură independentă, descoperire, explicație, vizionarea secvenței video. Forme: individual, în pereche, grup mic, grup mare. Resurse: fișa de observare, Labdisc BioChem, secvența video; [https://eduboom.ro/video/1618/sistemul-circulator-](https://eduboom.ro/video/1618/sistemul-circulator-)
 
 ## Anexa 1
 
 **Fișă de observare**
 
-**Data:\_\_\_\_\_\_\_\_\_\_ Clasa : \_\_\_\_\_\_\_\_\_\_**
+**Data:\_\_\_\_\_\_\_\_\_\_ Clasa: \_\_\_\_\_\_\_\_\_\_**
 
-| Activitatea/starea    | Ritm cardiac/ bătăile inimii pe minut | Observarea schimbărilor corporale respirația, culoarea tenului feței) |
+| Activitatea/starea    | Ritm cardiac/ bătăile inimii pe minut | Observarea schimbărilor corporale (respirația, culoarea tenului feței) |
 |-----------------------|---------------------------------------|-----------------------------------------------------------------------|
 | Elevul 1 | | |
 | Starea de repaus | | |
@@ -106,7 +106,7 @@ Cadrul didactic va ghida elevii să formeze grupuri mici și va prezenta etapele
 
 ## Anexa 2
 
-### Activitate de cercetare cu Labdisc biochem
+### Activitate de cercetare cu Labdisc BioChem
 
 **Circulația sângelui**
 
@@ -114,11 +114,11 @@ Cadrul didactic va ghida elevii să formeze grupuri mici și va prezenta etapele
 
 **Disciplina: științe**
 
-**Clasa:a IV-a**
+**Clasa: a IV-a**
 
 Resurse hard:
 
--   Labdisc biochem
+-   Labdisc BioChem
 -   laptop
 -   panou interactiv/ecran/proiector
 
@@ -126,19 +126,19 @@ Resurse soft: GlobiLab 3.4.3
 
 ### Etapele experienței
 
-1.Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-2.png)
+1\. Porniți Labdisc-ul, apăsând tasta Pornit/Oprit ![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-2.png)
 
-2.Rotiți inelul de plastic al Labdisk-ului pentru a conecta senzorul.
+2\. Rotiți inelul de plastic al Labdisc-ului pentru a conecta senzorul.
 
-3.Conectați senzorul pentru determinarea pulsului ![Senzorul de puls (clemă cu cablu)](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-3.png),
+3\. Conectați senzorul pentru determinarea pulsului ![Senzorul de puls (clemă cu cablu)](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-3.png),
 
-situat sub tasta pentru puls/ritmul cardiac![Pictograma pentru puls/ritm cardiac de pe Labdisc](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-4.png).
+situat sub tasta pentru puls/ritmul cardiac ![Pictograma pentru puls/ritm cardiac de pe Labdisc](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-4.png).
 
-4\. Conectați senzorul la ureche, ori la un deget.![Senzorul de puls prins pe deget](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-5.jpg)![Senzorul de puls prins de lobul urechii](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-6.jpg)
+4\. Conectați senzorul la ureche, ori la un deget. ![Senzorul de puls prins pe deget](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-5.jpg)![Senzorul de puls prins de lobul urechii](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-6.jpg)
 
 5\. Conectați Labdisc-ul la computer, folosind cablul USB, ori wireless Bluetooth.
 
-6\. Accesați aplicația Globilab(e necesar s-o descărcați din timp de pe site).
+6\. Accesați aplicația GlobiLab (e necesar s-o descărcați din timp de pe site).
 
 7\. Faceți clic pe pictogramă și selectați un singur senzor, cel de determinare a pulsului; rata de eșantionare: Manual; 10/sec; 1000 eșantioane.
 

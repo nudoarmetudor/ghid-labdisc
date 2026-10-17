@@ -16,7 +16,9 @@ Labdisc vine în mai multe modele, fiecare cu alt set de senzori: GenSci (știin
 
 Tabelul e făcut după tabelele de senzori din paginile modelelor, scrise de Victoria Calistru: [[formare/labdisc/modele/gensci|GenSci]], [[formare/labdisc/modele/physio|Physio]], [[formare/labdisc/modele/biochem|BioChem]], [[formare/labdisc/modele/enviro|Enviro]]. Acolo găsiți și domeniul de măsurare, rata maximă de eșantionare și accesoriile fiecărui senzor.
 
-| Senzorul | GenSci | Physio | BioChem | Enviro |
+În tabel: **G** = GenSci, **P** = Physio, **B** = BioChem, **E** = Enviro.
+
+| Senzorul | G | P | B | E |
 |---|:-:|:-:|:-:|:-:|
 | **Temperatură, căldură** | | | | |
 | Temperatura ambientală | ✓ | ✓ | ✓ | ✓ |

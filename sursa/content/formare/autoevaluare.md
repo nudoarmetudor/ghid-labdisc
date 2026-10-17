@@ -5,69 +5,65 @@ ordine: 6
 tags: [formare]
 ---
 
-Autoevaluarea are trei pași: bifați ce credeți că puteți face, verificați-vă cu testul, apoi încercați exercițiile cu răspuns model. Dacă testul vă contrazice o bifă, recitiți sesiunea indicată.
+Autoevaluarea are trei pași: bifați ce credeți că puteți face, verificați-vă cu testul, apoi încercați exercițiile cu răspuns model. Dacă testul vă contrazice o bifă, recitiți unitatea indicată.
 
-Bifele rămân doar în browserul dumneavoastră. Ce nu ați bifat vă spune ce sesiune să recitiți.
+Bifele rămân doar în browserul dumneavoastră. Ce nu ați bifat vă spune ce unitate să recitiți.
 
 ## 1. Bifați
 
 ### Cunoaștere și înțelegere
 
-- [ ] Pot descrie structura dispozitivului Labdisc: tastele, ecranul, senzorii integrați și externi, porturile și modurile de conectare, precum și senzorii fiecărui model (GenSci, Physio, BioChem, Enviro). ([[formare/1-de-la-demonstratie-la-masurare\|sesiunea 1]])
-- [ ] Pot explica parametrii unei înregistrări: senzorii selectați, rata de eșantionare, numărul de eșantioane și durata înregistrării. ([[formare/1-de-la-demonstratie-la-masurare\|sesiunea 1]])
-- [ ] Pot recunoaște etapele unei investigații științifice: întrebarea de cercetare, ipoteza, planul, colectarea datelor, analiza și concluzia. ([[formare/3-investigatia-deschisa\|sesiunea 3]])
-- [ ] Pot identifica sursele de erori de măsurare și limitele senzorilor. ([[formare/3-investigatia-deschisa\|sesiunea 3]])
+- [ ] Pot descrie structura dispozitivului Labdisc și senzorii fiecărui model (GenSci, Physio, BioChem, Enviro). ([[formare/1-de-la-demonstratie-la-masurare\|unitatea 1]])
+- [ ] Pot explica parametrii unei înregistrări: senzorii selectați, rata de eșantionare, numărul de eșantioane și durata înregistrării. ([[formare/1-de-la-demonstratie-la-masurare\|unitatea 1]])
+- [ ] Pot recunoaște etapele unei investigații științifice: întrebarea de cercetare, ipoteza, planul, colectarea datelor, analiza și concluzia. ([[formare/3-investigatia-deschisa\|unitatea 3]])
+- [ ] Pot identifica sursele de erori de măsurare și limitele senzorilor. ([[formare/3-investigatia-deschisa\|unitatea 3]])
 
 ### Aplicare
 
-- [ ] Pot configura dispozitivul Labdisc și aplicația GlobiLab pentru o înregistrare, prin USB sau Bluetooth. ([[formare/1-de-la-demonstratie-la-masurare\|sesiunea 1]])
-- [ ] Pot realiza experimente de fizică cu senzorii de distanță, temperatură, tensiune și curent electric. ([[formare/2-experimente-in-statii\|sesiunea 2]])
-- [ ] Pot analiza datele în GlobiLab cu ajutorul markerului, al adnotărilor și al funcțiilor matematice. ([[formare/2-experimente-in-statii\|sesiunea 2]])
-- [ ] Pot exporta datele în format .CSV și le pot reprezenta grafic în foaia de calcul. ([[formare/2-experimente-in-statii\|sesiunea 2]])
-- [ ] Pot formula concluzii argumentate pe baza graficelor obținute. ([[formare/3-investigatia-deschisa\|sesiunea 3]])
+- [ ] Pot configura dispozitivul Labdisc și aplicația GlobiLab pentru o înregistrare, prin USB sau Bluetooth. ([[formare/1-de-la-demonstratie-la-masurare\|unitatea 1]])
+- [ ] Pot alege modelul și senzorii potriviți pentru un experiment din disciplina mea. ([[formare/2-experimente-in-statii\|unitatea 2]])
+- [ ] Pot realiza experimente din curriculumul disciplinei mele cu senzori digitali. ([[formare/2-experimente-in-statii\|unitatea 2]])
+- [ ] Pot analiza datele în GlobiLab și în foaia de calcul și pot formula concluzii argumentate pe baza graficelor. ([[formare/2-experimente-in-statii\|unitatea 2]], [[formare/3-investigatia-deschisa\|unitatea 3]])
 
 ### Integrare
 
-- [ ] Pot proiecta o fișă de investigație cu Labdisc pentru o unitate de competență din curriculumul la fizică. ([[formare/4-lectia-mea-cu-labdisc\|sesiunea 4]])
-- [ ] Pot integra activitatea cu Labdisc în etapele lecției: evocare, realizarea sensului, reflecție. ([[formare/4-lectia-mea-cu-labdisc\|sesiunea 4]])
-- [ ] Pot evalua investigațiile elevilor pe baza unor criterii explicite. ([[formare/4-lectia-mea-cu-labdisc\|sesiunea 4]])
-- [ ] Pot adapta activitățile pentru gimnaziu și liceu și pentru alte discipline științifice. ([[formare/4-lectia-mea-cu-labdisc\|sesiunea 4]])
-
-> [!note] Dacă predați altă disciplină decât fizica
-> Citiți „fizică” din afirmațiile de mai sus ca disciplina dumneavoastră: experimentele și fișa de investigație se fac pe curriculumul pe care îl predați.
+- [ ] Pot proiecta o fișă de investigație cu Labdisc pentru o unitate de competență din curriculumul disciplinei. ([[formare/4-lectia-mea-cu-labdisc\|unitatea 4]])
+- [ ] Pot integra activitatea cu Labdisc în etapele lecției: evocare, realizarea sensului, reflecție. ([[formare/4-lectia-mea-cu-labdisc\|unitatea 4]])
+- [ ] Pot evalua investigațiile elevilor pe baza unor criterii explicite. ([[formare/4-lectia-mea-cu-labdisc\|unitatea 4]])
+- [ ] Pot adapta activitățile pentru niveluri de școlaritate diferite și pentru proiecte interdisciplinare. ([[formare/4-lectia-mea-cu-labdisc\|unitatea 4]])
 
 ## 2. Verificați-vă
 
-Câte o întrebare pentru fiecare domeniu al cursului. Explicația fiecărui răspuns spune și sesiunea de recitit.
+Câte o întrebare pentru fiecare domeniu al cursului. Explicația fiecărui răspuns spune și unitatea de recitit.
 
 ```quiz
 ? Labdisc înregistrează 500 de eșantioane la 5 pe secundă. Cât durează înregistrarea?
-+ 100 s | 500 ÷ 5 = 100 s. Parametrii înregistrării sunt în sesiunea 1.
-- 2500 s | Ați înmulțit. Durata este numărul de eșantioane împărțit la rată; recitiți sesiunea 1.
-- 5 s | Ați împărțit rata la 100. Durata este numărul de eșantioane împărțit la rată; recitiți sesiunea 1.
++ 100 s | 500 ÷ 5 = 100 s. Parametrii înregistrării sunt în unitatea 1.
+- 2500 s | Ați înmulțit. Durata este numărul de eșantioane împărțit la rată; recitiți unitatea 1.
+- 5 s | Ați împărțit rata la 100. Durata este numărul de eșantioane împărțit la rată; recitiți unitatea 1.
 
-? Ce model de Labdisc alegeți pentru o lecție cu tensiune și curent electric?
-+ GenSci sau Physio | Doar aceste două modele au senzorii de tensiune și de curent. Modelele sunt în sesiunea 1 și în paginile de tutorial.
-- Enviro | Enviro e gândit pentru mediu: UV, turbiditate, temperatură IR; nu are senzori electrici.
-- BioChem | BioChem e gândit pentru chimie și biologie; nu are senzori de tensiune și curent.
+? La biologie vreți să măsurați pulsul elevilor înainte și după efort. Ce model de Labdisc alegeți?
++ BioChem | Doar BioChem are senzorul de ritm cardiac, cu clema pentru ureche. Modelele sunt în unitatea 1, alegerea senzorilor în unitatea 2.
+- Physio | Numele trimite la fiziologie, dar Physio e modelul pentru fizică și nu are senzor de ritm cardiac.
+- Enviro | Enviro e gândit pentru mediu: UV, turbiditate, temperatură IR; nu măsoară pulsul.
 
 ? Ce face funcția „Derivată” în GlobiLab?
-+ Arată cât de repede se schimbă mărimea măsurată | Din distanță față de timp dă viteza; din temperatură, ritmul încălzirii. Funcțiile sunt în sesiunea 2.
-- Netezește graficul | Asta face funcția „Smooth”; recitiți sesiunea 2.
-- Calculează aria de sub grafic | Asta face funcția „Integrală”; recitiți sesiunea 2.
++ Arată cât de repede se schimbă mărimea măsurată | Din distanță față de timp dă viteza; din temperatură, ritmul încălzirii. Funcțiile sunt în unitatea 2.
+- Netezește graficul | Asta face funcția „Smooth”; recitiți unitatea 2.
+- Calculează aria de sub grafic | Asta face funcția „Integrală”; recitiți unitatea 2.
 
 ? Două repetări ale aceleiași măsurări dau curbe care diferă cu 3 °C. Ce spuneți elevilor?
-+ Diferența arată cât de sigură e măsurarea; căutăm cauzele, de exemplu o sondă mișcată sau un pahar mai plin | Erorile sunt material de lecție. Recitiți sesiunea 3.
-- Păstrăm repetarea care seamănă cu ipoteza | Asta înseamnă să alegeți datele după rezultat; recitiți sesiunea 3.
++ Diferența arată cât de sigură e măsurarea; căutăm cauzele, de exemplu o sondă mișcată sau un pahar mai plin | Erorile sunt material de lecție. Recitiți unitatea 3.
+- Păstrăm repetarea care seamănă cu ipoteza | Asta înseamnă să alegeți datele după rezultat; recitiți unitatea 3.
 - Senzorul e stricat, măsurarea nu contează | Fără alte dovezi, căutați întâi cauza în condițiile măsurării, nu în aparat.
 
 ? În ce etapă a lecției desenează elevii graficul pe care îl așteaptă?
-+ Evocare | Predicția și întrebarea deschid lecția. Etapele sunt în sesiunea 4.
++ Evocare | Predicția și întrebarea deschid lecția. Etapele sunt în unitatea 4.
 - Realizarea sensului | Aici se măsoară și se analizează; predicția trebuie să existe înainte.
 - Reflecție | În reflecție se compară predicția cu datele, deci predicția e făcută mai devreme.
 
 ? Elevii de clasa a VI-a lucrează prima dată cu Labdisc. Cum adaptați o investigație de liceu?
-+ O transformați într-o investigație structurată: dați întrebarea și pașii, elevii găsesc răspunsul | Elevii fără experiență încep de jos și urcă. Recitiți sesiunea 4.
++ O transformați într-o investigație structurată: dați întrebarea și pașii, elevii găsesc răspunsul | Elevii fără experiență încep de jos și urcă. Recitiți unitatea 4.
 - Le dați aceeași fișă, cu mai mult timp | Timpul nu înlocuiește pașii pe care elevii încă nu știu să-i facă singuri.
 - Le cereți să aleagă singuri întrebarea | Investigația deschisă cere elevi care se descurcă deja cu aparatul.
 ```
@@ -114,7 +110,7 @@ date:
 
 Produsele de mai jos arată că ați ajuns acolo. Toate merg în portofoliu.
 
-- Sesiunea 1: Grafic adnotat al unei înregistrări proprii.
-- Sesiunea 2: Set de date, grafic și trei întrebări de interpretare pentru elevi.
-- Sesiunea 3: Raport scurt de investigație: întrebare, ipoteză, date, grafic, concluzie, erori.
-- Sesiunea 4: Fișa de investigație și dovezi din lecție (grafice, produse ale elevilor, fără date personale) în portofoliul Padlet.
+- Unitatea 1: Grafic adnotat al unei înregistrări proprii.
+- Unitatea 2: Set de date, grafic și trei întrebări de interpretare pentru elevi.
+- Unitatea 3: Raport scurt de investigație: întrebare, ipoteză, date, grafic, concluzie, erori.
+- Unitatea 4: Fișa de investigație și dovezi din lecție (grafice, produse ale elevilor, fără date personale) în portofoliul Padlet.

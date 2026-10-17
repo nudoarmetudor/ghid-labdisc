@@ -4,10 +4,10 @@ description: Șabloane digitale pentru elevi și pentru pregătirea lecției. Su
 ordine: 4
 ---
 
-Șabloanele de aici se completează digital: faceți o copie a modelului într-un Google Doc al grupului, într-un Google Form sau în folderul comun al clasei. Textul fiecărui șablon e curat, gata de copiat. Piesele interactive din jurul lui sunt pentru profesor.
+Șabloanele de aici se completează digital: faceți o copie a modelului într-un Google Doc al grupului, în folderul comun al clasei; datele merg în Google Sheets, criteriile într-un formular Google, graficele pe Padletul clasei. Textul fiecărui șablon e curat, gata de copiat. Piesele interactive din jurul lui sunt pentru profesor.
 
 ```mermaid
-flowchart LR
+flowchart TD
   A["Înainte<br/>fișa de investigație<br/>banca de întrebări"] --> B["În timpul lecției<br/>fișele de stație<br/>raportul"] --> C["După<br/>criteriile de evaluare<br/>evaluarea LORI"]
 ```
 
@@ -25,4 +25,4 @@ flowchart LR
 - [[la-clasa/implementare/recomandari|Lista de verificare dinaintea lecției]].
 
 > [!tip] Un folder pentru toată clasa
-> Puneți șabloanele într-un folder comun al clasei, cu câte o copie pentru fiecare grup. Exportați datele din GlobiLab în format .CSV și deschideți-le în Google Sheets în același folder. Așa rapoartele, datele și graficele stau împreună și le puteți comenta direct.
+> Puneți șabloanele într-un folder comun al clasei, cu câte o copie pentru fiecare grup. Exportați datele din GlobiLab în format .CSV și deschideți-le în Google Sheets în același folder. Așa rapoartele, datele și graficele stau împreună și le puteți comenta direct. Pentru discuția finală, grupurile pun graficele adnotate pe Padletul clasei, iar criteriile de evaluare pot fi un formular Google.

@@ -10,7 +10,7 @@ O rutină scurtă pe care o puteți folosi mâine cu un singur aparat și toată
 Când aveți un singur aparat sau puțin timp, Labdisc poate lucra în fața clasei, proiectat pe tablă. Rutina „prezice, observă, explică” (White și Gunstone, 1992) păstrează elevii activi și atunci.
 
 ```mermaid
-flowchart LR
+flowchart TD
   P["Prezice<br/>fiecare elev,<br/>grafic + de ce"] --> O["Observă<br/>măsurarea proiectată,<br/>fără explicații"] --> E["Explică<br/>în perechi,<br/>apoi cu clasa"]
 ```
 

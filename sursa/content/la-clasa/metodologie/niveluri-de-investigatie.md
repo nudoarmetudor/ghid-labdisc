@@ -72,7 +72,7 @@ Fiecare situație e o lecție reală sau posibilă. Alegeți nivelul.
 - Structurată | La structurată, elevii nu știu dinainte răspunsul.
 - Ghidată | Elevii nu și-au făcut planul și știau rezultatul.
 
-? O echipă vrea să afle dacă e mai zgomot în cantină sau în bibliotecă și își alege singură senzorul. Ce nivel e?
+? O echipă vrea să afle dacă e mai mult zgomot în cantină sau în bibliotecă și își alege singură senzorul. Ce nivel e?
 - Ghidată | La ghidată, întrebarea vine de la profesor.
 + Deschisă | Corect: întrebarea, metoda și răspunsul sunt ale elevilor.
 - Structurată | Nimic nu e dat de profesor aici.
