@@ -104,3 +104,8 @@ gri-ul textului și albastrul European Schoolnet.
 - Totul se citește pe telefon: fără tabele late cu paragrafe în celule, butoane de cel
   puțin 40 px înălțime, imagini de cel mult 1400 px lățime și câteva sute de KB.
 - Bifele (autoevaluări, liste de verificare) rămân doar în browserul cititorului.
+- **Totul se face digital.** Fără markere, foi A3, flipchart, post-it sau fișe tipărite. Scrisul,
+  desenul și schițele se fac pe platforme și instrumente digitale, existente (Google Docs,
+  Sheets, Slides, Forms, table digitale) sau create de noi. Fișele și anexele sunt modele care
+  se copiază într-un document al grupului, nu pagini de tipărit. Echipamentul de laborator
+  rămâne, firește, fizic.
