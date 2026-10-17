@@ -2,7 +2,7 @@
 title: "Experimente din curriculum cu Labdisc, pe discipline"
 description: "Realizarea experimentelor din curriculumul disciplinei cu senzori digitali și interpretarea graficelor obținute."
 ordine: 2
-tags: [formare, sesiune]
+tags: [formare, unitate]
 ---
 
 Unitatea 2 din 4 a cursului.
@@ -176,7 +176,7 @@ sursa: PhET Interactive Simulations, University of Colorado Boulder, CC BY 4.0.
 
 ### Analiza datelor în GlobiLab: marker, adnotare, funcții matematice (derivată, integrală, regresie)
 
-Instrumentele de analiză sunt aceleași la orice disciplină. Întoarceți cartonașele: întâi spuneți ce face funcția, apoi verificați. Descrierea completă e în [[formare/labdisc/globilab#2.3 Principalele pictograme ale aplicației și funcțiilor acestora|GlobiLab, secțiunea 2.3]].
+Instrumentele de analiză sunt aceleași la orice disciplină. Întoarceți cartonașele: întâi spuneți ce face funcția, apoi verificați. Descrierea completă e în [[formare/labdisc/globilab#2.3 Principalele pictograme ale aplicației și funcțiile acestora|GlobiLab, secțiunea 2.3]].
 
 ```cartonase
 Marker :: Arată valoarea exactă și momentul într-un punct al graficului. Doi markeri delimitează intervalul pe care lucrează funcțiile.

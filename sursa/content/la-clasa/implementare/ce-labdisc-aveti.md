@@ -16,44 +16,42 @@ Labdisc vine în mai multe modele, fiecare cu alt set de senzori: GenSci (știin
 
 Tabelul e făcut după tabelele de senzori din paginile modelelor, scrise de Victoria Calistru: [[formare/labdisc/modele/gensci|GenSci]], [[formare/labdisc/modele/physio|Physio]], [[formare/labdisc/modele/biochem|BioChem]], [[formare/labdisc/modele/enviro|Enviro]]. Acolo găsiți și domeniul de măsurare, rata maximă de eșantionare și accesoriile fiecărui senzor.
 
-În tabel: **G** = GenSci, **P** = Physio, **B** = BioChem, **E** = Enviro.
+| Senzorul | Pe ce modele |
+|---|---|
+| **Temperatură, căldură** | |
+| Temperatura ambientală | toate |
+| Temperatură externă (sondă) | toate |
+| Termocuplu | BioChem |
+| Temperatură în infraroșu | Enviro |
+| **Aer, vreme** | |
+| Presiunea aerului (cu tub) | GenSci, Physio, BioChem |
+| Presiune barometrică | BioChem, Enviro |
+| Umiditate relativă | GenSci, BioChem, Enviro |
+| GPS | GenSci, BioChem, Enviro |
+| **Lumină, sunet** | |
+| Lumină | GenSci, Physio, BioChem |
+| Radiație ultravioletă (UV) | Enviro |
+| Nivel sonor | GenSci, Enviro |
+| Microfon | GenSci, Physio |
+| **Mișcare** | |
+| Distanță | GenSci, Physio |
+| Accelerometru | Physio |
+| **Electricitate** | |
+| Tensiune | GenSci, Physio |
+| Tensiune joasă | Physio |
+| Curent electric | GenSci, Physio |
+| **Apă, soluții** | |
+| pH | GenSci, BioChem, Enviro |
+| Conductivitate | BioChem |
+| Oxigen dizolvat | BioChem, Enviro |
+| Colorimetru | BioChem, Enviro |
+| Turbiditate | BioChem, Enviro |
+| **Corpul omenesc** | |
+| Ritm cardiac | BioChem |
+| **Pentru senzori externi** | |
+| Intrare universală | toate |
 
-| Senzorul | G | P | B | E |
-|---|:-:|:-:|:-:|:-:|
-| **Temperatură, căldură** | | | | |
-| Temperatura ambientală | ✓ | ✓ | ✓ | ✓ |
-| Temperatură externă (sondă) | ✓ | ✓ | ✓ | ✓ |
-| Termocuplu | · | · | ✓ | · |
-| Temperatură în infraroșu | · | · | · | ✓ |
-| **Aer, vreme** | | | | |
-| Presiunea aerului (cu tub) | ✓ | ✓ | ✓ | · |
-| Presiune barometrică | · | · | ✓ | ✓ |
-| Umiditate relativă | ✓ | · | ✓ | ✓ |
-| GPS | ✓ | · | ✓ | ✓ |
-| **Lumină, sunet** | | | | |
-| Lumină | ✓ | ✓ | ✓ | · |
-| Radiație ultravioletă (UV) | · | · | · | ✓ |
-| Nivel sonor | ✓ | · | · | ✓ |
-| Microfon | ✓ | ✓ | · | · |
-| **Mișcare** | | | | |
-| Distanță | ✓ | ✓ | · | · |
-| Accelerometru | · | ✓ | · | · |
-| **Electricitate** | | | | |
-| Tensiune | ✓ | ✓ | · | · |
-| Tensiune joasă | · | ✓ | · | · |
-| Curent electric | ✓ | ✓ | · | · |
-| **Apă, soluții** | | | | |
-| pH | ✓ | · | ✓ | ✓ |
-| Conductivitate | · | · | ✓ | · |
-| Oxigen dizolvat | · | · | ✓ | ✓ |
-| Colorimetru | · | · | ✓ | ✓ |
-| Turbiditate | · | · | ✓ | ✓ |
-| **Corpul omenesc** | | | | |
-| Ritm cardiac | · | · | ✓ | · |
-| **Pentru senzori externi** | | | | |
-| Intrare universală | ✓ | ✓ | ✓ | ✓ |
-
-✓ are senzorul · nu îl are. Toate patru măsoară temperatura și au intrare universală. Restul diferă.
+Toate patru măsoară temperatura și au intrare universală. Restul diferă.
 
 > [!example]- Aceleași date, câte o listă pe model
 > **GenSci (13 senzori):** temperatura ambientală, temperatură externă, presiunea aerului, umiditate relativă, GPS, lumină, nivel sonor, microfon, distanță, tensiune, curent electric, pH, intrare universală.

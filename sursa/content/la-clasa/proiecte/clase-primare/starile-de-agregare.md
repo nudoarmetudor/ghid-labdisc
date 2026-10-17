@@ -101,13 +101,13 @@ Dacă Labdisc-ul GenSci este utilizat de către cadrul didactic, atunci demonstr
 
 | Etapa 1. Cercetați paharul cu apă. Introduceți datele cercetării în tabel.                            |       |             |
 |-------------------------------------------------------------------------------------------------------|-------|-------------|
-| Descrieți ce simțiți la atingere                                                                        | Forma | Temperatura |
+| Descrieți ce simțiți la atingere                                                                      | Forma | Temperatura |
 |                                                                                                       |       |             |
 | Etapa 2. Cercetați paharul cu puțină apă și cuburi de gheață. Introduceți datele cercetării în tabel. |       |             |
-| Descrieți ce simțiți la atingere                                                                        | Forma | Temperatura |
+| Descrieți ce simțiți la atingere                                                                      | Forma | Temperatura |
 |                                                                                                       |       |             |
 | Etapa 3. Cercetați cum fierbe apa. Introduceți datele cercetării în tabel.                            |       |             |
-| Descrieți ce simțiți la atingere                                                                        | Forma | Temperatura |
+| Descrieți ce simțiți la atingere                                                                      | Forma | Temperatura |
 |                                                                                                       |       |             |
 
 ## Anexa 2

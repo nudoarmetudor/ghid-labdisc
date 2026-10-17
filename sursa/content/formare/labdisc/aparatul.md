@@ -15,15 +15,15 @@ Labdisc este un dispozitiv portabil de tip **data logger**, conceput pentru cole
 
 Prin intermediul acestor senzori, Labdisc permite realizarea de măsurători în timp real, facilitând observarea directă a fenomenelor și analiza relațiilor dintre variabile. Datele colectate pot fi vizualizate pe ecranul dispozitivului sau pot fi transferate către un computer, tabletă sau telefon mobil pentru analiza detaliată prin intermediul software-ului dedicat.
 
-În context educațional, Labdisc sprijină activitățile de învățare bazate pe experiment și investigație, oferind elevilor posibilități de colectare și interpretare date reale, de a formula ipoteze și de a verifica modele teoretice.
+În context educațional, Labdisc sprijină activitățile de învățare bazate pe experiment și investigație, oferind elevilor posibilități de colectare și interpretare a datelor reale, de a formula ipoteze și de a verifica modele teoretice.
 
 Dispozitivul Labdisc are un design compact și ergonomic, fiind conceput pentru utilizarea în laborator, în sala de clasă sau în activități experimentale desfășurate în mediul exterior.
 
 Structura generală a dispozitivului include următoarele componente principale:
 
 - **carcasa și designul structural**, care asigură protecția componentelor interne și facilitează manipularea dispozitivului în timpul activităților experimentale;
-- **senzori**, care permit măsurarea simultană a diferitelor parametri experimentali;
-- **interfața de control**, prin intermediul căreia utilizatorului poate selecta senzorii, poate configura parametrii de măsurare și poate vizualiza valorile înregistrate.
+- **senzori**, care permit măsurarea simultană a diferiților parametri experimentali;
+- **interfața de control**, prin intermediul căreia utilizatorul poate selecta senzorii, poate configura parametrii de măsurare și poate vizualiza valorile înregistrate.
 
 Integrarea mai multor senzori într-un singur dispozitiv reduce complexitatea echipamentelor experimentale și permite realizarea rapidă a măsurătorilor în diferite contexte educaționale.
 
@@ -162,13 +162,13 @@ Se recomandă:
 
 - selectarea limbii de lucru înainte de utilizarea dispozitivului;
 - activarea conexiunii Bluetooth atunci când dispozitivul este utilizat împreună cu un calculator sau tabletă;
-- selectarea unităților de măsură disponibilă (de exemplu, pentru temperatură: °C sau °F), în funcție de cerințele experimentului;
+- selectarea unităților de măsură disponibile (de exemplu, pentru temperatură: °C sau °F), în funcție de cerințele experimentului.
 
 Pentru aceasta:
 
 - derulați opțiunile disponibile folosind tastele dispozitivului;
 - selectați opțiunea dorită;
-- confirmați alegerea realizată
+- confirmați alegerea realizată.
 
 > **Dacă funcția Bluetooth nu este activată, dispozitivul nu va putea comunica cu aplicația utilizată pentru colectarea datelor (de exemplu, GlobiLab).**
 
@@ -180,7 +180,7 @@ Pentru aceasta:
 
 Pentru realizarea unei sesiuni de măsurare, este necesară configurarea parametrilor de măsurare a datelor, în funcție de tipul experimentului și de senzorii utilizați.
 
-Pașii de configurare sunt prezentate în schema de mai jos.
+Pașii de configurare sunt prezentați în schema de mai jos.
 
 În cadrul acestui proces:
 
@@ -189,7 +189,7 @@ Pașii de configurare sunt prezentate în schema de mai jos.
 - se definește numărul de eșantioane, care determină durata totală a înregistrării;
 - se confirmă setările pentru inițierea procesului de colectare a datelor.
 
-Configurarea corectă a acestor parametri asigurări acuratețea și relevanța datelor colectate.
+Configurarea corectă a acestor parametri asigură acuratețea și relevanța datelor colectate.
 
 ![Schema meniului SETUP: selectarea senzorilor, a ratei de eșantionare și a numărului de eșantioane](formare/labdisc/imagini/11-schema-configurare-inregistrare.png)
 
@@ -201,7 +201,7 @@ Configurarea dispozitivului Labdisc poate fi realizată fie direct de pe dispozi
 
 **Configurarea poate fi realizată și prin aplicația software Globisens Labdisc, instalată în prealabil pe dispozitiv.**
 
-Aceasta se efectuează dupa conectarea dispozitivului prin Bluetooth sau cablu USB si permite:
+Aceasta se efectuează după conectarea dispozitivului prin Bluetooth sau cablu USB și permite:
 
 - configurarea detaliată a experimentului;
 - vizualizarea datelor în timp real;

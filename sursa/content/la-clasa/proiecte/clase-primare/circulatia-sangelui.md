@@ -4,12 +4,12 @@ autor: "Iulia Băț"
 autor_slug: "iulia-bat"
 realizat: "Băț Iulia, învățătoare, grad didactic superior"
 disciplina: "Științe"
-clasa: "VI"
+clasa: "IV"
 modul: "Omul – ființă biologică"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "Circulația _sângelui.docx"
 licenta: "CC BY-SA 4.0"
-tags: [clase-primare, clasa-vi, iulia-bat]
+tags: [clase-primare, clasa-iv, iulia-bat]
 ---
 
 *Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*

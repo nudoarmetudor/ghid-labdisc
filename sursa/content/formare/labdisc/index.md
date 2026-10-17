@@ -11,7 +11,7 @@ tags: [labdisc]
 
 ## Context educațional
 
-Educația contemporană acordă un rol deosebit învățării experimentale și bazate pe investigație, în cadrul căreia elevii construiesc cunoștințe prin explorare directă, formularea de ipoteze, realizarea de măsurători și interpretarea rezultatelor. Utilizarea senzorilor și a tehnologiilor de tip *data logger*, precum Globisens, răspund acestor exigențe educaționale, oferind posibilitatea de a conecta teoretice cu fenomene reale, măsurabile.
+Educația contemporană acordă un rol deosebit învățării experimentale și bazate pe investigație, în cadrul căreia elevii construiesc cunoștințe prin explorare directă, formularea de ipoteze, realizarea de măsurători și interpretarea rezultatelor. Utilizarea senzorilor și a tehnologiilor de tip *data logger*, precum Globisens, răspunde acestor exigențe educaționale, oferind posibilitatea de a conecta teoretice cu fenomene reale, măsurabile.
 
 Dispozitivele Globisens pot fi integrate eficient în cadrul lecțiilor, activităților experimentale de laborator și în învățarea bazată pe investigație, sprijinind dezvoltarea conceptelor teoretice prin experiment, asigurând măsurători precise și contribuind la dezvoltarea competențelor fundamentale ale elevilor. În cadrul abordării STEAM (Știință, Tehnologie, Inginerie, Arte și Matematică), Globisens funcționează ca un instrument integrator, facilitând activități interdisciplinare și proiecte autentice. Elevii nu se limitează la observarea fenomenelor, ci colectează date reale, le analizează critic și le utilizează pentru a formula explicații științifice sau soluții practice, dezvoltând competențe esențiale pentru secolul XXI.
 

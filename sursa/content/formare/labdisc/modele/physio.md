@@ -17,7 +17,7 @@ Utilizarea Labdisc Physio în lecțiile de fizică permite:
 - analiza variațiilor de temperatură în experimente de termodinamică;
 - măsurarea presiunii atmosferice și studierea variației;
 - investigarea intensității luminii și a fenomenelor optice de bază;
-- colectarea și reprezentarea grafică a datelor în timp real.
+- colectarea și reprezentarea grafică a datelor în timp real;
 - facilitează învățarea prin experiment direct și măsurători reale;
 - permite elevilor să observe relații între mărimi fizice (ex. timp–viteză, temperatură–energie);
 - susține dezvoltarea competențelor de:
@@ -36,7 +36,7 @@ Utilizarea Labdisc Physio în lecțiile de fizică permite:
 4. Afișaj grafic 128 x 64 pixeli
 5. Taste de selectare senzor
 6. Senzor de mișcare
-7. Inserție șurub MS
+7. Inserție șurub M5
 8. Picior din plastic
 9. Inel rotativ
 10. Port USB
@@ -54,7 +54,7 @@ Utilizarea Labdisc Physio în lecțiile de fizică permite:
 
 *Tabelul 3.2. Senzori și caracteristici – Labdisc Physio*
 
-| Senzor | Domeniu de măsurare | Rata maximă de eșalonare | Accesorii externe |
+| Senzor | Domeniu de măsurare | Rata maximă de eșantionare | Accesorii externe |
 | --- | --- | --- | --- |
 | **Accelerometru**<br>Măsoară accelerația | -8 g până la +8 g | 100/s | Nu este necesar |
 | **Presiunea aerului**<br>Măsurarea presiunii aerului | 10 kPa – 300 kPa | 10/s | Tub din plastic |

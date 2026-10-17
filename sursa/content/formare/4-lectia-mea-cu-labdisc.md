@@ -2,7 +2,7 @@
 title: "Lecția mea cu Labdisc: proiectare și reflecție"
 description: "Proiectarea și aplicarea la clasă a unei fișe de investigație cu Labdisc, cu criterii de evaluare a produselor elevilor."
 ordine: 4
-tags: [formare, sesiune]
+tags: [formare, unitate]
 ---
 
 Unitatea 4 din 4 a cursului.

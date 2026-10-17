@@ -10,7 +10,7 @@ tags: [labdisc]
 ---
 
 Labdisc BioChem este un înregistrator de date wireless, conceput pentru integrarea experimentelor din domeniile chimiei și biologiei. Cu o autonomie de până la 150 de ore și o memorie de până la 1.000.000 de probe, dispozitivul permite realizarea unei game variate de investigații atât în laborator, cât și în teren.
-Rezoluția de 12 biți asigură o precizie ridicată a măsurătorilor, oferind posibilitatea studiilor fenomenelor chimice, biochimice și biologice, atât rapide, cât și de durată, într-un mediu sigur și controlat.
+Rezoluția de 12 biți asigură o precizie ridicată a măsurătorilor, oferind posibilitatea studierii fenomenelor chimice, biochimice și biologice, atât rapide, cât și de durată, într-un mediu sigur și controlat.
 
 Susține studiul conceptelor-cheie precum:
 
@@ -47,7 +47,7 @@ Susține studiul conceptelor-cheie precum:
 
 *Tabelul 3.1. Senzori și caracteristici – Labdisc Biochem*
 
-| Senzor | Domeniu de măsurare | Rata maximă de eșalonare | Accesorii externe |
+| Senzor | Domeniu de măsurare | Rata maximă de eșantionare | Accesorii externe |
 | --- | --- | --- | --- |
 | **GPS-ul**<br>Măsoară 6 parametri: longitudine, latitudine, direcție (curs), viteză, dată și oră | N / A | 1/s | Nu este necesar |
 | **Ritmul cardiac**<br>Măsurarea ritmului cardiac | 0 – 200 bpm | 100/s | Clemă pentru ureche |

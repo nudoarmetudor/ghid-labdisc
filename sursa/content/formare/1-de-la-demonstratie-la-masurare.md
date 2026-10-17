@@ -2,7 +2,7 @@
 title: "Labdisc și GlobiLab: de la demonstrație la măsurare"
 description: "Utilizarea dispozitivului Labdisc și a aplicației GlobiLab pentru configurarea unei înregistrări și citirea datelor în timp real."
 ordine: 1
-tags: [formare, sesiune]
+tags: [formare, unitate]
 ---
 
 Unitatea 1 din 4 a cursului.

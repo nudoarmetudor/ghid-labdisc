@@ -2,7 +2,7 @@
 title: "Investigația: de la întrebare la concluzie"
 description: "Conducerea unei investigații experimentale de la întrebarea de cercetare la concluzia argumentată pe baza datelor."
 ordine: 3
-tags: [formare, sesiune]
+tags: [formare, unitate]
 ---
 
 Unitatea 3 din 4 a cursului.

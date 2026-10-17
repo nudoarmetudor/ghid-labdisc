@@ -11,7 +11,7 @@ tags: [labdisc]
 
 ## 2.1 Instalare GlobiLab Software
 
-Pentru utilizarea eficientă a dispozitivului și vizualizarea datelor colectate, platforma **GlobiLab** este disponibilă în mai multe versiuni, compatibile cu principalele sisteme de operare. În funcție de tipul dispozitivului utiliza (calculator, tabletă sau telefon), utilizatorul va alege varianta pentru a instala și lucru.
+Pentru utilizarea eficientă a dispozitivului și vizualizarea datelor colectate, platforma **GlobiLab** este disponibilă în mai multe versiuni, compatibile cu principalele sisteme de operare. În funcție de tipul dispozitivului utilizat (calculator, tabletă sau telefon), utilizatorul va alege varianta pentru a instala și a lucra.
 
 Pentru a utiliza aplicația **GlobiLab**, urmați pașii de mai jos:
 
@@ -54,7 +54,7 @@ Alegeți opțiunea de creare a unei pictograme pe Desktop pentru a accesa rapid 
 
 ## 2.2 Interfața software GlobiLab
 
-GlobiLab este o aplicație software educațională destinată colectării, vizualizări și analize datelor experimentale obținute cu ajutorul senzorilor digitali (de tip Labdisc sau alte dispozitive compatibile).
+GlobiLab este o aplicație software educațională destinată colectării, vizualizării și analizei datelor experimentale obținute cu ajutorul senzorilor digitali (de tip Labdisc sau alte dispozitive compatibile).
 
 În partea superioară se află bara de instrumente, care include pictograme pentru deschiderea și salvarea proiectelor, exportul datelor, configurarea experimentului și controlul sesiunii de măsurare (pornire/oprire).
 
@@ -70,24 +70,24 @@ Zona centrală este dedicată afișării graficelor, unde sunt reprezentate date
 
 ![Două grafice GlobiLab cu date reale: conductivitatea unor probe de apă și turbiditatea în timp](formare/labdisc/imagini/13-date-experimentale.jpg)
 
-## 2.3 Principalele pictograme ale aplicației și funcțiilor acestora
+## 2.3 Principalele pictograme ale aplicației și funcțiile acestora
 
 *Figura 2.2. Bara de instrumente și pictogramele principale*
 
 | Pictogramă | Funcție |
 | :-: | --- |
-| ![Pictograma Deschidere proiect: un dosar galben](formare/labdisc/imagini/14-pictograma-deschidere-proiect.png) | Selectarea pictogramei **Deschidere proiect** deschide fișierele de lucru salvat (*.XML*) și afișează toate graficele și elementele grafice asociate. |
+| ![Pictograma Deschidere proiect: un dosar galben](formare/labdisc/imagini/14-pictograma-deschidere-proiect.png) | Selectarea pictogramei **Deschidere proiect** deschide fișierele de lucru salvate (*.XML*) și afișează toate graficele și elementele grafice asociate. |
 | ![Pictograma Caiet de lucru: o carte deschisă](formare/labdisc/imagini/14-pictograma-caiet-de-lucru.png) | **Caiet de lucru** deschide folderul cu activități, unde utilizatorul poate selecta diferite lucrări în format PDF. |
-| ![Pictograma pentru modurile de vizualizare: un grafic cu linie albastră](formare/labdisc/imagini/14-pictograma-moduri-vizualizare.png) | **Indicator** (afișare instantanee valori)<br>**Tabel** (data în format tabelar)<br>**Grafic** (reprezentare liniară a datelor)<br>**Hartă** (date corelate cu locația GPS)<br>**Diagramă cu bare** (compararea valorilor)<br>**Tabel cu grafic** (vizualizare combinată) |
+| ![Pictograma pentru modurile de vizualizare: un grafic cu linie albastră](formare/labdisc/imagini/14-pictograma-moduri-vizualizare.png) | **Indicator** (afișare instantanee valori)<br>**Tabel** (date în format tabelar)<br>**Grafic** (reprezentare liniară a datelor)<br>**Hartă** (date corelate cu locația GPS)<br>**Diagramă cu bare** (compararea valorilor)<br>**Tabel cu grafic** (vizualizare combinată) |
 | ![Pictograma Adnotare: litera A albastră](formare/labdisc/imagini/14-pictograma-adnotare.png) | **Selectarea pictogramei „Adnotare”** activează modul de adnotare.<br>Un clic stânga al mouse-ului deschide o fereastră de dialog în care utilizatorii pot introduce text și imagini.<br>Apăsarea din nou a pictogramei „Adnotare” dezactivează modul de adnotare. |
 | ![Pictograma Run: un omuleț verde care aleargă](formare/labdisc/imagini/14-pictograma-run.png) | **Selectarea pictogramei „Run” (Pornire)** inițiază o nouă sesiune de colectare a datelor. |
 | ![Pictograma Oprire: o mână albă pe fond roșu](formare/labdisc/imagini/14-pictograma-oprire.png) | **Selectarea pictogramei „Oprire”** finalizează sesiunea curentă de colectare a datelor. |
-| ![Pictograma Descărcare selectivă: o săgeată albastră în jos](formare/labdisc/imagini/14-pictograma-descarcare-selectiva.png) | **„Descărcare selectivă”** deschide un tabel cu toate înregistrările salvate.<br>Selectarea uneia dintre liniile din tabel și apăsarea butonului **„Download” (Descărcare)** va descărca în calculatorul de înregistrare respectivă. |
+| ![Pictograma Descărcare selectivă: o săgeată albastră în jos](formare/labdisc/imagini/14-pictograma-descarcare-selectiva.png) | **„Descărcare selectivă”** deschide un tabel cu toate înregistrările salvate.<br>Selectarea uneia dintre liniile din tabel și apăsarea butonului **„Download” (Descărcare)** va descărca în calculator înregistrarea respectivă. |
 | ![Pictograma Configurare: un Labdisc stilizat, verde-albastru](formare/labdisc/imagini/14-pictograma-configurare.png) | **Configurarea Labdisc** se face prin selectarea pictogramei **„Configurare”**.<br>În fereastra deschisă, utilizatorii pot alege senzorii, pot stabili frecvența de măsurare și numărul de măsurători pentru următoarea colectare de date. |
 | ![Pictograma Excel: litera X verde](formare/labdisc/imagini/14-pictograma-excel.png) | **Selectarea pictogramei „EXCEL”** salvează fișierul în format *.CSV*, solicită utilizatorului să introducă un nume pentru fișier, apoi deschide automat programul Excel și exportă datele experimentului în foaia de calcul. |
-| ![Bara de stare GlobiLab: indicatorul USB, indicatorul Bluetooth și contorul 7/127](formare/labdisc/imagini/15-bara-de-stare.png) | **Bara de stare GlobiLab** este localizată în colțul din dreapta jos al aplicației. Acestea includ 3 indicatori:<br>**1. Indicator USB** – culoarea albastră indică existența unei conexiuni USB între calculator și dispozitivul Labdisc.<br>**2. Indicator Bluetooth** – culoarea albastră indică o conexiune wireless Bluetooth între calculator și Labdisc. Un clic dreapta pe această pictogramă deschide lista dispozitivelor Labdisc detecte; selectați unul pentru a conecta.<br>**3. Informații despre memorie** – indică numărul de experimente stocate în memoria Labdisc, dintr-un maxim de 127. De exemplu, pot fi afișate 7 experimente stocate din 127 posibile. Un clic dreapta pe această secțiune permite ștergerea tuturor datelor salvate sau doar a ultimei înregistrări. |
+| ![Bara de stare GlobiLab: indicatorul USB, indicatorul Bluetooth și contorul 7/127](formare/labdisc/imagini/15-bara-de-stare.png) | **Bara de stare GlobiLab** este localizată în colțul din dreapta jos al aplicației. Aceasta include 3 indicatori:<br>**1. Indicator USB** – culoarea albastră indică existența unei conexiuni USB între calculator și dispozitivul Labdisc.<br>**2. Indicator Bluetooth** – culoarea albastră indică o conexiune wireless Bluetooth între calculator și Labdisc. Un clic dreapta pe această pictogramă deschide lista dispozitivelor Labdisc detectate; selectați unul pentru a conecta.<br>**3. Informații despre memorie** – indică numărul de experimente stocate în memoria Labdisc, dintr-un maxim de 127. De exemplu, pot fi afișate 7 experimente stocate din 127 posibile. Un clic dreapta pe această secțiune permite ștergerea tuturor datelor salvate sau doar a ultimei înregistrări. |
 | ![Pictograma Marker: un grafic cu un X roșu](formare/labdisc/imagini/15-pictograma-marker.png) | **Selectarea pictogramei „Marker”** activează modul Marker.<br>Un clic stânga al mouse-ului pe oricare dintre grafice va plasa un marker pe graficul respectiv.<br>Pentru a muta markerul, poziționați cursorul pe acesta, apoi apăsați și mențineți apăsat butonul stâng al mouse-ului și deplasați-l pe grafic.<br>Selectarea din nou a pictogramei **„Marker”** dezactivează modul Marker. |
-| ![Pictograma Selectare funcții: un grafic cu o dreaptă roșie](formare/labdisc/imagini/15-pictograma-functii.png) | **Apăsarea pictogramei mici în formă de triunghi „Selectare funcții”** permite utilizatorilor să aplice funcțiile matematice enumerate mai jos între markerii de pe grafic.<br>**Selectarea regresiei cuadratice** afișează parabola (gradul 2) care se potrivește cel mai bine datele dintre doi markeri, împreună cu ecuația aceea: **Y = aX² + bX + c**.<br>**Selectarea FFT** împarte ecranul în două: sus este afișată măsurarea în funcție de timp, iar jos componentele armonice în funcție de frecvență.<br>**Selectarea funcției „Smooth”** calculează media datele, fiecare punct fiind media a două valori anterioare și două ulterioare.<br>**Selectarea funcției „Derivată”** generează graficul derivate pentru datele senzorului activ.<br>**Selectarea funcției „Integrală”** calculează aria de sub graficul senzorului (valoare × timp). |
+| ![Pictograma Selectare funcții: un grafic cu o dreaptă roșie](formare/labdisc/imagini/15-pictograma-functii.png) | **Apăsarea pictogramei mici în formă de triunghi „Selectare funcții”** permite utilizatorilor să aplice funcțiile matematice enumerate mai jos între markerii de pe grafic.<br>**Selectarea regresiei cuadratice** afișează parabola (gradul 2) care se potrivește cel mai bine datelor dintre doi markeri, împreună cu ecuația acesteia: **Y = aX² + bX + c**.<br>**Selectarea FFT** împarte ecranul în două: sus este afișată măsurarea în funcție de timp, iar jos componentele armonice în funcție de frecvență.<br>**Selectarea funcției „Smooth”** calculează media datelor, fiecare punct fiind media a două valori anterioare și două ulterioare.<br>**Selectarea funcției „Derivată”** generează graficul derivatei pentru datele senzorului activ.<br>**Selectarea funcției „Integrală”** calculează aria de sub graficul senzorului (valoare × timp). |
 
 ## 2.4 Algoritm de utilizare a aplicației GlobiLab pentru colectarea și analiza datelor
 
@@ -110,7 +110,7 @@ Zona centrală este dedicată afișării graficelor, unde sunt reprezentate date
 ### 3. Selectarea senzorilor și configurarea experimentului
 
 1. Apasă pictograma **Configurare (Setup / Logger setup)**.
-2. În fereastră deschisă:
+2. În fereastra deschisă:
    - bifează senzorii necesari (ex.: **pH, temperatură, umiditate, presiune**);
    - setează:
      - **Rata de eșantionare** – ex.: 10/s
@@ -128,7 +128,7 @@ Zona centrală este dedicată afișării graficelor, unde sunt reprezentate date
    - colectarea datelor în timp real
    - afișarea acestora sub formă de **grafic**
 
-Grafică va afișa:
+Graficul va afișa:
 
 - pe axa X → timp (s)
 - pe axa Y → valorile măsurate (ex.: umiditate, presiune)
@@ -176,7 +176,7 @@ Această funcție permite explicarea fenomenelor direct pe grafic.
 
 ![Fereastra Edit annotation peste grafic, cu pașii numerotați de la 1 la 6](formare/labdisc/imagini/19-functia-adnotare.jpg)
 
-*Figura 2.7. Funcția de adnotare (Adnotation) în GlobiLab*
+*Figura 2.7. Funcția de adnotare (Annotation) în GlobiLab*
 
 ![Grafic cu trei adnotări cu imagine: zona inferioară, zona de mijloc, zona superioară](formare/labdisc/imagini/19-grafic-adnotat.jpg)
 
