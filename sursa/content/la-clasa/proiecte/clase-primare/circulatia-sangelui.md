@@ -9,11 +9,10 @@ modul: "Omul – ființă biologică"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "Circulația _sângelui.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [clase-primare, clasa-vi, iulia-bat]
 ---
 
-*Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -111,7 +110,7 @@ Cadrul didactic va ghida elevii să formeze grupuri mici și va prezenta etapele
 
 **Circulația sângelui**
 
-![Fotografie de produs: dispozitivul Labdisc (modelul Primo)](imagini/circulatia-sangelui-1.jpg)
+![Fotografie de produs: dispozitivul Labdisc (modelul Primo)](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-1.jpg)
 
 **Disciplina: științe**
 
@@ -127,15 +126,15 @@ Resurse soft: GlobiLab 3.4.3
 
 ### Etapele experienței
 
-1.Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](imagini/circulatia-sangelui-2.png)
+1.Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-2.png)
 
 2.Rotiți inelul de plastic al Labdisk-ului pentru a conecta senzorul.
 
-3.Conectați senzorul pentru determinarea pulsului ![Senzorul de puls (clemă cu cablu)](imagini/circulatia-sangelui-3.png),
+3.Conectați senzorul pentru determinarea pulsului ![Senzorul de puls (clemă cu cablu)](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-3.png),
 
-situat sub tasta pentru puls/ritmul cardiac![Pictograma pentru puls/ritm cardiac de pe Labdisc](imagini/circulatia-sangelui-4.png).
+situat sub tasta pentru puls/ritmul cardiac![Pictograma pentru puls/ritm cardiac de pe Labdisc](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-4.png).
 
-4\. Conectați senzorul la ureche, ori la un deget.![Senzorul de puls prins pe deget](imagini/circulatia-sangelui-5.jpg)![Senzorul de puls prins de lobul urechii](imagini/circulatia-sangelui-6.jpg)
+4\. Conectați senzorul la ureche, ori la un deget.![Senzorul de puls prins pe deget](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-5.jpg)![Senzorul de puls prins de lobul urechii](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-6.jpg)
 
 5\. Conectați Labdisc-ul la computer, folosind cablul USB, ori wireless Bluetooth.
 
@@ -143,18 +142,18 @@ situat sub tasta pentru puls/ritmul cardiac![Pictograma pentru puls/ritm cardiac
 
 7\. Faceți clic pe pictogramă și selectați un singur senzor, cel de determinare a pulsului; rata de eșantionare: Manual; 10/sec; 1000 eșantioane.
 
-![Captură GlobiLab: configurarea senzorului de puls](imagini/circulatia-sangelui-7.png)
+![Captură GlobiLab: configurarea senzorului de puls](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-7.png)
 
-8\. Începeți experiența accesând ![Pictograma GlobiLab de pornire a înregistrării (omulețul care aleargă)](imagini/circulatia-sangelui-8.png).
+8\. Începeți experiența accesând ![Pictograma GlobiLab de pornire a înregistrării (omulețul care aleargă)](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-8.png).
 
-![Captură GlobiLab: graficul pulsului în stare de repaus](imagini/circulatia-sangelui-9.png)
+![Captură GlobiLab: graficul pulsului în stare de repaus](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-9.png)
 
-9\. Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](imagini/circulatia-sangelui-10.png) pentru a alege tipul graficului.
+9\. Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-10.png) pentru a alege tipul graficului.
 
-![Captură GlobiLab: pulsul în stare de repaus, grafic cu bare](imagini/circulatia-sangelui-11.jpg)
+![Captură GlobiLab: pulsul în stare de repaus, grafic cu bare](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-11.jpg)
 
 10\. Procedați similar după efort sporit, peste 1 min de la efort.
 
-![Captură GlobiLab: graficul pulsului după efort sporit](imagini/circulatia-sangelui-12.png)
+![Captură GlobiLab: graficul pulsului după efort sporit](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-12.png)
 
-![Captură GlobiLab: graficul pulsului la un minut după efort](imagini/circulatia-sangelui-13.png)
+![Captură GlobiLab: graficul pulsului la un minut după efort](la-clasa/proiecte/clase-primare/imagini/circulatia-sangelui-13.png)

@@ -9,11 +9,10 @@ modul: "ORGANISMUL UMAN ȘI SĂNĂTATEA"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "Alimentația echilibrată, clasa 7.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [biologie, clasa-vii, irina-chiprisean]
 ---
 
-*Secvență de lecție realizată de Chiprisean Irina – profesoară de biologie, grad didactic doi. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Chiprisean Irina – profesoară de biologie, grad didactic doi. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 **Tipul lecției:** mixtă
 
@@ -98,4 +97,4 @@ Elaborați un „Decalog al nutriției sănătoase” bazat pe observația că a
 
 ## Anexă
 
-![Infografic: partea experimentală, determinarea indirectă a conținutului de vitamina C în sucuri cu senzorul de pH](imagini/alimentatia-echilibrata-1.jpg)
+![Infografic: partea experimentală, determinarea indirectă a conținutului de vitamina C în sucuri cu senzorul de pH](la-clasa/proiecte/biologie/imagini/alimentatia-echilibrata-1.jpg)

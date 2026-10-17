@@ -9,11 +9,10 @@ modul: "Aerul, apa și solul"
 echipament: ["Labdisc GenSci"]
 fisier_sursa: "Stările_de_agregare.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [clase-primare, clasa-iii, iulia-bat]
 ---
 
-*Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -150,13 +149,13 @@ Resurse soft: GlobiLab 3.4.3
 
 ### Etapele experienței
 
-1.Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](imagini/starile-de-agregare-1.png)
+1.Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-1.png)
 
 2.Rotiți inelul de plastic al Labdisk-ului pentru a conecta senzorul.
 
-3.Conectați senzorul pentru determinarea temperaturii apei ![senzorul extern de temperatură (sondă metalică cu cablu)](imagini/starile-de-agregare-2.png).
+3.Conectați senzorul pentru determinarea temperaturii apei ![senzorul extern de temperatură (sondă metalică cu cablu)](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-2.png).
 
-situat sub tasta cu indicatorul![pictograma termometrului de pe Labdisc](imagini/starile-de-agregare-3.png).
+situat sub tasta cu indicatorul![pictograma termometrului de pe Labdisc](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-3.png).
 
 4\. Introduceți capătul metalic în paharul cu cuburi de gheață și puțină apă.
 
@@ -166,18 +165,18 @@ situat sub tasta cu indicatorul![pictograma termometrului de pe Labdisc](imagini
 
 7\. Faceți clic pe pictogramă și selectați un singur senzor, cel de determinare a temperaturii cuburilor de gheață cu puțină apă; rata de eșantionare: Manual; 10 eșantioane.
 
-![Captură GlobiLab: fereastra de configurare a senzorilor](imagini/starile-de-agregare-4.png)
+![Captură GlobiLab: fereastra de configurare a senzorilor](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-4.png)
 
-8\. Apăsați tasta ![tasta Labdisc cu săgeată întoarsă](imagini/starile-de-agregare-5.png) pentru a începe experiența.
+8\. Apăsați tasta ![tasta Labdisc cu săgeată întoarsă](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-5.png) pentru a începe experiența.
 
-9\. Apăsați tasta ![tasta Labdisc cu săgeată circulară](imagini/starile-de-agregare-6.png)pentru înregistrarea temperaturii apei din paharul cu cuburi de gheață.
+9\. Apăsați tasta ![tasta Labdisc cu săgeată circulară](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-6.png)pentru înregistrarea temperaturii apei din paharul cu cuburi de gheață.
 
 10\. Procedați astfel cu măsurarea temperaturii apei obișnuite, a apei clocotite, care a fiert la moment.
 
-![Captură GlobiLab: graficul temperaturii apei cu cuburi de gheață](imagini/starile-de-agregare-7.png)
+![Captură GlobiLab: graficul temperaturii apei cu cuburi de gheață](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-7.png)
 
-11\. Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](imagini/starile-de-agregare-8.png) pentru a alege tipul graficului(cu bare)![pictograma graficului cu bare](imagini/starile-de-agregare-9.png).
+11\. Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-8.png) pentru a alege tipul graficului(cu bare)![pictograma graficului cu bare](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-9.png).
 
 12.Pentru a adăuga text sau imagini la graficul cu bare, folosiți funcția de adnotare. Faceți clic pe pictograma **A**, apoi mutați cursorul peste una dintre barele roșii și apăsați clic stânga. Se va deschide o fereastră unde puteți introduce text și chiar imagini.
 
-![Captură GlobiLab: graficul cu bare al temperaturii apei în cele trei stări de agregare, cu adnotări](imagini/starile-de-agregare-10.png)
+![Captură GlobiLab: graficul cu bare al temperaturii apei în cele trei stări de agregare, cu adnotări](la-clasa/proiecte/clase-primare/imagini/starile-de-agregare-10.png)

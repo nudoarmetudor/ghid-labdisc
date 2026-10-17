@@ -9,11 +9,10 @@ modul: "Soluțiile. Interacțiunile substanțelor în soluții"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "10_Noțiunea de pH. Indicatorii acido-bazici. Scala pH.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [chimie, clasa-x, aliona-baidan]
 ---
 
-*Secvență de lecție realizată de Baidan Aliona, profesoară de chimie, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Baidan Aliona, profesoară de chimie, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -57,7 +56,7 @@ Elevii accesează link-ul sau codul QR și realizează sarcina.
 
 [https://arcade.padlet.com/game/Rej9Gd0nKd](https://arcade.padlet.com/game/Rej9Gd0nKd)
 
-![Cod QR către jocul din Padlet Arcade](imagini/notiunea-de-ph-1.png)
+![Cod QR către jocul din Padlet Arcade](la-clasa/proiecte/chimie/imagini/notiunea-de-ph-1.png)
 
 **Experiență de laborator**
 

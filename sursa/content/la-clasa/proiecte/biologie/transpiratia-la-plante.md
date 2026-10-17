@@ -9,11 +9,10 @@ modul: "PLANTE"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "lucrare de laborator la clasa 9_Realizarea experimentelor pentru evidențierea transpirației la plante..docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [biologie, clasa-ix, irina-chiprisean]
 ---
 
-*Secvență de lecție realizată de Chiprisean Irina – profesoară de biologie, grad didactic doi. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Chiprisean Irina – profesoară de biologie, grad didactic doi. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 **Tipul lecției:** Lucrare de laborator
 
@@ -109,4 +108,4 @@ Consolă Globisens, senzor de umiditate relativă, plantă de cameră (mușcată
 
 ## Anexă
 
-![Infografic: realizarea experimentelor pentru evidențierea transpirației la plante, cu fișa de rezultate](imagini/transpiratia-la-plante-1.jpg)
+![Infografic: realizarea experimentelor pentru evidențierea transpirației la plante, cu fișa de rezultate](la-clasa/proiecte/biologie/imagini/transpiratia-la-plante-1.jpg)

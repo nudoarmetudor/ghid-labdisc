@@ -9,11 +9,10 @@ modul: "Oscilații și unde mecanice"
 echipament: ["Labdisc Physics"]
 fisier_sursa: "4. Studiul pendulului elastic și determinarea constantei elastice a unui resort”.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [fizica, clasa-x, angela-covali]
 ---
 
-*Secvență de lecție realizată de Covali Angela, profesoară de fizică, grad didactic unu. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Covali Angela, profesoară de fizică, grad didactic unu. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -79,7 +78,7 @@ Numele prenumele \_\_\_\_\_\_\_\_\_\_ clasa X-a \_\_\_\_\_\_\_\_\_\_
 
 **Considerații teoretice:**
 
-![Montajul experimental: pendulul elastic suspendat de senzorul Labdisc, cu graficul oscilațiilor pe ecranul calculatorului](imagini/pendulul-elastic-1.jpg)
+![Montajul experimental: pendulul elastic suspendat de senzorul Labdisc, cu graficul oscilațiilor pe ecranul calculatorului](la-clasa/proiecte/fizica/imagini/pendulul-elastic-1.jpg)
 
 Un pendul elastic este format dintr-un resort de constantă elastică *k* și o masă *m*.
 

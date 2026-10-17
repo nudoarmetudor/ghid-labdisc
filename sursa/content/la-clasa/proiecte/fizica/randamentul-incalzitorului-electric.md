@@ -9,11 +9,10 @@ modul: "Electrocinetica"
 echipament: ["Labdisc Physics"]
 fisier_sursa: "5. Lucrarea practică nr. 4 „Determinarea randamentului unui încălzitor electric”.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [fizica, clasa-xi, angela-covali]
 ---
 
-*Secvență de lecție realizată de Covali Angela, profesoară de fizică, grad didactic unu. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Covali Angela, profesoară de fizică, grad didactic unu. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 

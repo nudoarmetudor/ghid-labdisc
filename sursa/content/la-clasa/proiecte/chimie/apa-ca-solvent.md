@@ -9,11 +9,10 @@ modul: "Apa și soluțiile"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "8_Apa ca solvent. Dizolvarea. Soluțiile.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [chimie, clasa-viii, aliona-baidan]
 ---
 
-*Secvență de lecție realizată de Baidan Aliona, profesoară de chimie, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Baidan Aliona, profesoară de chimie, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 

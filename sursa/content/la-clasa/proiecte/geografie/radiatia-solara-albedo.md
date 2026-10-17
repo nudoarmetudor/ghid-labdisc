@@ -9,11 +9,10 @@ modul: "Atmosfera"
 echipament: ["Labdisc"]
 fisier_sursa: "Radiația solară.doc"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [geografie, clasa-x, elvira-tibrov]
 ---
 
-*Secvență de lecție realizată de Țîbrov Elvira, profesoară de geografie, grad didactic unu. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Țîbrov Elvira, profesoară de geografie, grad didactic unu. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -50,7 +49,7 @@ La finalul lecției, elevii vor fi capabili:
 *Energia radiantă care vine de la Soare este sursa principală pentru producerea tuturor fenomenelor și proceselor care au loc la suprafața Pămantului și în atmosferă.*
 
 1.  Analizați schema fig3.4 pag.71 și enumerați componentele radiației solare.
-2.  ![Schema componentelor radiației solare: radiație directă, difuză, reflectată, atmosferică și terestră](imagini/radiatia-solara-albedo-1.png)
+2.  ![Schema componentelor radiației solare: radiație directă, difuză, reflectată, atmosferică și terestră](la-clasa/proiecte/geografie/imagini/radiatia-solara-albedo-1.png)
 
     Studiind textul din manual caracterizați componentele radiației solare în tabel, notând aspectele principale.
 
@@ -74,7 +73,7 @@ Analizați tabelul și comparați valorile albedoului pentru diferite tipuri de 
 | Cernoziom uscat    | 14         |
 | Suprafețe acvatice | 4–6        |
 
-![Imagine ilustrativă: dispozitivul Labdisc lângă o suprafață albă și una neagră](imagini/radiatia-solara-albedo-2.jpg)
+![Imagine ilustrativă: dispozitivul Labdisc lângă o suprafață albă și una neagră](la-clasa/proiecte/geografie/imagini/radiatia-solara-albedo-2.jpg)
 
 Pentru validarea ipotezelor formulate, elevii vor desfășura o investigație experimentală axată pe analiza albedoului diferitelor tipuri de suprafețe. În acest scop, se vor utiliza două eșantioane cu proprietăți cromatice contrastante — o suprafață de culoare deschisă (albă) și una închisă (neagră) — expuse identic la radiația solară directă, pentru a observa diferențele de absorbție și reflecție a energiei.
 
@@ -99,7 +98,7 @@ Pe baza datelor colectate, elevii analizează diferențele dintre suprafețe și
 
 ●Calculați albedoul din tabelul alăturat pentru aceste suprafețe, dacă este cunoscută valoarea radiației incidente (Q) și valoarea radiației reflectate (R). Utilizați formula: A = R/Q × 100%.
 
-![Organizator grafic: importanța suprafețelor active în repartiția radiației solare și bilanțul radiativ](imagini/radiatia-solara-albedo-3.jpg)
+![Organizator grafic: importanța suprafețelor active în repartiția radiației solare și bilanțul radiativ](la-clasa/proiecte/geografie/imagini/radiatia-solara-albedo-3.jpg)
 
 Elevii interpretează organizatorul grafic și explică rolul suprafețelor active ale Pământului în determinarea valorilor albedoului. Pe baza analizei, aceștia evidențiază modul în care diferențele de albedo influențează bilanțul radiativ al suprafeței terestre și contribuie la distribuția temperaturii pe Glob.
 

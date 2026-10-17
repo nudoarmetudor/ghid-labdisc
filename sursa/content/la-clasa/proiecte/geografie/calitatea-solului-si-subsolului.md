@@ -9,11 +9,10 @@ modul: "Calitatea mediului în lume și în Republica Moldova"
 echipament: ["Labdisc"]
 fisier_sursa: "Calitatea, valorificarea și protecția solului și subsolului , cl_1.a 12-a.doc"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [geografie, clasa-xii, elvira-tibrov]
 ---
 
-*Secvență de lecție realizată de Țîbrov Elvira, profesoară de geografie, grad didactic unu. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Țîbrov Elvira, profesoară de geografie, grad didactic unu. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -55,7 +54,7 @@ Solul reprezintă stratul superficial al scoarței terestre, rezultat al interac
 
 Se prezintă schema „Tipurile de degradarea a solului” :
 
-![Schemă: tipuri de degradare a solului (fizică, chimică, biologică)](imagini/calitatea-solului-si-subsolului-1.jpg)
+![Schemă: tipuri de degradare a solului (fizică, chimică, biologică)](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-1.jpg)
 
 ●Elevii sunt informați că analiza calității solului presupune utilizarea integrată a metodelor calitative, bazate pe observația directă a caracteristicilor solului, și a metodelor cantitative, realizate prin măsurarea unor parametri ai solului cu ajutorul instrumentelor și senzorilor digitali.
 
@@ -91,25 +90,25 @@ Elevii propun ipoteze, de exemplu:
 
 ●Pregătiți suspensia sol–apă, amestecând o parte de sol la 2,5 părți apă distilată.
 
-![Imagine ilustrativă: trei probe de sol în pahare (curtea școlii, livadă, teren cu cereale)](imagini/calitatea-solului-si-subsolului-2.jpg)
+![Imagine ilustrativă: trei probe de sol în pahare (curtea școlii, livadă, teren cu cereale)](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-2.jpg)
 
 Introduceți sonda de pH în suspensia obținută și porniți înregistrarea datelor în aplicația GlobiLab.
 
-![Captură GlobiLab: graficul valorilor pH-ului](imagini/calitatea-solului-si-subsolului-3.png)![Imagine ilustrativă: sonda de pH a Labdisc introdusă în suspensia de sol](imagini/calitatea-solului-si-subsolului-4.jpg)
+![Captură GlobiLab: graficul valorilor pH-ului](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-3.png)![Imagine ilustrativă: sonda de pH a Labdisc introdusă în suspensia de sol](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-4.jpg)
 
-![tasta Pornit/Oprit a Labdisc-ului](imagini/calitatea-solului-si-subsolului-5.png)
+![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-5.png)
 
 ➤Porniți dispozitivul **Labdisc** apăsând butonul **Power**.
 
-![tasta Labdisc cu săgeată circulară](imagini/calitatea-solului-si-subsolului-6.png)➤![tasta Labdisc cu săgeată întoarsă](imagini/calitatea-solului-si-subsolului-7.png)Accesați meniul **SETUP (Configurare)** utilizând butonul de navigare al dispozitivului.
+![tasta Labdisc cu săgeată circulară](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-6.png)➤![tasta Labdisc cu săgeată întoarsă](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-7.png)Accesați meniul **SETUP (Configurare)** utilizând butonul de navigare al dispozitivului.
 
-![tasta Labdisc cu săgeată întoarsă](imagini/calitatea-solului-si-subsolului-7.png)➤În meniul de configurare selectați opțiunea **SET SENSORS (Setarea senzorilor)**
+![tasta Labdisc cu săgeată întoarsă](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-7.png)➤În meniul de configurare selectați opțiunea **SET SENSORS (Setarea senzorilor)**
 
 ➤Activați **senzorul de pH** utilizat în experiment
 
-![tasta Pornit/Oprit a Labdisc-ului](imagini/calitatea-solului-si-subsolului-5.png)➤Confirmați activarea senzorului apăsând **butonul de confirmare**
+![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-5.png)➤Confirmați activarea senzorului apăsând **butonul de confirmare**
 
-![tasta Labdisc cu săgeată întoarsă](imagini/calitatea-solului-si-subsolului-7.png)➤Apăsați **butonul Start** pentru a începe înregistrarea datelor experimentale.
+![tasta Labdisc cu săgeată întoarsă](la-clasa/proiecte/geografie/imagini/calitatea-solului-si-subsolului-7.png)➤Apăsați **butonul Start** pentru a începe înregistrarea datelor experimentale.
 
 ➤Introduceți sonda de pH în suspensia de sol pregătită și așteptați stabilizarea valorii.
 

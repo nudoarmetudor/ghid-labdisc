@@ -9,11 +9,10 @@ modul: "Fenomene electromagnetice. Electrocinetica"
 echipament: ["Labdisc Physics"]
 fisier_sursa: "3. Determinarea legii lui Ohm cu snap-circuit și globisens.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [fizica, clasa-viii, angela-covali]
 ---
 
-*Secvență de lecție realizată de Covali Angela, profesoară de fizică, grad didactic unu. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Covali Angela, profesoară de fizică, grad didactic unu. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 **Tipul lecției:** Formare de competențe prin investigație experimentală.
 
@@ -101,7 +100,7 @@ Nume, prenume \_\_\_\_\_\_\_\_\_\_ clasa a VIII-a \_\_\_\_\_\_\_\_\_\_
 
 **Materiale necesare:** Labdisk, SnapCircuits (sursa de curent, rezistor/bec, conductoare), senzori de tensiune Globissens physics, sensor de curent Globissens physics, calculator/ tablet cu aplicația GlobiLab.
 
-![Schema circuitului electric: sursă de curent, ampermetru, bec și rezistor în serie, voltmetru conectat în paralel](imagini/legea-lui-ohm-1.png)
+![Schema circuitului electric: sursă de curent, ampermetru, bec și rezistor în serie, voltmetru conectat în paralel](la-clasa/proiecte/fizica/imagini/legea-lui-ohm-1.png)
 
 **Etapele experimentului:**
 

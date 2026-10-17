@@ -9,11 +9,10 @@ modul: "Circulația substanțelor în organism"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "Lucrare practică clasa 11 Determinarea pulsului și a presiunei arteriale.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [biologie, clasa-xi, ion-chiprisean]
 ---
 
-*Secvență de lecție realizată de Chiprisean Ion – profesor de biologie, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Chiprisean Ion – profesor de biologie, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Competențe specifice disciplinei Biologia
 
@@ -151,4 +150,4 @@ c) *Atașează aici (sau încarcă în classroom/ portofoliul digital al clasei)
 
 ## Anexă
 
-![Infografic: lucrare practică, determinarea experimentală a pulsului și a presiunii arteriale în stare de repaus și după efort fizic](imagini/pulsul-si-presiunea-arteriala-1.jpg)
+![Infografic: lucrare practică, determinarea experimentală a pulsului și a presiunii arteriale în stare de repaus și după efort fizic](la-clasa/proiecte/biologie/imagini/pulsul-si-presiunea-arteriala-1.jpg)

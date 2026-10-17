@@ -9,11 +9,10 @@ modul: "Calitatea mediului în lume și în Republica Moldova"
 echipament: ["Labdisc"]
 fisier_sursa: "Calitatea, valorificarea și protecția mediului aerian cl_1.a 12-a.doc"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [geografie, clasa-xii, elvira-tibrov]
 ---
 
-*Secvență de lecție realizată de Țîbrov Elvira, profesoară de geografie, grad didactic unu. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Țîbrov Elvira, profesoară de geografie, grad didactic unu. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -49,14 +48,14 @@ La finalul lecției, elevii vor fi capabili:
 
 Pașii realizați de elevi în aplicația GlobiLab:
 
-![Fotografie de produs: Labdisc Enviro cu senzorul extern de CO₂](imagini/calitatea-mediului-aerian-1.jpg)
+![Fotografie de produs: Labdisc Enviro cu senzorul extern de CO₂](la-clasa/proiecte/geografie/imagini/calitatea-mediului-aerian-1.jpg)
 
 1.Pornire dispozitiv
 
 2.  Conectarea dispozitivului la aplicația GlobiLab (Bluetooth/USB)
 3.  Selectarea senzorului **CO₂** din lista variabilelor disponibile.
 
-![Captură GlobiLab: fereastra Logger setup, cu senzorul CO₂ bifat](imagini/calitatea-mediului-aerian-2.jpg)![Captură GlobiLab: graficul concentrației de CO₂](imagini/calitatea-mediului-aerian-3.png)
+![Captură GlobiLab: fereastra Logger setup, cu senzorul CO₂ bifat](la-clasa/proiecte/geografie/imagini/calitatea-mediului-aerian-2.jpg)![Captură GlobiLab: graficul concentrației de CO₂](la-clasa/proiecte/geografie/imagini/calitatea-mediului-aerian-3.png)
 
 4.Inițierea înregistrării datelor (Start).
 
@@ -104,7 +103,7 @@ Praguri orientative (3 niveluri):
 
 \>800 ppm → Nivel ridicat
 
-![Model de hartă digitală în stilul Google My Maps, cu valorile concentrației de CO₂ în cinci puncte ale localității](imagini/calitatea-mediului-aerian-4.jpg)
+![Model de hartă digitală în stilul Google My Maps, cu valorile concentrației de CO₂ în cinci puncte ale localității](la-clasa/proiecte/geografie/imagini/calitatea-mediului-aerian-4.jpg)
 
 **2.Sarcină de lucru:**
 

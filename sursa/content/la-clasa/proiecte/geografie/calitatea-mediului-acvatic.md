@@ -9,11 +9,10 @@ modul: "Calitatea mediului în lume și în Republica Moldova"
 echipament: ["Labdisc"]
 fisier_sursa: "Calitatea, valorificarea și protecția mediului acvatic, cl.a 12-a.doc"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [geografie, clasa-xii, elvira-tibrov]
 ---
 
-*Secvență de lecție realizată de Țîbrov Elvira, profesoară de geografie, grad didactic unu. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Țîbrov Elvira, profesoară de geografie, grad didactic unu. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -55,7 +54,7 @@ Profesorul prezintă elevilor imagini care ilustrează diferite activități uma
 
 *-Analizați imaginile prezentate și identificați activitățile umane cu tipul de poluare a apei corespunzător fiecărei imagini (poluare agricolă, menajeră, industială, radioactivă).*
 
-![Imagine ilustrativă: poluare radioactivă, centrală cu turnuri de răcire și deversare în râu](imagini/calitatea-mediului-acvatic-1.jpg)![Imagini ilustrative: poluare menajeră (deșeuri pe malul râului), industrială (deversări din conducte) și agricolă (stropirea culturilor de lângă canal)](imagini/calitatea-mediului-acvatic-2.jpg)
+![Imagine ilustrativă: poluare radioactivă, centrală cu turnuri de răcire și deversare în râu](la-clasa/proiecte/geografie/imagini/calitatea-mediului-acvatic-1.jpg)![Imagini ilustrative: poluare menajeră (deșeuri pe malul râului), industrială (deversări din conducte) și agricolă (stropirea culturilor de lângă canal)](la-clasa/proiecte/geografie/imagini/calitatea-mediului-acvatic-2.jpg)
 
 *- Explicați ce consecințe pot avea aceste tipuri de poluare asupra mediului geografic.*
 
@@ -73,7 +72,7 @@ Fiecare grupă primește o sarcină experimentală.
 
 **●Sarcina de lucru – grupul 1 (pH-ul apei)**
 
-![Imagine ilustrativă: măsurarea pH-ului probelor de apă din lac, apă freatică și râu cu Labdisc](imagini/calitatea-mediului-acvatic-3.jpg)
+![Imagine ilustrativă: măsurarea pH-ului probelor de apă din lac, apă freatică și râu cu Labdisc](la-clasa/proiecte/geografie/imagini/calitatea-mediului-acvatic-3.jpg)
 
 Determinați pH-ul apei din cele trei probe (lac, râu, apă freatică) utilizând senzorul de pH al dispozitivului Labdisc. Introduceți sonda succesiv în fiecare vas cu apă, urmăriți valorile afișate în aplicația GlobiLab și notați rezultatele în tabelul de lucru. Comparați valorile obținute și precizați dacă apa este neutră, ușor acidă sau ușor alcalină. Formulați o concluzie privind influența pH-ului asupra ecosistemelor acvatice.
 
@@ -81,13 +80,13 @@ Determinați pH-ul apei din cele trei probe (lac, râu, apă freatică) utilizâ
 
 Determinați concentrația oxigenului dizolvat în probele de apă din lac, râu și apă freatică utilizând senzorul corespunzător. Introduceți sonda în fiecare probă și urmăriți valorile afișate în aplicația GlobiLab. Înregistrați rezultatele în tabel și comparați valorile obținute. Analizați în ce măsură aceste valori influențează gradul de oxigenare al apei și, implicit, supraviețuirea organismelor acvatice.
 
-![Imagine ilustrativă: măsurarea oxigenului dizolvat în probele de apă cu Labdisc](imagini/calitatea-mediului-acvatic-4.jpg)
+![Imagine ilustrativă: măsurarea oxigenului dizolvat în probele de apă cu Labdisc](la-clasa/proiecte/geografie/imagini/calitatea-mediului-acvatic-4.jpg)
 
 **Sarcina de lucru– grupa 3 (conductivitatea apei)**
 
 ● Determinați conductivitatea electrică a apei din cele trei probe (râu, lac și apă freatică) utilizând senzorul dispozitivului Labdisc. Introduceți sonda senzorului succesiv în fiecare probă de apă, observați valorile afișate în aplicația GlobiLab și înregistrați rezultatele în tabelul de analiză. ●Comparați valorile obținute și analizați diferențele dintre acestea.
 
-![Imagine ilustrativă: măsurarea conductivității probelor de apă cu Labdisc](imagini/calitatea-mediului-acvatic-5.jpg)
+![Imagine ilustrativă: măsurarea conductivității probelor de apă cu Labdisc](la-clasa/proiecte/geografie/imagini/calitatea-mediului-acvatic-5.jpg)
 
 ●Prezentați rezultatele obținute de fiecare grupă în urma investigației experimentale.
 

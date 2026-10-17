@@ -9,11 +9,10 @@ modul: "Toamna"
 echipament: ["Labdisc GenSci"]
 fisier_sursa: "Vremea_ Starea_vremii..docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [clase-primare, clasa-ii, iulia-bat]
 ---
 
-*Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -112,18 +111,18 @@ Resurse soft: GlobiLab 3.4.3
 
 ### Etapele experienței
 
-1.  Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](imagini/vremea-starea-vremii-1.png)
+1.  Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-1.png)
 2.  Conectați Labdisc-ul la computer, folosind cablul USB, ori wireless Bluetooth.
 3.  Accesați aplicația Globilab(e necesar s-o descărcați din timp de pe site).
 4.  Faceți clic pe pictogramă și selectați un singur senzor, cel de determinare a temperaturii aerului din interior ; rata de eșantionare: Manual; 10 eșantioane.
 
-![Captură GlobiLab: fereastra de configurare a senzorilor](imagini/vremea-starea-vremii-2.png)
+![Captură GlobiLab: fereastra de configurare a senzorilor](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-2.png)
 
-5.  Apăsați tasta ![tasta Labdisc cu săgeată întoarsă](imagini/vremea-starea-vremii-3.png) pentru a începe experiența.
-6.  Apăsați tasta ![tasta Labdisc cu săgeată circulară](imagini/vremea-starea-vremii-4.png)pentru înregistrarea temperaturii aerului din interiorul clasei.
+5.  Apăsați tasta ![tasta Labdisc cu săgeată întoarsă](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-3.png) pentru a începe experiența.
+6.  Apăsați tasta ![tasta Labdisc cu săgeată circulară](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-4.png)pentru înregistrarea temperaturii aerului din interiorul clasei.
 7.  Efectuați 2-3 măsurări.
 8.  Continuați experiența cu măsurarea temperaturii aerului în hol, în curtea școlii, în zone expuse soarelui și în zone umbrite.
-9.  Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](imagini/vremea-starea-vremii-5.png) pentru a alege tipul graficului(cu bare)![pictograma graficului cu bare](imagini/vremea-starea-vremii-6.png).
+9.  Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-5.png) pentru a alege tipul graficului(cu bare)![pictograma graficului cu bare](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-6.png).
 10. Pentru a adăuga text sau imagini la graficul cu bare, folosiți funcția de adnotare. Faceți clic pe pictograma **A**, apoi mutați cursorul peste una dintre barele roșii și apăsați clic stânga. Se va deschide o fereastră unde puteți introduce text și chiar imagini.
 
-![Captură GlobiLab: graficul cu bare al temperaturii aerului în diferite locuri, cu adnotări](imagini/vremea-starea-vremii-7.png)
+![Captură GlobiLab: graficul cu bare al temperaturii aerului în diferite locuri, cu adnotări](la-clasa/proiecte/clase-primare/imagini/vremea-starea-vremii-7.png)

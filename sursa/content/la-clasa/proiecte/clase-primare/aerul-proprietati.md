@@ -9,11 +9,10 @@ modul: "Aerul, apa și solul"
 echipament: ["Labdisc GenSci"]
 fisier_sursa: "_ Aerul_Proprietăți.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [clase-primare, clasa-iii, iulia-bat]
 ---
 
-*Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Băț Iulia, învățătoare, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -96,7 +95,7 @@ Concluzie: În interiorul seringii se află aer. Odată cu deplasarea pistonului
 
 ## Activitate de cercetare cu Labdisc gensci
 
-![Fotografie de produs: dispozitivul Labdisc GenSci](imagini/aerul-proprietati-1.jpg)
+![Fotografie de produs: dispozitivul Labdisc GenSci](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-1.jpg)
 
 **Aerul.Proprietăți**
 
@@ -118,13 +117,13 @@ Resurse soft: GlobiLab 3.4.3
 
 ### Etapele experienței
 
-1.Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](imagini/aerul-proprietati-2.png)
+1.Porniți Labdisc-ul, apăsând tasta Pornt/Oprit ![tasta Pornit/Oprit a Labdisc-ului](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-2.png)
 
 2.Rotiți inelul de plastic al Labdisk-ului pentru a conecta senzorul.
 
-3.Conectați senzorul pentru determinarea presiunii aerului ![Tubul de plastic al senzorului de presiune](imagini/aerul-proprietati-3.jpg)
+3.Conectați senzorul pentru determinarea presiunii aerului ![Tubul de plastic al senzorului de presiune](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-3.jpg)
 
-situat sub tasta pentru presiunea aerului![Pictograma presiunii aerului de pe Labdisc](imagini/aerul-proprietati-4.png)
+situat sub tasta pentru presiunea aerului![Pictograma presiunii aerului de pe Labdisc](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-4.png)
 
 4\. Umpleți seringa cu aer și conectați-o la tubul de plastic.
 
@@ -134,22 +133,22 @@ situat sub tasta pentru presiunea aerului![Pictograma presiunii aerului de pe La
 
 7\. Faceți clic pe pictogramă și selectați un singur senzor, cel de determinare a presiunii aerului; rata de eșantionare: Manual; 10 eșantioane.
 
-![Captură GlobiLab: fereastra de configurare a senzorilor](imagini/aerul-proprietati-5.png)
+![Captură GlobiLab: fereastra de configurare a senzorilor](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-5.png)
 
-8\. Apăsați tasta ![tasta Labdisc cu săgeată întoarsă](imagini/aerul-proprietati-6.png) pentru a începe experiența.
+8\. Apăsați tasta ![tasta Labdisc cu săgeată întoarsă](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-6.png) pentru a începe experiența.
 
-9\. Apăsați tasta ![tasta Labdisc cu săgeată circulară](imagini/aerul-proprietati-7.png)pentru înregistrarea presiunii aerului.
+9\. Apăsați tasta ![tasta Labdisc cu săgeată circulară](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-7.png)pentru înregistrarea presiunii aerului.
 
-10\. Deplasați pistonul seringii la 15 ml și apăsați tasta ![tasta Labdisc cu săgeată circulară](imagini/aerul-proprietati-7.png). Procedați astfel cu următoarele măsurări: 10 ml, 8 ml, 5 ml.
+10\. Deplasați pistonul seringii la 15 ml și apăsați tasta ![tasta Labdisc cu săgeată circulară](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-7.png). Procedați astfel cu următoarele măsurări: 10 ml, 8 ml, 5 ml.
 
-11\. Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](imagini/aerul-proprietati-8.png) pentru a alege tipul graficului.
+11\. Accesați pictograma ![pictograma GlobiLab pentru alegerea tipului de grafic](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-8.png) pentru a alege tipul graficului.
 
-![Captură GlobiLab: graficul cu bare al presiunii aerului din seringă](imagini/aerul-proprietati-9.png)
+![Captură GlobiLab: graficul cu bare al presiunii aerului din seringă](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-9.png)
 
 12.Pentru a adăuga text sau imagini la graficul cu bare, folosiți funcția de adnotare. Faceți clic pe pictograma **A**, apoi mutați cursorul peste una dintre barele roșii și apăsați clic stânga. Se va deschide o fereastră unde puteți introduce text și chiar imagini.
 
-![Captură GlobiLab: adăugarea unei adnotări pe graficul cu bare](imagini/aerul-proprietati-10.png)
+![Captură GlobiLab: adăugarea unei adnotări pe graficul cu bare](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-10.png)
 
 12.Procedați similar la înscrierea volumului aerului pentru fiecare măsurare.
 
-![Captură GlobiLab: graficul cu bare al presiunii aerului, cu volumul notat pe fiecare bară](imagini/aerul-proprietati-11.png)
+![Captură GlobiLab: graficul cu bare al presiunii aerului, cu volumul notat pe fiecare bară](la-clasa/proiecte/clase-primare/imagini/aerul-proprietati-11.png)

@@ -9,11 +9,10 @@ modul: "Soluțiile. Interacțiunile substanțelor în soluții"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "10_Dizolvarea – proces indispensabil al transformărilor substanțelor din mediu. Solubilitatea substanțelor în apă.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [chimie, clasa-x, aliona-baidan]
 ---
 
-*Secvență de lecție realizată de Baidan Aliona, profesoară de chimie, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Baidan Aliona, profesoară de chimie, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -102,6 +101,6 @@ Elevii accesează link-ul sau codul QR și realizează experimentul.
 
 [https://ghjklrtgf.my.canva.site/c3hy53nek2kmm80s](https://ghjklrtgf.my.canva.site/c3hy53nek2kmm80s)
 
-![Cod QR către pagina activității realizate în Canva](imagini/dizolvarea-solubilitatea-1.png)
+![Cod QR către pagina activității realizate în Canva](la-clasa/proiecte/chimie/imagini/dizolvarea-solubilitatea-1.png)
 
 **Tehnologia realizării:** Experiment chimic; Lucru în grup; Algoritmizare; Experiment chimic digital; Activitate individuală; Discuții ghidate

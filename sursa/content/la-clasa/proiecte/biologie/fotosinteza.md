@@ -9,11 +9,10 @@ modul: "PLANTE"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "lucrare de laborator la clasa 9 Realizarea experimentală a procesului de fotosinteză_1.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [biologie, clasa-ix, irina-chiprisean]
 ---
 
-*Secvență de lecție realizată de Chiprisean Irina – profesoară de biologie grad didactic doi. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Chiprisean Irina – profesoară de biologie grad didactic doi. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 **Tipul lecției:** Lucrare de laborator
 
@@ -122,4 +121,4 @@ Spre deosebire de metodele clasice (cum ar fi numărarea bulelor de gaz la plant
 
 ## Anexă
 
-![Infografic: realizarea experimentelor pentru evidențierea fotosintezei la plante, cu fișa de rezultate](imagini/fotosinteza-1.jpg)
+![Infografic: realizarea experimentelor pentru evidențierea fotosintezei la plante, cu fișa de rezultate](la-clasa/proiecte/biologie/imagini/fotosinteza-1.jpg)

@@ -9,11 +9,10 @@ modul: "Statica Fluidelor"
 echipament: ["Labdisc Physics"]
 fisier_sursa: "2. Determinarea densității unei substanțe necunoscute, aplicând legea lui Arhimede..docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [fizica, clasa-vii, angela-covali]
 ---
 
-*Secvență de lecție realizată de Covali Angela, profesoară de fizică, grad didactic unu. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Covali Angela, profesoară de fizică, grad didactic unu. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 
@@ -91,7 +90,7 @@ Nume, prenume \_\_\_\_\_\_\_\_\_\_ clasa a VII-a \_\_\_\_\_\_\_\_\_\_
 
 ***Formula forței arhimedice*** F<sub>A</sub>=G₁-G₂
 
-![Montajul experimental: corpul suspendat de senzorul de forță Labdisc Dymo, scufundat în paharul cu apă](imagini/densitatea-legea-lui-arhimede-1.jpg)
+![Montajul experimental: corpul suspendat de senzorul de forță Labdisc Dymo, scufundat în paharul cu apă](la-clasa/proiecte/fizica/imagini/densitatea-legea-lui-arhimede-1.jpg)
 
 ***Volumul corpului*** V =F<sub>A</sub>/(ρ<sub>apă</sub> • g)
 

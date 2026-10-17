@@ -9,11 +9,10 @@ modul: "Substanțe pure și amestecuri în viața cotidiană"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "7_Aerul – amestec omogen de substanțe. Compoziția și protecția aerului..docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [chimie, clasa-vii, aliona-baidan]
 ---
 
-*Secvență de lecție realizată de Baidan Aliona, profesoară de chimie, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Baidan Aliona, profesoară de chimie, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ## Unități de competență
 

@@ -9,11 +9,10 @@ modul: "Ecologia și protecția mediului"
 echipament: ["Labdisc BioChem"]
 fisier_sursa: "Ecosistemele artificiale. Agroecosisteme. Clasa 12.docx"
 licenta: "CC BY-SA 4.0"
-draft: true
 tags: [biologie, clasa-xii, ion-chiprisean]
 ---
 
-*Secvență de lecție realizată de Chiprisean Ion – profesor de biologie, grad didactic superior. Licență CC BY-SA 4.0.*
+*Secvență de lecție realizată de Chiprisean Ion – profesor de biologie, grad didactic superior. Licență CC BY-SA 4.0, © 2026 Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”.*
 
 ***„Monitorizarea microclimatului într-un ecosistem artificial (Sera)”***
 
@@ -174,6 +173,6 @@ Privind "Momentele Critice" de mai sus, care este cea mai mare vulnerabilitate a
 
 ## Anexă
 
-![Infografic: lucrare practică, monitorizarea microclimatului într-un ecosistem artificial (seră)](imagini/ecosisteme-artificiale-agroecosisteme-1.jpg)
+![Infografic: lucrare practică, monitorizarea microclimatului într-un ecosistem artificial (seră)](la-clasa/proiecte/biologie/imagini/ecosisteme-artificiale-agroecosisteme-1.jpg)
 
-![Infografic: fișe de centralizare a datelor, monitorizarea microclimatului în seră](imagini/ecosisteme-artificiale-agroecosisteme-2.jpg)
+![Infografic: fișe de centralizare a datelor, monitorizarea microclimatului în seră](la-clasa/proiecte/biologie/imagini/ecosisteme-artificiale-agroecosisteme-2.jpg)
