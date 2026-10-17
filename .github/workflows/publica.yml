@@ -1,0 +1,49 @@
+# Construiește ghidul din sursa/ cu Quartz și îl publică pe GitHub Pages
+# (Settings → Pages → Source: GitHub Actions).
+name: Publică ghidul
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  construieste:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: sursa/package-lock.json
+      - name: Instalează Quartz
+        working-directory: sursa
+        run: npm ci
+      - name: Construiește site-ul
+        working-directory: sursa
+        run: npx quartz build -o ../_site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publica:
+    needs: construieste
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
