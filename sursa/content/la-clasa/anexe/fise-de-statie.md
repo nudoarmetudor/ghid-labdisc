@@ -1,6 +1,6 @@
 ---
-title: Fișele celor trei stații
-description: Trei experimente de fizică cu Labdisc, pentru lucrul pe stații: mișcare, fenomene termice, electricitate.
+title: "Fișele celor trei stații"
+description: "Trei experimente de fizică cu Labdisc, pentru lucrul pe stații: mișcare, fenomene termice, electricitate."
 ordine: 1
 tags: [anexe, fizica]
 ---
