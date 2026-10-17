@@ -51,10 +51,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: stanga,
   right: [
-    Component.Graph({
-      localGraph: { depth: 1, showTags: false },
-      globalGraph: { showTags: false },
-    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
