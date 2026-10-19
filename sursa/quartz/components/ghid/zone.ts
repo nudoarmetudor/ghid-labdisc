@@ -1,5 +1,5 @@
 // Cele două direcții ale ghidului și disciplinele proiectelor, în culorile semnului Future
-// Classroom Lab (BRAND-FCL.md). `culoare` e pentru benzi și chenare; `text` e varianta care
+// Classroom Lab (identitatea FCL). `culoare` e pentru benzi și chenare; `text` e varianta care
 // trece de contrastul AA pe alb, pentru etichete scrise.
 export const DIRECTII: Record<string, { nume: string; culoare: string; text: string }> = {
   formare: { nume: "Formare", culoare: "#00bce4", text: "#0878be" },

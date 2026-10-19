@@ -13,6 +13,15 @@ Interactiv.css = `
 .interactiv-sursa { white-space: pre-wrap; font-size: .85rem; }
 .interactiv-eticheta { margin: .2rem 0 .8rem; font-size: .78rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--secondary); }
 .interactiv-nota { font-size: .85rem; color: var(--gray); margin: .6rem 0 0; }
+.pasi-cadru { margin: .4rem 0 0; outline: none; }
+.pasi-cadru img { display: block; width: 100%; max-width: 520px; height: auto; margin: 0 auto; border-radius: 12px; background: #fff; }
+.pasi-text { text-align: center; font-weight: 600; margin: .6rem 0 0; min-height: 2.6em; }
+.pasi-butoane { display: flex; align-items: center; justify-content: space-between; gap: .4rem; flex-wrap: wrap; }
+.pasi-butoane .interactiv-buton { margin: .6rem 0 0; }
+.pasi-butoane .interactiv-buton:disabled { opacity: .4; cursor: default; }
+.pasi-puncte { display: flex; gap: .45rem; margin-top: .6rem; }
+.pasi-punct { width: 14px; height: 14px; padding: 0; border-radius: 50%; border: 2px solid var(--secondary); background: transparent; cursor: pointer; }
+.pasi-punct.ales { background: var(--secondary); }
 .copiaza-tabel { display: block; margin: 1rem 0 -.6rem auto; font: 600 .85rem var(--bodyFont); min-height: 36px; padding: .3rem .8rem; border-radius: 8px; border: 1px solid var(--secondary); background: var(--light); color: var(--secondary); cursor: pointer; }
 .copiaza-tabel:hover { background: var(--secondary); color: var(--light); }
 .interactiv-buton { font: 600 .92rem var(--bodyFont); min-height: 42px; padding: .5rem 1rem; margin: .6rem .5rem 0 0; border-radius: 10px; cursor: pointer;

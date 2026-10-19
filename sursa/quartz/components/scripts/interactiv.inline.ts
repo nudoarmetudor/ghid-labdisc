@@ -501,7 +501,73 @@ const lori: Construieste = (rad, sursa, id) => {
   rad.append(cap, lista, total, sterge)
 }
 
-const PIESE: Record<string, Construieste> = { quiz, cartonase, ordine, durata, grafic, simulare, lori }
+
+// ---------- pasi ----------
+// Instrucțiuni vizuale pas cu pas: `titlu:`, `plansa:` (opțional), apoi `cale/cadru.svg | textul pasului`
+// pe linii. Căile sunt de la rădăcina conținutului. Un cadru pe rând, cu Înapoi / Mai departe.
+const radacina = () => {
+  const slug = document.body.dataset.slug ?? ""
+  const n = slug.split("/").length - 1
+  return n > 0 ? "../".repeat(n) : "./"
+}
+const pasi: Construieste = (rad, sursa) => {
+  const { meta, corp } = antet(sursa)
+  const cadre = corp
+    .map((l) => l.split("|").map((x) => x.trim()))
+    .filter(([cale, text]) => cale && text && /\.(svg|png|jpe?g|webp)$/i.test(cale))
+  if (cadre.length === 0) return
+  const r = radacina()
+  const cap = el("p", "interactiv-eticheta", meta.titlu ?? "Pas cu pas")
+  const fig = el("figure", "pasi-cadru")
+  const img = el("img") as HTMLImageElement
+  img.decoding = "async"
+  const leg = el("figcaption", "pasi-text")
+  leg.setAttribute("aria-live", "polite")
+  fig.append(img, leg)
+  const puncte = el("div", "pasi-puncte")
+  const inapoi = el("button", "interactiv-buton secundar", "← Înapoi") as HTMLButtonElement
+  const inainte = el("button", "interactiv-buton", "Mai departe →") as HTMLButtonElement
+  inapoi.type = inainte.type = "button"
+  let i = 0
+  const arata = (k: number) => {
+    i = Math.max(0, Math.min(cadre.length - 1, k))
+    img.src = r + cadre[i][0]
+    img.alt = `Pasul ${i + 1}: ${cadre[i][1]}`
+    leg.textContent = `${i + 1}/${cadre.length} · ${cadre[i][1]}`
+    inapoi.disabled = i === 0
+    inainte.textContent = i === cadre.length - 1 ? "De la capăt ↺" : "Mai departe →"
+    puncte.querySelectorAll("button").forEach((b, j) => b.classList.toggle("ales", j === i))
+  }
+  cadre.forEach((c, j) => {
+    const b = el("button", "pasi-punct") as HTMLButtonElement
+    b.type = "button"
+    b.setAttribute("aria-label", `Pasul ${j + 1}: ${c[1]}`)
+    b.addEventListener("click", () => arata(j))
+    puncte.appendChild(b)
+    const pre = new Image()
+    pre.src = r + c[0]
+  })
+  inapoi.addEventListener("click", () => arata(i - 1))
+  inainte.addEventListener("click", () => arata(i === cadre.length - 1 ? 0 : i + 1))
+  fig.tabIndex = 0
+  fig.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowRight") arata(i + 1)
+    if (e.key === "ArrowLeft") arata(i - 1)
+  })
+  const butoane = el("div", "pasi-butoane")
+  butoane.append(inapoi, puncte, inainte)
+  rad.append(cap, fig, butoane)
+  if (meta.plansa) {
+    const a = el("a", "simulare-link", "Toți pașii pe o planșă (SVG, pentru documente și slide-uri) ↗") as HTMLAnchorElement
+    a.href = r + meta.plansa
+    a.target = "_blank"
+    a.rel = "noopener"
+    rad.appendChild(a)
+  }
+  arata(0)
+}
+
+const PIESE: Record<string, Construieste> = { quiz, cartonase, ordine, durata, grafic, simulare, lori, pasi }
 
 document.addEventListener("nav", () => {
   const pagina = window.location.pathname

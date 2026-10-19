@@ -1,0 +1,10 @@
+{
+  "nume": "pornire-labdisc",
+  "titlu": "Porniți Labdisc și citiți un senzor",
+  "pasi": [
+    {"stare": {"tasta": "pwr"}, "gest": {"apasa": "pwr"}, "text": "Apăsați tasta Pornit/Oprit."},
+    {"stare": {"ecran": true, "valoare": "0.0"}, "gest": {"lupa_ecran": ["0.0", "Labdisc pornit"]}, "text": "Ecranul se aprinde."},
+    {"stare": {"ecran": true, "valoare": "0.0", "tasta": "temp"}, "gest": {"apasa": "temp"}, "text": "Apăsați tasta senzorului de temperatură."},
+    {"stare": {"ecran": true, "valoare": "22.5"}, "gest": {"lupa_ecran": ["22.5", "Temperatură, °C"], "bifa": true}, "text": "Pe ecran apare temperatura aerului."}
+  ]
+}

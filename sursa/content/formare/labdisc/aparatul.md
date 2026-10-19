@@ -213,6 +213,17 @@ Aceasta se efectuează după conectarea dispozitivului prin Bluetooth sau cablu 
 
 ## Verificați-vă (adăugat de autorii ghidului)
 
+Înainte de exerciții, pornirea discului pas cu pas:
+
+```pasi
+titlu: Porniți Labdisc și citiți un senzor
+plansa: ilustratii/pornire-labdisc/plansa.svg
+ilustratii/pornire-labdisc/pas-1.svg | Apăsați tasta Pornit/Oprit.
+ilustratii/pornire-labdisc/pas-2.svg | Ecranul se aprinde.
+ilustratii/pornire-labdisc/pas-3.svg | Apăsați tasta senzorului de temperatură.
+ilustratii/pornire-labdisc/pas-4.svg | Pe ecran apare temperatura aerului.
+```
+
 *Secțiunea aceasta nu face parte din ghidul dnei Calistru. Întrebările se sprijină pe textul de mai sus.*
 
 Porturile și intrările discului, pe cartonașe.
