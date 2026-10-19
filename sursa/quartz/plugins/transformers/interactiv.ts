@@ -7,7 +7,7 @@ import { visit } from "unist-util-visit"
 // într-un <pre> (care rămâne vizibil fără JavaScript și la tipărire); scriptul din
 // components/ghid/Interactiv.tsx le construiește în pagină. Formatul fiecărei piese e
 // descris în README, „Piese interactive”.
-export const TIPURI = new Set(["quiz", "cartonase", "ordine", "grafic", "durata", "simulare", "lori"])
+export const TIPURI = new Set(["quiz", "cartonase", "ordine", "grafic", "durata", "simulare", "lori", "pasi"])
 
 const scapa = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;")

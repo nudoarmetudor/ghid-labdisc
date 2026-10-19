@@ -64,6 +64,17 @@ Luați discul în mână și parcurgeți pașii. Detaliile sunt în [[formare/la
 2. Găsiți pe disc tastele, ecranul, porturile și senzorii.
 3. Alegeți un senzor cu tastele de selecție și citiți valoarea direct pe ecran.
 
+Prima pornire, cadru cu cadru. Țineți discul în față și faceți fiecare pas odată cu desenul.
+
+```pasi
+titlu: Porniți Labdisc și citiți un senzor
+plansa: ilustratii/pornire-labdisc/plansa.svg
+ilustratii/pornire-labdisc/pas-1.svg | Apăsați tasta Pornit/Oprit.
+ilustratii/pornire-labdisc/pas-2.svg | Ecranul se aprinde.
+ilustratii/pornire-labdisc/pas-3.svg | Apăsați tasta senzorului de temperatură.
+ilustratii/pornire-labdisc/pas-4.svg | Pe ecran apare temperatura aerului.
+```
+
 > [!warning]- Dacă nu merge
 > Baterie descărcată: puneți discul la încărcat și lucrați între timp cu alt disc. Încărcarea completă durează aproximativ 6 ore, deci discurile se încarcă din ziua dinainte.
 

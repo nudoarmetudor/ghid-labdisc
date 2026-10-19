@@ -8,8 +8,8 @@ secvențele de lecție, profesorii care le-au scris, fiecare pe pagina lui.
 
 ## Identitatea vizuală
 
-Stilul Future Classroom Lab (Clasa Viitorului): culori, logo, tipografie și reguli de scris în
-`BRAND-FCL.md`. Același fișier e șablonul pentru alte materiale făcute la fel.
+Stilul Future Classroom Lab (Clasa Viitorului): culorile FCL în `sursa/quartz.config.ts` și
+`sursa/quartz/styles/custom.scss`, logoul pe placă albă, fontul Open Sans servit de pe site.
 
 ## Cele două părți
 
@@ -59,10 +59,24 @@ desenează cititorul rămâne doar în browserul lui.
 | `durata` | Calculator: rată de eșantionare × număr de eșantioane = durată | bloc gol |
 | `simulare` | Simulare încorporată, se încarcă la clic | `url:`, `titlu:`, `sursa:` |
 | `lori` | Fișă de evaluare LORI, note 1-5, cu media | `Dimensiune :: descriere`, câte una pe linie |
+| `pasi` | Instrucțiuni vizuale pas cu pas: un cadru pe rând, cu Înapoi / Mai departe | `titlu:`, `plansa:` opțional, apoi `ilustratii/<secvență>/pas-1.svg \| textul pasului` pe linii |
 
 Datele unui `grafic` care nu vin dintr-o măsurare reală se marchează în `nota:` ca
 ilustrative. Diagramele se scriu în ```mermaid; o etichetă nu începe cu „1. ” (Mermaid o citește ca listă), scrieți „1 · ” sau „Unitatea 1: ”.
 Un tabel primește singur butonul „Copiază tabelul”. Simulările PhET în română: `https://phet.colorado.edu/sims/html/<sim>/latest/<sim>_ro.html`.
+
+## Ilustrațiile pas cu pas
+
+Desenele aparatelor sunt vectoriale, desenate în cod, nu generate: `ilustratii/piese.py` are
+piesele (Labdisc, săgeata de apăsare, cercul de mărire, bifa), iar o secvență e un fișier JSON în
+`ilustratii/secvente/`. Comanda
+
+```
+python3 ilustratii/genereaza.py ilustratii/secvente/pornire-labdisc.json
+```
+
+scrie cadrele în `sursa/content/ilustratii/<secvență>/` (câte un SVG pe pas și `plansa.svg` cu toți
+pașii). Un pas, o acțiune; acțiunea în portocaliu FCL, restul în gri; același unghi în toate cadrele.
 
 ## Cum se publică
 

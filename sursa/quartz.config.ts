@@ -28,7 +28,7 @@ const config: QuartzConfig = {
         code: "ui-monospace",
       },
       colors: {
-        // Culorile Future Classroom Lab (BRAND-FCL.md): text gri FCL, legături în albastrul
+        // Culorile Future Classroom Lab (identitatea FCL): text gri FCL, legături în albastrul
         // European Schoolnet, accent magenta. Cyanul și verdele-lime nu sunt culori de text.
         lightMode: {
           light: "#ffffff",
